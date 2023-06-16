@@ -1,0 +1,1212 @@
+{
+  "ITEM": {
+    "TypeArmor": "Rüstung",
+    "TypeCult": "Kult",
+    "TypeGear": "Ausrüstung",
+    "TypeHitlocation": "Trefferzone",
+    "TypeHomeland": "Heimatregion",
+    "TypeOccupation": "Beruf",
+    "TypePassion": "Leidenschaft",
+    "TypeRune": "Rune",
+    "TypeRunemagic": "Runenzauber",
+    "TypeShamanicability": "Schamanische Fertigkeit",
+    "TypeSkill": "Fertigkeit",
+    "TypeSorcerymagic": "Zauberspruch ",
+    "TypeSpiritmagic": "Geisterzauber",
+    "TypeWeapon": "Waffe",
+    "TypeReputation": "Ruf"
+  },
+  "RQG": {
+    "ActorCreation": {
+      "AdventurerCreationWizardTitle": "Assistent für Abenteurererstellung",
+      "AdventurerCreationHeaderButton": "Erstelle Abenteurer",
+      "AdvancedOptions": "Erweiterte Optionen",
+      "SkillsTab": "Fertigkeiten",
+      "RunesTab": "Runen",
+      "PassionsTab": "Leidenschaften",
+      "CultureTab": "Kultur",
+      "TribeTab": "Stamm",
+      "ClanTab": "Clan",
+      "CultTab": "Kult",
+      "PassionTab": "Leidenschaften",
+      "Nav": {
+        "0-Species": "Schritt 0:\n Spezies",
+        "1-Homeland": "Schritt 1:\n Heimatregion",
+        "2-FamilyHistory": "Schritt 2:\n Familiengeschichte",
+        "3-RuneAffinities": "Schritt 3:\n Runenaffinitäten",
+        "4-Characteristics": "Schritt 4:\n Eigenschaften",
+        "5-Occupation": "Schritt 5:\n Beruf",
+        "6-Cult": "Schritt 6:\n Kult",
+        "7-PersonalSkillBonuses": "Schritt 7:\n Persönliche Fertigkeitsboni",
+        "8-OtherInformation": "Schritt 8:\n Weitere Informationen",
+        "9-complete-creation": "Schritt 9:\n Stelle Charakter fertig"
+      },
+      "Step0": {
+        "ChooseSpecies": "Wähle eine Spezies",
+        "SpeciesDescription": "Speziesbeschreibung",
+        "BackgroundAndNotes": "Hintergrund und Anmerkungen",
+        "SelectSpeciesSkills": "Wähle Fertigkeiten der Spezies",
+        "SelectSpeciesRunes": "Wähle Runen der Spezies",
+        "SelectSpeciesPassions": "Wähle Leidenschaften der Spezies"
+      },
+      "Step1": {
+        "ChooseHomeland": "Wähle eine Heimatregion",
+        "HomelandDescription": "Beschreibung der Heimatregion",
+        "RegionDescription": "Beschreibung der Region",
+        "HomelandWizardInstructions": "Instruktionen für die Heimatregion",
+        "SelectHomelandCulture": "Wähle Kultur der Heimatregion",
+        "SelectHomelandTribe": "Wähle einen Stamm aus der Kultur",
+        "SelectHomelandClan": "Wähle einen Clan aus dem Stamm",
+        "SelectHomelandSkills": "Wähle Fertigkeiten zur Heimatregion",
+        "SelectHomelandCult": "Wähle Kult zur Heimatregion",
+        "SelectHomelandPassions": "Wähle Leidenschaften zur Heimatregion",
+        "SelectHomelandRunes": "Wähle Runen zur Heimatregion",
+        "ImportCultureTitle": "Importiere Kultur: \"{name}\"",
+        "ImportTribeTitle": "Importiere Stamm: \"{name}\"",
+        "ImportClanTitle": "Importiere Clan: \"{name}\"",
+        "ImportCultTitle": "Importiere Kult: \"{name}\"",
+        "ImportRuneTitle": "Importiere Rune: \"{name}\""
+      },
+      "Step9": {
+        "Prompt": "<p>Klicke unten auf den Button um die Charaktererstellung abzuschließen. Der Button \"Erzeuge Abenteurer\" wird im Kopf des Charakterbogens wird anschließend nicht mehr angezeigt werden.</p><p>Viel Spaß bei deinen Abenteuern und mögen die Götter und Geister Dir beistehen!</p>",
+        "SetAdventurerCreationCompleteButton": "Abenteurer fertigstellen"
+      }
+    },
+    "Actor": {
+      "Attributes": {
+        "AlliesAndNotes": "Verbündete & Anmerkungen",
+        "StrikeRank": "Aktionsrang",
+        "SizeAbbr": "GRÖ",
+        "DexterityAbbr": "GES",
+        "MagicPoints": "Magiepunkte",
+        "CreatureQ": "Kreatur?",
+        "MovementAbbr": "BW",
+        "EncumbranceAbbr": "BEL",
+        "EncumbranceFactor": "BEL Faktor",
+        "HeroPoints": "Heldenpunkte",
+        "Health": {
+          "healthy": "Gesund",
+          "wounded": "Verletzt",
+          "shock": "Schock",
+          "unconscious": "Bewusstlos",
+          "dead": "Tot"
+        },
+        "MoveMode": {
+          "walk": "Gehen",
+          "swim": "Schwimmen",
+          "fly": "Fliegen"
+        }
+      },
+      "AwardExperience": {
+        "GainedExperienceInfo": "{actorName} hat soeben einen Erfahrungsmarker für {itemName} erhalten!",
+        "ItemDoesntHaveExperienceError": "Versuch Erfahrungsmarker zu setzen für die Eigenschaft \"{itemName}\" mit id \"{itemId}\" nicht möglich, Eigenschaft verfügt nicht über das Feld \"hasExperience\".",
+        "ItemNotFoundError": "Versuch Erfahrungsmarker zu setzen für eine Eigenschaft mit der id \"{itemId}\" die nicht auf dem Akteur \"{actorName}\" mit Akteur id \"{actorId}\" gefunden werden konnte."
+      },
+      "Background": {
+        "Background": "Hintergrund",
+        "Origin": "Herkunft",
+        "BaseData": "Basisdaten",
+        "BirthYear": "Geburtsjahr",
+        "Age": "Alter",
+        "Gender": "Geschlecht",
+        "Species": "Spezies",
+        "DropSpeciesJournalEntryGM": "Ziehe einen Notizbucheintrag nach hier oder verwende den Assistent für die Erzeugung eines neuen Abenteurers.",
+        "DropSpeciesJournalEntryPlayer": "Dies wird durch die SL oder durch den Assistent für die Erzeugung eines neuen Abenteurers befüllt.",
+        "TownHomeArea": "Stadt / Heimatregion",
+        "Tribe": "Stamm",
+        "Clan": "Clan",
+        "Circumstance": "Umstände",
+        "Reputation": "Ruf",
+        "StandardOfLiving": "Lebensstandard",
+        "BaseIncome": "Grundeinkommen",
+        "Ransom": "Lösegeld",
+        "RansomDetails": "Details zum Lösegeld",
+        "Cultures": "Kultur(en)",
+        "Tribes": "Stamm/Stämme",
+        "Clans": "Clan(s)",
+        "Region": "Region",
+        "Homeland": {
+          "Heading": "Heimatregion",
+          "aggar": "Aggar",
+          "balazar": "Balazar",
+          "beastValley": "Tiertal",
+          "bilini": "Bilini",
+          "blackHorseCounty": "Schwarzpferdland",
+          "dagoriInkarth": "Dagori Inkarth",
+          "dragonPass": "Drachenpass",
+          "dryadWoods": "Dryadenwälder",
+          "esrolia": "Esrolia",
+          "grazelands": "Graslande",
+          "hendrikiland": "Hendrikiland",
+          "heortland": "Heortland",
+          "holay": "Holay",
+          "imither": "Imither",
+          "lunarTarsh": "Lunares  Tarsch",
+          "oldTarsh": "Alt-Tarsch",
+          "prax": "Prax",
+          "sartar": "Sartar",
+          "shadowPlateau": "Schattenplateau",
+          "stinkingForest": "Stinkender Wald",
+          "trollWoods": "Trollwälder",
+          "vansh": "Vansh",
+          "habitatChaosArea": "Lebensraum: Chaosgebiet",
+          "habitatForest": "Lebensraum: Wald",
+          "habitatGlacier": "Lebensraum: Gletscher",
+          "habitatMarshSwamp": "Lebensraum: Marsch / Sumpf",
+          "habitatMountainsHills": "Lebensraum: Berge / Hügel",
+          "habitatPlains": "Lebensraum: Prärie",
+          "habitatSky": "Lebensraum: Sky",
+          "habitatSpiritPlane": "Lebensraum: Spirit Plane",
+          "habitatUnderground": "Lebensraum: Unterirdisch",
+          "habitatWaterSea": "Lebensraum: Wasser / Meer"
+        },
+        "Occupation": {
+          "Heading": "Aktueller Beruf",
+          "": " ",
+          "assistantShaman": "Schamanengehilfe",
+          "chariotDriver": "Wagenlenker",
+          "crafter": "Handwerker",
+          "bandit": "Bandit",
+          "entertainer": "Unterhaltungskünstler",
+          "farmer": "Bauer",
+          "fisher": "Fischer",
+          "healer": "Heiler",
+          "herder": "Hirte",
+          "hunter": "Jäger",
+          "merchant": "Händler",
+          "noble": "Adliger",
+          "philosopher": "Philosoph",
+          "priest": "Priester",
+          "scribe": "Schreiber",
+          "thief": "Dieb",
+          "warriorHeavyInfantry": "Krieger Schwere Infanterie",
+          "warriorLightInfantry": "Krieger Leichte Infanterie",
+          "warriorHeavyCavalry": "Krieger Schwere Kavallerie",
+          "warriorLightCavalry": "Krieger Leichte Kavallerie"
+        }
+      },
+      "Characteristics": {
+        "Characteristic": "Eigenschaften",
+        "format": "{name} ({abbr})",
+        "strength": "STÄ",
+        "constitution": "KON",
+        "size": "GRÖ",
+        "dexterity": "GES",
+        "intelligence": "INT",
+        "power": "MAN",
+        "charisma": "CHA",
+        "strength-full": "Stärke",
+        "constitution-full": "Konstitution",
+        "size-full": "Größe",
+        "dexterity-full": "Geschicklichkeit",
+        "intelligence-full": "Intelligenz",
+        "power-full": "Mana",
+        "charisma-full": "Charisma"
+      },
+      "Combat": {
+        "DamageBonus": "Schadensbonus",
+        "StrDexMinsNotMetTip": "Der Charakter verfügt nicht über STÄ und/oder GES-Minimum für diese Waffe. Verwendung mit halber Fertigkeitswahrscheinlichkeit.",
+        "StrMinNotMetTip": "Der Charakter verfügt nicht über STÄ-Minimum für diese Waffe. Verwendung mit halber Fertigkeitswahrscheinlichkeit.",
+        "DexMinNotMetTip": "Der Charakter verfügt nicht über GES-Minimum für diese Waffe. STÄ über STÄ-Minimum kann dies mit 2 Punkten STÄ für einen Punkt GES ausgleichen, alternativ Verwendung mit halber Fertigkeitswahrscheinlichkeit.",
+        "Weapon": "Waffe",
+        "HP": "TP",
+        "Chance": "Wahrscheinlichkeit",
+        "Damage": "Schaden",
+        "SR": "AR",
+        "Dodge": "Ausweichen",
+        "SpiritCombat": "Geisterkampf",
+        "SpiritCombatDamage": "Geisterkampfschaden",
+        "SetSRInCombatTracker": "Setze AR in Begegnung",
+        "ProjectileWeaponAmmoNotSelectedAlert": "keine Munition",
+        "ProjectileWeaponAmmoNotSelectedTip": "Bearbeite diese Waffe um Munition auszuwählen!"
+      },
+      "Gear": {
+        "ViewByItemType": "Anzeige nach Typ",
+        "ViewByLocation": "Anzeige nach Ort",
+        "Gear": "Ausrüstung",
+        "Armor": "Rüstung",
+        "Consumables": "Verbrauchsmaterialien",
+        "Currency": "Geld",
+        "WeaponsAndShields": "Waffen & Schilde",
+        "CurrencyConversionTipOver1": "Ein {name} ist {value} Lunare wert.",
+        "CurrencyConversionTipLunar": "Lunare sind der Basiswert für Währungen.",
+        "CurrencyConversionTipUnder1": "Ein Lunar ist {value} {name} wert.",
+        "Name": "Name",
+        "EncumbranceAbbr": "BEL",
+        "Location": "Ort",
+        "Price": "Preis",
+        "Total": "Gesamt",
+        "QuantityAbbr": "Menge",
+        "ExtendedAbbr": "Erw.",
+        "Skill": "Fertigkeit",
+        "Damage": "Schaden",
+        "MinimumStrength": "STÄ",
+        "MinimumDexterity": "GES",
+        "HitPointsAbbr": "TP",
+        "Absorbs": "Schutzwert",
+        "HitLocations": "Trefferzonen",
+        "MoveQuietlyPenalty": "- Schleichen",
+        "LocationLoop": "Die Ausrüstungsgegenstände haben eine zirkuläre Abhängigkeit: {loopItems}."
+      },
+      "Health": {
+        "Health": "Gesundheit",
+        "TotalHitPoints": "Trefferpunkte",
+        "HealingRatePerWeek": "Heilungsrate {healingRate}/Woche",
+        "HitLocation": "Trefferzone",
+        "HitPointsAbbr": "TP",
+        "ArmorPointsAbbr": "SW",
+        "Wounds": "Wunden",
+        "HealWound": "Heile Wunde",
+        "AddWound": "Neue Wunde",
+        "NoHitLocations": "Dieser Charakter hat keine Trefferzonen, bitte füge welche hinzu.",
+        "FlipSortOrder": "Reihenfolge der Trefferzonen umkehren"
+      },
+      "Nav": {
+        "Combat": "Kampf",
+        "Runes": "Runen",
+        "SpiritMagic": "Geistermagie",
+        "RuneMagic": "Runenmagie",
+        "Sorcery": "Zauberei",
+        "Skills": "ertigkeiten",
+        "Gear": "Ausrüstung",
+        "Passions": "Leidenschaften",
+        "Background": "Hintergrund",
+        "ActiveEffects": "AE 🧪"
+      },
+      "Notification": {
+        "NotActorOwnerWarn": "Du bist nicht der Eigentümer von {actorName} und kannst keine Gegenstände auf diesem Charakterbogen ablegen",
+        "DraggedItemNotFoundError": "Quelle für abgelegten GEgenstand nicht gefunden!",
+        "CantMakeItemDataSourceError": "ItemDataSource kann nicht von abgelegtem Gegenstand mit der id [{itemId}] erzeugt werden",
+        "NoIncomingItemDataSourceError": "Kein verfügbare Datenquelle für Gegenstand!",
+        "IncomingItemDataSourceNotPhysicalItemError": "Eingehende Datenquelle für Gegenstand repräsentiert keinen physischen Gegenstand mit Anzahl!",
+        "CantTransferLessThanOneItemError": "Es kann nicht weniger als ein Gegenstand transferiert werden!",
+        "CantTransferMoreThanSourceOwnsError": "Es können nicht mehr {itemName} transferiert werden, als ${sourceActorName} im Inventar hat."
+      },
+      "Passion": {
+        "Passions": "Leidenschaften",
+        "AddNewPassionTip": "Neue Leidenschaft",
+        "BackStory": "Hintergrund",
+        "ImportPassionCheckboxTitle": "Importiere Leidenschaft: \"{passionName}\""
+      },
+      "Rune": {
+        "Condition": "Zustand",
+        "Elemental": "Element",
+        "Form": "Form",
+        "Power": "Kraft"
+      },
+      "RuneMagic": {
+        "EmbeddingRuneMagicWithoutCultWarning": "{characterName} muss einem Kult beitreten, ehe er den Runenzauber {spellName} lernen kann",
+        "EditRuneMagicSpellTitle": "Bearbeite Runenzauber",
+        "DeleteRuneMagicSpellTitle": "Lösche Runenzauber",
+        "ChooseCultForRuneSpell": "Wähle Kult für Runenzauber {name}",
+        "CommonRuneMagicTooltip": "Allgemeine Runenmagie",
+        "CultRankLabel": "Kultrang",
+        "RunePoints": "Runenpunkte",
+        "HolyDays": "Feiertage",
+        "Gifts": "Gaben",
+        "Geases": "Geasa",
+        "SubCults": "Unterkulte",
+        "RuneSpell": "Runenzauber",
+        "Points": "Punkte",
+        "Range": "Reichweite",
+        "Duration": "Dauer",
+        "Ritual": "Ritual",
+        "Enchantment": "Verzauberung",
+        "Stackable": "Summierbar",
+        "OneUse": "Einmal einsetzbar",
+        "Chance": "Erfolgswahrscheinlichkeit",
+        "CultRank": {
+          "layMember": "Laienmitglied",
+          "initiate": "Initiiert",
+          "godTalker": "Gottsprecher",
+          "runePriest": "Runenpriester",
+          "runeLord": "Runenlord",
+          "chiefPriest": "Oberpriester",
+          "highPriest": "Hohepriester"
+        }
+      },
+      "Skill": {
+        "UnspecifiedSkillWarning": "⚠ Bitte die fehlende Fertigkeitsspezialisierung benennen:",
+        "SkillDescriptionTitle": "Fertigkeitsbeschreibung",
+        "ImportSkillCheckboxTitle": "Importiere Fertigkeit: \"{skillName}\"",
+        "SkillCategory": {
+          "agility": "Gewandtheit",
+          "communication": "Kommunikation",
+          "knowledge": "Wissen",
+          "magic": "Magie",
+          "manipulation": "Handhabung",
+          "perception": "Wahrnehmung",
+          "stealth": "Heimlichkeit",
+          "otherSkills": "Andere Fertigkeiten",
+          "meleeWeapons": "Nahkampfwaffen",
+          "missileWeapons": "Fernkampfwaffen",
+          "shields": "Schilde",
+          "naturalWeapons": "Natürl. Waffen"
+        }
+      },
+      "Sorcery": {
+        "FreeINT": "Freie INT",
+        "Techniques": "Techniken",
+        "MasteredRunes": "Gemeisterte Runen"
+      },
+      "SpiritMagic": {
+        "SpiritMagic": "Geistermagie",
+        "CHALimitFormula": "{points} Punkte Geistermagie mit {CHALimit} CHA-Grenze",
+        "Name": "Name",
+        "SpellFocus": "Fokus",
+        "Points": "Punkte",
+        "Variable": "Variabel",
+        "Range": "Reichweite",
+        "Duration": "Dauer",
+        "Concentration": "Konzentration",
+        "Ritual": "Ritual",
+        "Enchantment": "Verzauberung"
+      }
+    },
+    "ContextMenu": {
+      "ImproveItem": "Steigere {itemType}",
+      "EditItem": "Bearbeite {itemType}",
+      "DeleteItem": "Lösche {itemType}",
+      "ToggleExperience": "Erfahrungsmarker umschalten",
+      "InitializeCharacteristic": "Initialisiere Eigenschaft",
+      "CharacteristicInitialized": "{characteristicName} für {actorName} initialisiert",
+      "InitializeAllCharacteristics": "Initialisiere alle Eigenschaften",
+      "AllCharacteristicsInitialized": "Alle Eigenschaften für {actorName} initialisiert",
+      "SetAllCharacteristicsToAverage": "Setze alle Eigenschaften auf Durchschnitt",
+      "AllCharacteristicsSetToAverage": "Alle Eigenschaften für {actorName} auf Durchschnitt gesetzt",
+      "InitializeResultChat": "Initialisiere {char}",
+      "OverwriteCharacteristicDialogTitle": "Überschreibe {characteristicName} für {actorName}?",
+      "OverwriteCharacteristicDialog": "Möchtest du den Wert für {characteristicName} überschreiben? Dies wird eine Neuberechnung aller abgeleiteten Eigenschaften, wie Trefferpunkte, Magiepunkte, Aktionsränge, und Fertigkeitskategorien, die von {characteristicName} abhängig sind, auslösen.",
+      "OverwriteAllCharacteristicsDialogTitle": "Überschreibe alle Eigenschaften für {actorName}?",
+      "OverwriteAllCharacteristicsDialog": "Möchtest du aktuellen Wert für alle Eigenschaften überschreiben? Dies wird eine Neuberechnung aller abgeleiteten Eigenschaften, wie Trefferpunkte, Magiepunkte, Aktionsränge, und abhängigen Fertigkeitskategorien auslösen.",
+      "ViewDescription": "Beschreibung anzeigen",
+      "SetAsNotCarried": "Markiere als nicht getragen",
+      "SetAsCarried": "Markiere als getragen",
+      "SetAsEquipped": "Markiere als ausgerüstet",
+      "SplitIntoNewLocation": "Teile in neuen Ort",
+      "EditPassionBackstory": "Bearbeite Hitergrund für Leidenschaft",
+      "Notification": {
+        "DatasetNotFound": "Datensatz für Eigenschaft konnte nicht gefunden werden",
+        "CharacteristicNotFound": "Die Eigenschaft mit dem Namen \"{characteristicName}\" konnte in Akteur {actorName} nicht gefunden werden, um eine Aktion aus dem Eigenschafts-Kontextmenü auszuführen.",
+        "CantToggleExperienceError": "Eigenschaft/Fertigkeit mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um einen aus dem Kampfkontextmenü 'Erfahrungsmarker umschaltenzu nutzen.",
+        "CantShowItemSheetError": "Fertigkeit mit itemId [{skillItemId}] konnte in Akteur {actorName} nicht gefunden werden, um den Fertigkeitselementbogen aus dem Kampfkontextmenü heraus anzuzeigen.",
+        "CantShowWeaponSheetError": "Waffe mit itemId [{weaponItemId}] konnte in Akteur {actorName} nicht gefunden werden, um den Waffenbogen aus dem Kampfkontextmenü heraus anzuzeigen.",
+        "CantDeleteSkillError": "Fertigkeit mit itemId [{skillItemId}] konnte in Akteur {actorName} nicht gefunden werden, um das Fertigkeitselement über das Kampfkontextmenü zu löschen.",
+        "CantDeleteWeaponError": "Waffe mit itemId [{weaponItemId}] konnte in Akteur {actorName} nicht gefunden werden, um das Waffenelement über das Kampfkontextmenü zu löschen.",
+        "CantEditCultError": "Kult mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um das Kultelement über das Kultkontextmenü zu bearbeiten.",
+        "CantEditGearError": "Ausrüstungsgegenstand mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um das Element über das Ausrüstungskontextmenü zu bearbeiten.",
+        "CantEditHitLocationError": "Trefferzone mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um die Trefferzone über das Gesundheitskontextmenü zu bearbeiten.",
+        "CantDirectRollPassionError": "Leidenschaft mit itemId [{itemId}] oder Wahrscheinlichkeit (item.system.chance) konnte in Akteur {actorName} nicht gefunden werden, um einen direkten Wurf auf diese Leidenschaft über das Kontextmenü auszulösen.`",
+        "CantToggleExperiencePassionError": "Leidenschaft mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um den Erfahrungsmarker für diese Leidenschaft über das Kontextmenü umzuschalten.",
+        "CantImprovePassionError": "Leidenschaft mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um die Leidenschaft über das Kontextmenü zu steigern.",
+        "CantEditPassionError": "Leidenschaft mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um die Leidenschaft über das Kontextmenü zu bearbeiten.",
+        "CantEditRuneError": "Rune mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um die Rune über das Kontextmenü zu bearbeiten.",
+        "CantRollQuickSkillError": "Element [{itemId}] in Akteur {actorName} verfügt nicht über eine Wahrscheinlichkeit mit der eine direkte Probe auf eine Fertigkeit über das Kontextmenü ausgelöst werden kann.",
+        "CantEditSpiritMagicError": "Geisterzauber mit itemId [{itemId}] konnte in Akteur {actorName} nicht gefunden werden, um den Geisterzauber über das Kontextmenü zu bearbeiten."
+      }
+    },
+    "Dialog": {
+      "BatchRqidEditor": {
+        "Title": "System ID (Rqid) Stapelverarbeitung",
+        "ExistingRqidsHeader": "Vorhandene Rqids",
+        "NewRqid": "- Benutzerdef. System ID -",
+        "SummaryDefault": "Das RQG System verwendet eine  System ID (Rqid). Dies erlaubt es dem System FoundryVTT Dokumente, wie Fertigkeiten und Runen, zu identifizieren. Diese Seite ermöglicht es die ID für vorhandene {type}-Dokumente zu setzen, die noch keine Rqid haben. Die Rqid sollte die englische Form des Namens verwenden, um die Addressierung über mehrere Sprachen unabhängig von der Übersetzung zu ermöglichen.",
+        "SummarySkill": "Das RQG System verwendet eine  System ID (Rqid). Dies erlaubt es dem System FoundryVTT Dokumente, z.B. Fertigkeiten, zu identifizieren. Diese Seite ermöglicht es die ID für vorhandene Fertigkeitsdokumente zu setzen, die noch keine Rqid haben. Die Rqid sollte die englische Form des Namens verwenden, um die Addressierung über mehrere Sprachen unabhängig von der Übersetzung zu ermöglichen.<br><br><b>Aktuell benötigen nur Waffenfertigkeiten, sowie 'Ausweichen', 'Springen', 'Schleichen' und 'Geisterkampf' eine Rqid, das heißt bei allen anderen kann diese frei bleiben.</b>",
+        "SummaryRuneMagic": "Das RQG System verwendet eine  System ID (Rqid). Dies erlaubt es dem System FoundryVTT Dokumente, z.B. Fertigkeiten, zu identifizieren. Diese Seite ermöglicht es die ID für vorhandene Runenmagie-Dokumente zu setzen, die noch keine Rqid haben. Die Rqid sollte die englische Form des Namens verwenden, um die Addressierung über mehrere Sprachen unabhängig von der Übersetzung zu ermöglichen.<br><br><b>Aktuell benötigen nur die Allgemeinen Runenzauber eine Rqid (Feind erkennen, Geisterblockade, Geweihter Boden, Kombinieren, Kultgeist befehligen, Kultgeist beschwören, Magie bannen, Orakel, Schutzzone, Seelenblick, Verlängern und Wundheilung)</b>",
+        "ButtonUpdate": "Aktualisieren"
+      },
+      "Common": {
+        "yes": "ja",
+        "no": "nein",
+        "btnYes": "Ja",
+        "btnNo": "Nein",
+        "btnCancel": "Abbrechen",
+        "btnConfirm": "Bestätigen",
+        "OtherModifiers": "Sonstige Modifikatoren",
+        "RollFormat": "Probe auf ({chance}%)",
+        "CantFindChatMessageError": "CantFindChatMessageError"
+      },
+      "characteristicChat": {
+        "ChatFlavor": "Eigenschaft: {name} ({value})",
+        "RollFlavor": "{difficulty} Probe auf {name}",
+        "RollFlavorModifier": "<br/>mit {modifier} sonstigen Modifikatoren"
+      },
+      "confirmCopyIntangibleItem": {
+        "title": "Wirklich {itemName} an {targetActor} geben?",
+        "header": "Wirklich {itemName} an {targetActor} geben?",
+        "btnCopy": "Kopieren",
+        "ReallyCopyIntangibleItem": "Wirklich {itemName} von {sourceActor} zu {targetActor} kopieren?"
+      },
+      "confirmTransferPhysicalItem": {
+        "title": "Wirklich {itemName} an {targetActor} geben?",
+        "header": "Wirklich {itemName} an {targetActor} geben?",
+        "btnGive": "Geben",
+        "ReallyGiveItemSingle": "Wirklich {itemName} an {targetActor} geben?  Es wird aus {sourceActor}s Inventar entfernt.",
+        "ReallyGiveItemQuantity": "Wirklich {itemName} an {targetActor} geben? Sie werden aus {sourceActor}s Inventar entfernt or die Menge in {sourceActor}s Inventar wird reduziert.",
+        "GiveHowMany": "Wieviele {itemName} an {targetActor} geben?  {sourceActor}s Inventar für diesen Gegenstand wird um die gewählte Menge reduziert oder der GEgenstand wird entfernt, sofern die maximale Menge von {maxQty} angegeben wird."
+      },
+      "itemChat": {
+        "RollFlavor": "Probe auf{name}",
+        "RollFlavorModifier": "<br/>mit {modifier} sonstigen Modifikatoren"
+      },
+      "reputationChat": {
+        "CheckReputationFlavor": "Probe auf Ruf",
+        "Reputation": "Ruf"
+      },
+      "spiritMagicChat": {
+        "CantCastSpellAboveLearnedLevel": "Zauber kann nicht auf höherer Stufe als gelernt gewirkt werden.",
+        "NotEnoughMagicPoints": "Nicht ausreichend Magiepunkte verfügbar um diesen Zauber zu wirken.",
+        "SuccessfullyCastInfo": "Geisterzauber erfolgreich mit {amount} Magiepunkten gewirkt.",
+        "ChatFlavor": "Geisterzauber: {name}",
+        "Cast": "Wirke {spellName}",
+        "Level": "Stufe",
+        "Boost": "Verstärken"
+      },
+      "confirmItemDeleteDialog": {
+        "title": "Entferne {itemType}: {itemName}",
+        "content": "Bist du sicher, dass du {itemName} vom Typ {itemType} entfernen möchtest?",
+        "contentCult": "Bist du sicher, dass du {itemName} vom Typ {itemType} entfernen möchtest? Dies wird auch alle {runeMagicSpell} entfernen, die mit {itemType} assoziiert sind."
+      },
+      "improveAbilityDialog": {
+        "title": "Steigerung für {typeLocName} \"{name}\"",
+        "titleChar": "Steigerung der Eigenschaft \"{name}\"",
+        "header": "Steigere {name}",
+        "fromExperience": ". . . durch Erfahrung",
+        "chanceToGain": "{chanceToGain}% Chance auf Zugewinn",
+        "experienceGainFixed": "Zugewinn 3%",
+        "experienceGainRandom": "Zugewinn 1d6%",
+        "noExperienceCheckTitle": "Kein Erfahrungsmarker",
+        "noExperienceCheckExplanation": "Der Charakter hat keinen Erfahrungsmarker für diese {typeLocName} und kann daher nicht aufgrund von Erfahrung steigern.",
+        "throughTraining": ". . . durch Training",
+        "afterTraining": "Nach Training",
+        "gain": "Zugewinn {gain}%",
+        "gainChar": "Zugewinn {gain}",
+        "throughResearch": ". . . durch Selbststudium",
+        "skillOver75Title": "Fertigkeit über 75%",
+        "skillOver75Explanation": "Eine Fertigkeit über 75% kann nicht mehr durch Training gesteigert werden.",
+        "speciesMaxTitle": "Auf Spezies-Maximum {name}",
+        "speciesMaxExplanation": "du bist bereits auf dem Maximum der Spezies für {name} und kannst daher nicht mehr steigern.",
+        "btnDoImprovement": "Steigerung anwenden",
+        "btnCancel": "Abbruch",
+        "experienceRoll": {
+          "flavor": "{actorName} macht eine Erfahrungsprobe für {typeLocName} \"{name}\"",
+          "contentSkill": "Wirf 1W100 und addiere den Modifikator für die Fertigkeitskategorie ({mod}). Erfolg bei einem modifizierten Ergebnis ÜBER dem aktuellen Wert für {typeLocName} \"{name}\" von {skillChance}% oder bei einer 100.",
+          "contentOther": "Wirf 1W100. Erfolg bei einem modifizierten Ergebnis ÜBER dem aktuellen Wert für {typeLocName} \"{name}\" von {skillChance}% oder bei einer 100.",
+          "contentChar": "Wirf 1W100 und erhalte eine Steigerung bei einem Ergebnis KLEINER ODER GLEICH {chanceToGain}%. Dies basiert auf em Speziesmaximum der Eigenschaft der Spezeis {speciesMax} minus den Wert der Eigenschaft \"{name}\" von {chance} mal fünf."
+        },
+        "experienceResultChat": {
+          "flavor": "Erfahrungsgewinn für {typeLocName} \"{name}\" erfolgreich",
+          "contentChoseFixed": "Wähle fixen Zugewinn von {gain}.",
+          "contentChoseRandom": "Wähle Zugewinn von {gain}."
+        },
+        "experienceGainFailed": {
+          "flavor": "Erfahrungsgewinn für {typeLocName} \"{name}\" nicht erfolgreich",
+          "content": "{actorName} hat nicht aus Erfahrung gelernt und der Erfahrungsmarker bei {typeLocName} \"{name}\" wurde entfernt."
+        },
+        "trainingResultChat": {
+          "flavor": "Erfahrungsgewinn aus Training für {typeLocName} \"{name}\"",
+          "contentChoseFixed": "Wähle fixen Zugewinn von {gain}.",
+          "contentChoseRandom": "Wähle Zugewinn von {gain}."
+        },
+        "researchRoll": {
+          "flavor": "{actorName} macht eine Probe auf Erfahrungsgewinn durch Selbststudium für {typeLocName} \"{name}\"",
+          "contentChar": "Wirf 1W100 und erhalte eine Steigerung bei einem Ergebnis KLEINER ODER GLEICH {chanceToGain}%. Dies basiert auf em Speziesmaximum der Eigenschaft der Spezeis {speciesMax} minus den Wert der Eigenschaft \"{name}\" von {chance} mal fünf."
+        },
+        "researchResultChat": {
+          "flavor": "Erfahrungsgewinn durch Selbststudium für {typeLocName} \"{name}\" erfolgreich",
+          "contentChoseRandom": "Wähle Zugewinn von {gain}."
+        },
+        "researchGainFailed": {
+          "flavor": "Erfahrungsgewinn durch Selbststudium für {typeLocName} \"{name}\" nicht erfolgreich",
+          "content": "{actorName} hat aus dem Selbststudium von {typeLocName} \"{name}\" nichts gelernt."
+        },
+        "notifications": {
+          "noExperience": "{actorName} hat keinen Erfahrungsmarker für {typeLocName} \"{name}\" und kann aktuell keine Erfahrung hinzugewinnen."
+        }
+      },
+      "runeMagicChat": {
+        "MissingJournalLinkTitle": "Bearbeite den Spruch und die Beschreibung um hier einen Link ins Notizbuch zu haben!",
+        "CastUsingRune": "Wirke mir Rune",
+        "RuneHasExperienceTitle": "Hat Erfahrungsmarker",
+        "RunePointCost": "Runenpunktkosten",
+        "OneUseWarning": "Einmalig einsetzbar!",
+        "OneUseWarningTip": "Das Wirken dieses Runenzaubers wird sowohl die aktuellen, als auch die maximalen Runenpunkte für den Kult reduzieren!",
+        "MagicPointBoost": "Verstärkung mit Magiepunkten",
+        "MeditationOrRitual": "Meditation oder Ritual",
+        "MeditationOrRitualValue0": "Keine",
+        "MeditationOrRitualValue5": "Meditation: 1 Kampfrunde, +5% Bonus",
+        "MeditationOrRitualValue10": "Meditation: 2 Kampfrunden, +10% Bonus",
+        "MeditationOrRitualValue15": "Meditation: 5 Kampfrunden (1 Minute), +15% Bonus",
+        "MeditationOrRitualValue20": "Meditation: 25 Kampfrunden (5 Minuten), +20% Bonus",
+        "MeditationOrRitualValue25": "Meditation: 50 Kampfrunden (10 Minuten), +25% Bonus",
+        "MeditationOrRitualValue30": "Ritual: 30 Minuten, +30% Bonus",
+        "MeditationOrRitualValue35": "Ritual: 1 Stunde, +35% Bonus",
+        "MeditationOrRitualValue40": "Ritual: 5 Stunden, +40% Bonus",
+        "MeditationOrRitualValue45": "Ritual: 10 Stunden, +45% Bonus",
+        "MeditationOrRitualValue50": "Ritual: 1 Tag, +50% Bonus",
+        "MeditationOrRitualValue55": "Ritual: 2 Tage, +55% Bonus",
+        "MeditationOrRitualValue60": "Ritual: 1 Woche, +60% Bonus",
+        "MeditationOrRitualValue65": "Ritual: 2 Wochen, +65% Bonus",
+        "MeditationOrRitualValue70": "Ritual: 4 Wochen, +70% Bonus",
+        "MeditationOrRitualValue75": "Ritual: 1 Jahreszeit, +75% Bonus",
+        "MeditationOrRitualValue80": "Ritual: 1 Jahr, +80% Bonus",
+        "MeditationOrRitualValue85": "Ritual: 2 Jahre, +85% Bonus",
+        "MeditationOrRitualValue90": "Ritual: 5 Jahre, +90% Bonus",
+        "MeditationOrRitualValue95": "Ritual: 10 Jahre, +95% Bonus",
+        "MeditationOrRitualValue100": "Ritual: 20 Jahre, +100% Bonus",
+        "SkillAugmentation": "Fertigkeit inspirieren",
+        "SkillAugmentationValue0": "Keine",
+        "SkillAugmentationValue50": "Kritischer Erfolg, +50%",
+        "SkillAugmentationValue30": "Spezieller Erfolg, +30%",
+        "SkillAugmentationValue20": "Erfolg, +20%",
+        "SkillAugmentationValue-20": "Misserfolg, -20%",
+        "SkillAugmentationValue-50": "Patzer, -50%",
+        "noSelectedRuneWarning": "Versuch Runenzauber zu wirken, ohne ausgewählte Rune in der Chatnachricht.",
+        "resultMessageCritical": "Der Zauber wirkt und kostet keine Runenpunkte, sowie {magicPointBoost} Magiepunkte für die Verstärkung.",
+        "resultMessageSpecial": "Der Zauber wirkt und kostet {runePointCost} Runenpunkte, sowie {magicPointBoost} Magiepunkte für die Verstärkung.",
+        "resultMessageSuccess": "Der Zauber wirkt und kostet {runePointCost} Runenpunkte, sowie {magicPointBoost} Magiepunkte für die Verstärkung.",
+        "resultMessageFailure": "Der Zauber wirkt nicht, kostet aber auch keine Runenpunkte. Bei Verstärkung durch Magiepunkte, geht einer verloren.",
+        "resultMessageFumble": "Der Zauber wirkt nicht und {runePointCost} Runenpunkte sind verloren. Bei Verstärkung durch Magiepunkte, geht einer verloren.",
+        "SpentOneUseRunePoints": "{actorName} hat {runePoints} Einmal Nutzbare Runenpunkte des {cultName} Kults ausgegeben!",
+        "validationNotEnoughRunePoints": "Nicht ausreichend Runenpunkte verfügbar!",
+        "validationNotEnoughMagicPoints": "Nicht ausreichend Magiepunkte für diese Verstärkung verfügbar!",
+        "runeMagicResultFlavor": "Runenmagie: {name}",
+        "Cast": "Wirke {spellName}"
+      },
+      "requestSkillSpecialization": {
+        "title": "Wähle eine Fertigkeitsspezialisierung",
+        "inputRequired": "Eine Fertigkeitsspezialisierung wird benötigt",
+        "btnSetSpecialization": "Setze Spezialisierung"
+      },
+      "weaponChat": {
+        "Damage": "Schaden",
+        "damageRollType": {
+          "normal": "Normal",
+          "special": "Speziell",
+          "maxSpecial": "Max Speziell"
+        },
+        "fumbleRoll": "Patzer",
+        "hitLocationRoll": "Würfle die Trefferzone",
+        "Modifier": "Modifikator",
+        "CantFindActorWarn": "Akteur in Welt nicht gefunden für Aktion",
+        "UsedLastOfAmmoWarn": "du hast gerade die letzte Munition ({projectileName}) verwendet!",
+        "OutOfAmmoWarn": "Du hast keine {projectileName} für {combatManeuverName}!",
+        "HitLocationRollFlavor": "Würfle die Trefferzone",
+        "UnknownButtonInChatError": "Unbekannter Button \"{actionButton}\" in Waffen Chatnachricht",
+        "WeaponChatFlavor": "Waffe: {weaponName}",
+        "NoCombatManeuverInDamageRollError": "Kein Kampfmanöver im Schadenswurf.",
+        "CantFindActorToDoDamageRollWarn": "Akteur in Welt nicht gefunden für Schadenswurf.",
+        "WeaponDoesNotHaveCombatManeuverError": "Waffe hat kein Kampfmanöver.",
+        "WeaponDoesNotHaveAttachManeuverError": "Die Waffe \"{weaponName}\" hat kein offensives Kampfmanöver.",
+        "WeaponDamageTag": "Waffe",
+        "DamageBonusDamageTag": "Schadensbonus",
+        "CrushSpecialDamageTag": "Speziell: Zerschmettern",
+        "ImpaleSpecialDamageTag": "Speziell: Durchbohren",
+        "FumbleTableMissingWarn": "Die Patzertabelle \"{fumbleTableName}\" fehlt.",
+        "PluralResults": "{numberOfResults} Ergebnisse",
+        "SingularResult": "Ein Ergebnis",
+        "FumbleResultFlavor": "{numberOfResults} Ergebnisse aus der Patzertabelle {fumbleTableName} gezogen."
+      }
+    },
+    "Item": {
+      "Armor": {
+        "NamePrefix": "Name Präfix",
+        "ArmorTypeLabel": "Rüstungstyp",
+        "Material": "Material",
+        "HitLocations": "Trefferzone",
+        "AddNewCoveredHitLocationPlaceholder": "Füge Trefferzone zu Rüstung hinzu",
+        "Absorbs": "Schutzwert",
+        "MoveQuietlyPenalty": "Abzug auf Schleichen",
+        "FitsSIZ": "Passt GRÖ",
+        "ArmorType": {
+          "Hood": "Haube",
+          "BroadBrimmedHat": "Breitkrempiger Hut",
+          "Cap": "Kappe",
+          "CompositeHelm": "Komposithelm",
+          "OpenHelm": "Offener Helm",
+          "ClosedHelm": "Geschlossener Helm",
+          "FullHelm": "Vollhelm",
+          "Sleeves": "Ärmel",
+          "Vambraces": "Armschienen",
+          "Cuirass": "Kürass",
+          "Linothorax": "Linothorax",
+          "Hauberk": "Haubert",
+          "Segmented": "Segmentiert",
+          "Skirt": "Rock",
+          "PantsTrews": "Hose",
+          "Greaves": "Beinschienen"
+        },
+        "ArmorMaterial": {
+          "Leather": "Leder",
+          "HeavyLeather": "Dickes Leder",
+          "StuddedLeather": "Beschlagenes Leder",
+          "BronzePlate": "Bronzeplatten",
+          "BronzeSegmentedPlate": "Segmentierte Bronzeplatten",
+          "DiskPlate": "Brustplatte",
+          "LightScale": "Leichte Schuppen",
+          "HeavyScale": "Schwere Schuppen",
+          "Cuirboilli": "Gehärtetes Leder",
+          "RingMail": "Ringe",
+          "TurtleShell": "Schildkröte",
+          "Quilted": "Gesteppt",
+          "Linen": "Leinen",
+          "Iron": "Eisen"
+        }
+      },
+      "Cult": {
+        "AddNewSubCult": "Neuen Unterkult hinzufügen",
+        "Name": "Name",
+        "Deity": "Gottheit",
+        "CultName": "Kultname",
+        "CultTagline": "Kult Schlagwort",
+        "AddNewRunePlaceholder": "Füge neue Rune hinzu",
+        "Runes": "Runen",
+        "HolyDays": "Heilige Tage",
+        "RunePoints": "Runenpunkte",
+        "CultRank": "Kultrang",
+        "ActorsGifts": "Geschenke des Akteurs",
+        "ActorsGeases": "Geasa des Akteurs",
+        "ActorsSubCults": "Unterkulte des Akteurs",
+        "CommonRuneMagic": "Allgemeine Runenmagie"
+      },
+      "EquippedStatus": {
+        "notCarried": "Nicht getragen",
+        "carried": "Getragen",
+        "equipped": "Ausgerüstet"
+      },
+      "Gear": {
+        "Name": "Name",
+        "EncumbranceAbbr": "BEL",
+        "EncumbranceAbbrEach": "BEL Einzeln",
+        "EncumbranceAbbrTotal": "BEL Gesamt",
+        "EquippedStatus": "Ausgerüstet?",
+        "PriceReal": "Preis (reell)",
+        "PriceEstimated": "Preis (geschätzt)",
+        "Location": "Ort",
+        "AttunedTo": "Eingestimmt auf",
+        "Quantity": "Menge",
+        "IsContainerQ": "Ist Behältnis?",
+        "LunarsAbbr": "L",
+        "HitPointsAbbr": "TP",
+        "CurrentHitPoints": "Aktuelle Trefferpunkte",
+        "HitPointLocation": "Trefferpunktzone",
+        "ItemType": "Gegenstandstyp",
+        "PhysicalItemTypeEnum": {
+          "unique": "Einzigartig",
+          "currency": "Währung",
+          "consumable": "Verbrauchsgut"
+        }
+      },
+      "HitLocation": {
+        "Name": "Name",
+        "HealthStatus": "Gesundheitszustand",
+        "HitPoints": "Trefferpunkte",
+        "ActAs": "Für Schadenskalkulation, agiere als",
+        "ConnectedTo": "Verbunden mit",
+        "HitLocationOn": "Treffer in Zone bei",
+        "NaturalArmorPoints": "Natürlicher SW",
+        "BaseHPDelta": "Basis-TP Delta (+/- von Basis-Zonen-TP)",
+        "ArmorPoints": "Schutzwert",
+        "Wounds": "Wunden",
+        "AddWound": {
+          "Title": "Füge {hitLocationName} eine Wunde zu",
+          "ApplyToTotalHitPointsQ": "Zu Gesamt-TP zufügen?",
+          "SubtractArmorPointsQ": "SW abziehen?",
+          "btnAddWound": "Wunde zufügen"
+        },
+        "AddWoundChatContent": "{actorName} erleidet eine Wunde an {hitLocationName}. {notification}",
+        "HealWound": {
+          "Title": "Heile Wunde an {hitLocationName}",
+          "SelectWoundToHeal": "Wähle zu heilende Wunde an {hitLocationName}",
+          "HitPointsToHeal": "Zu heilende Trefferpunkte: ",
+          "btnHealWound": "Heile Wunde"
+        },
+        "HealthStatusEnum": {
+          "healthy": "Gesund",
+          "wounded": "Verwundet",
+          "useless": "Nutzlos",
+          "severed": "Abgetrennt"
+        },
+        "Notification": {
+          "CantFindHitLocation": "Konnte hitlocation mit itemId [{hitLocationItemId}] in Akteur ${actorName} nicht finden, um den Wunde zufügen Dialog anzuzeigen.",
+          "HitLocationDoesNotHaveCalculatedArmor": "Trefferzone {hitLocationName} fehlen der berechnete Gesamtschutzwert",
+          "NoValueOnHitLocation": "Kein Wert in Trefferzone ${hitLocationName}",
+          "NoMaxOnHitLocation": "Kein Maximum in Trefferzone ${hitLocationName}",
+          "NoActorOnTokenWarn": "Kein Akteur oder Token"
+        }
+      },
+      "HitLocationType": {
+        "limb": "Gliedmaße",
+        "head": "Kopf",
+        "chest": "Brust",
+        "abdomen": "Unterleib"
+      },
+      "Homeland": {
+        "Homeland": "Heimatregion",
+        "Region": "Region oder Stadt",
+        "CultureJournalEntries": "Kultur Notizbucheinträge",
+        "TribeJournalEntries": "Stamm Notizbucheinträge",
+        "ClanJournalEntries": "Clan Notizbucheinträge",
+        "homelandJournalRqidLink": "Heimatregion",
+        "regionJournalRqidLink": "Region",
+        "cultureJournalRqidLinks": "Kultur",
+        "CultLinks": "Kultlinks",
+        "SkillLinks": "Fertigkeitenlinks",
+        "PassionLinks": "Leidenschaftenlinks",
+        "RuneLinks": "Runenlinks"
+      },
+      "Notification": {
+        "CircularGearLocationWarning": "Zirkuläre Ausrüstungslokationen (A in B in A) - prüfe die Orte deiner Ausrüstung: {itemLocation}",
+        "ItemIsNotContainerWarning": "{itemName} Ist kein Behältnis",
+        "CantFindRootLocationNode": "Node für Ort auf oberster Ebene kann nicht gefunden werden",
+        "LocationDidntFindItem": "Behältnis konnte Objekt nicht finden",
+        "ExpectedCultItemError": "Kultobjekt erwartet",
+        "CantFindCultRuneError": "Kann Kultrune {newRune} nicht in allRunesIndex finden",
+        "CantFindRuneInAvailableRunesError": "Kann Rune \"{runeName}\" in keinem Kompendium finden",
+        "ItemWasNotHitLocationError": "hitLocation#onActorPrepareEmbeddedEntities aufgerufen, auf ein Objekt, das keine hitLocation ist",
+        "HitLocationDoesNotHaveActorError": "Trefferzonenobjekt hat keinen zug. Akteur",
+        "ActorDoesNotHaveMaxHpError": "Akteur verfügt nicht über max hitPoints",
+        "OpposingRuneDoesNotExistWarning": "Entgegengesetzte Rune existiert nicht",
+        "WrongItemTypeRuneMagicError": "RQG | Falscher Objekttyp oder nicht in PrepareEmbeddedEntities des Akteurs eingebettet",
+        "ActorDoesNotHaveCultOnRuneMagicWarning": "RQG | Durch Runenmagieobjekt ${item.name} referenzierter Kult existiert in Akteur ${actor.name} nicht",
+        "PrepareDerivedDataNotSkillError": "Skill#onActorPrepareDerivedData durch etwas anderes als eine Fertigkeit aufgerufen",
+        "ActorNotCharacterError": "Akteur ist nicht vom Typ Charakter",
+        "CantFindWeaponSkillWarning": "Waffenfertigkeit konnte nicht gefunden werden",
+        "NoWeaponSkillFromSkillOriginWarning": "Keine Waffenfertigkeit mit skillOrigin \"{skillOrigin}\".",
+        "CantFindSkillAssociatedWithWeaponWarning": "Die Fertigkeit, die dieser Waffe zugeordnet ist, kann nicht gefunden werden.",
+        "CantCreateActiveEffect": "Kann aktiven Effekt nicht erzeugen",
+        "NoIdOnTokenError": "Keine ID an Token",
+        "NoIdOnActorError": "Keine ID an Actor",
+        "ItemWithIdDoesNotHaveChanceError": "Es konnte für den Akteur mit Namen {actorName} kein Objekt mit Wahrscheinlichkeit und ID {itemId} gefunden werden, um dies in einer Chatnachricht anzuzeigen.",
+        "CanOnlyDropJournalEntryWarning": "Es können nur Notizbucheinträge auf Bögen vom Typ {itemType} gezogen werden.",
+        "CanOnlyDropJournalEntryOnThisTargetWarning": "Du kannst nur Notizbucheinträge auf den Zieleintrag {target} ziehen.",
+        "PleaseDropOnTarget": "Dies kann nicht hierher gezogen werden. Wähle ein geeignetes Ziel aus.",
+        "SimpleCalendarNotInstalled": "Dieser Befehl benötigt das Modul Simple Calendar.",
+        "MustHaveRqidToDrop": "Das Objekt, dass du hierher gezogen hast, hat keine RQG System ID (rqid). Prüfe den Reiter \"RQG System\" auf dem Objektbogen.",
+        "DroppedItemWrongType": "Dieses Feld erwartet Elemente vom Typ/der Typen {allowedDropTypes} und das gezogene Element war vom Typ {type}",
+        "DroppedDocumentDoesNotHaveRqid": "{type} mit Namen {name} und uuid {uuid} verfügt über keine RQID und kann nicht auf diesen Bogen gezogen werden.",
+        "ItemNotUnique": "{actorName} hat bereits ein {documentType} '{documentName}' und Duplikate sind nicht erlaubt"
+      },
+      "Occupation": {
+        "Occupation": "Beruf",
+        "Specialization": "Spezialisierung",
+        "Homelands": "Heimatregion",
+        "AllHomelands": "Alle Heimatregionen",
+        "OccupationalSkillLinks": "Berufsfertigkeiten",
+        "IncomeSkillQ": "Berufsfertigkeit für Einkommen?",
+        "OccupationalSkillBonus": "Bonus auf Berufsfertigkeit",
+        "StandardOfLiving": "Lebensstandard",
+        "StandardOfLivingEnum": {
+          "destitute": "Mittellos",
+          "poor": "Arm",
+          "free": "Frei",
+          "noble": "Adlig",
+          "petty-king": "Kleinkönig"
+        },
+        "BaseIncome": "Grundeinkommen",
+        "BaseIncomeNotes": "Anmerkungen Grundeinkommen",
+        "CultLinks": "Kulte",
+        "Ransom": "Lösegeld",
+        "StartingEquipmentLinks": "Links zu Startausrüstung"
+      },
+      "Passion": {
+        "Name": "Name",
+        "NamePlaceholder": "Grundleidenschaft",
+        "Passion": "Leidenschaft",
+        "Subject": "Subjekt",
+        "Chance": "Wahrscheinlichkeit",
+        "HasExperienceQ": "Hat Erfahrung?",
+        "BackStory": "Hintergrund",
+        "PassionEnum": {
+          "Ambition": "Ambition",
+          "Cowardly": "Feigheit",
+          "Devotion": "Hingabe",
+          "Fear": "Angst",
+          "Hate": "Hass",
+          "Honor": "Ehre",
+          "Loyalty": "Loyalität",
+          "Love": "Liebe",
+          "Gluttony": "Fresssucht",
+          "Vanity": "Eitelkeit"
+        }
+      },
+      "RqgItem": {
+        "ShowInfoCircle": {
+          "DropToConnectJournal": "Ziehe zum Verknüpfen einen Notizbucheintrag auf dies Feld.",
+          "DropToReplaceJournal": "Ziehe zum Ersetzen einen Notizbucheintrag auf dies Feld.",
+          "DropToConnectCult": "Ziehe zum Verknüpfen einen Kult auf dies Feld.",
+          "DropToReplaceCult": "Ziehe zum Ersetzen einen Kult auf dies Feld.",
+          "DropToConnectPassion": "Ziehe zum Verknüpfen eine Leidenschaft auf dies Feld.",
+          "DropToReplacePassion": "Ziehe zum Ersetzen eine Leidenschaft auf dies Feld.",
+          "DropToConnectRune": "Ziehe zum Verknüpfen eine Rune auf dies Feld.",
+          "DropToReplaceRune": "Ziehe zum Ersetzen eine Rune auf dies Feld.",
+          "DropToConnectRuneMagic": "Zum Verbinden ein Runenmagieobjekt auf diesem Feld fallen lassen.",
+          "DropToReplaceRuneMagic": "Zum Ersetzen ein Runenmagieobjekt auf diesem Feld fallen lassen.",
+          "DropToConnectSkill": "Ziehe zum Verknüpfen eine Fertigkeit auf dies Feld.",
+          "DropToReplaceSkill": "Ziehe zum Ersetzen eine Fertigkeit auf dies Feld.",
+          "DropToConnectOccupation": "Ziehe zum Verknüpfen einen Beruf auf dies Feld.",
+          "DropToReplaceOccupation": "Ziehe zum Ersetzen einen Beruf auf dies Feld."
+        }
+      },
+      "Rune": {
+        "Name": "Name",
+        "Rune": "Rune",
+        "Type": "Typ",
+        "PercentageChance": "Wahrscheinlichkeit",
+        "HasExperienceQ": "Hat Erfahrung?",
+        "OpposingRune": "Entgegengesetzte Rune",
+        "MinorRunes": "Mindere Runen",
+        "MasteredSorceryQ": "Gemeistert (Zauberei)?",
+        "RuneType": {
+          "element": "Element",
+          "power": "Kraft",
+          "form": "Form",
+          "condition": "Zustand",
+          "technique": "Technik"
+        }
+      },
+      "RuneMagic": {
+        "Name": "Name",
+        "Points": "Punkte",
+        "Range": "Range",
+        "Duration": "Dauer",
+        "StackableQ": "Summierbar?",
+        "OneUseQ": "Einmalig einsetzbar?",
+        "GrantedByCult": "Durch Kult",
+        "Runes": "Runen",
+        "AddNewRunePlaceholder": "Neue Rune hinzufügen",
+        "runeMagicCultDialog": {
+          "title": "Welcher Kult stellt diesen Runenzauber zur Verfügung?",
+          "btnAddRuneMagic": "Runenzauber hinzufügen",
+          "Actor": "Akteur",
+          "RuneMagic": "Runenmagie"
+        }
+      },
+      "SheetTab": {
+        "ActiveEffects": "Aktive Effekte",
+        "Armor": "Rüstung",
+        "Cult": "Kult",
+        "CultStanding": "Kultansehen",
+        "Description": "Beschreibung",
+        "GMNotes": "SL Notizen",
+        "Gear": "Ausrüstung",
+        "GiftsAndGeases": "Gaben & Geasa",
+        "HitLocation": "Trefferzone",
+        "HitLocationDefinition": "Trefferzonendefinition",
+        "Homeland": "Heimatregion",
+        "Occupation": "beruf",
+        "Passion": "Leidenschaft",
+        "Rune": "Rune",
+        "RuneMagic": "Runenmagie",
+        "Skill": "Fertigkeit",
+        "SkillDefinition": "Fertigkeitsdefinition",
+        "SpiritMagic": "Geistermagie",
+        "Weapon": "Waffe",
+        "WeaponUsage": "Verwendung",
+        "WizardInstructions": "Instruktionen für Assistent"
+      },
+      "Skill": {
+        "Name": "Name",
+        "SkillName": "Fertigkeitsname",
+        "Specialization": "Spezialisierung",
+        "Category": "Kategorie",
+        "CategoryModifier": "{category} Modifikator",
+        "BaseChance": "Grundwahrscheinlichkeit",
+        "GainedChance": "Gewonnene Erfahrung",
+        "Chance": "Wahrscheinlichkeit",
+        "CanGainExperienceQ": "Kann Erfahrung gewinnen?",
+        "HasExperienceQ": "Hat Erfahrung?",
+        "SorceryRunes": "Runen (Zauberei)",
+        "Notification": {
+          "CantFindSkillJournalEntryError": "Der Notizbucheintrag, den du mit dem Fertigkeitsbogen für {skillName} verknüpfen möchtest, kann nicht gefunden werden"
+        },
+        "SkillCategory": {}
+      },
+      "Spell": {
+        "RitualQ": "Ritual?",
+        "EnchantmentQ": "Verzauberung?",
+        "DurationEnum": {
+          "": "Kein",
+          "instant": "Sofortig",
+          "temporal": "Vorübergehend",
+          "focused": "Fokussiert",
+          "permanent": "Permanent",
+          "special": "Speziell"
+        },
+        "RangeEnum": {
+          "": "None",
+          "self": "Selbst",
+          "touch": "Berührung",
+          "ranged": "Distanz",
+          "special": "Speziell"
+        },
+        "ConcentrationEnum": {
+          "": "",
+          "active": "Aktiv",
+          "passive": "Passiv"
+        }
+      },
+      "SpiritMagic": {
+        "Name": "Name",
+        "Points": "Punkte",
+        "VariableQ": "Variabel?",
+        "Range": "Reichweite",
+        "Duration": "Dauer",
+        "Concentration": "Konzentration",
+        "SpellFocus": "Spruchfokus",
+        "MatrixIndicator": "(in Matrix gehalten)",
+        "MatrixQ": "In Matrix gehalten?",
+        "LinkedToCompendium": "Verknüpft mit Kompendium [{compendium}] Notizbucheintrag [{journalName}]"
+      },
+      "Weapon": {
+        "Name": "Name",
+        "UsesOfWeaponHeader": "Verwendungen",
+        "DropSkillToChange": "(Ziehe zum Ändern eine andere Waffenfertigkeit auf die Waffe)",
+        "DropSkillToAdd": "Ziehe eine Waffenfertigkeit auf diese Waffe!",
+        "WrongTypeDropped": "Der Gegenstand muss eine Waffenfertigkeit sein (Kategorie Nahkampf, Schild oder natürliche Waffen)",
+        "EnterNewAction": "Aktionsbezeichnung hinzufügen",
+        "Damage": "Schaden",
+        "MinimumStrengthAbbr": "Min STÄ",
+        "MinimumDexterityAbbr": "Min GES",
+        "StrikeRankAbbr": "AR",
+        "CombatManeuversHeader": "Kampfmanöver",
+        "ActionLabel": "Aktionsbezeichnung",
+        "DamageType": "Schadensart",
+        "DamageTypeEnum": {
+          "impale": "Durchbohren",
+          "slash": "Schlitzen",
+          "crush": "Zerschmettern",
+          "parry": "Parrieren",
+          "special": "Speziell"
+        },
+        "NaturalWeaponQ": "Natürliche Waffe?",
+        "ThrownWeaponQ": "Wurfwaffe? (halber Schadensbonus)",
+        "ProjectileWeaponQ": "Schusswaffen? (kein SChadensbonus, verwende verknüpftes Geschoss)",
+        "RangedWeaponQ": "FErnkampfwaffe? (kein Schadensbonus, kein Geschoss)",
+        "ProjectileQ": "Geschoss? (Munition)",
+        "Projectile": "Geschoss",
+        "Range": "Reichweite",
+        "Rate": "Schussfolge",
+        "SameDataAsOneHand": "Gleiche Werte wie Einhändig",
+        "combatManeuver": {
+          "Bite": "Biss",
+          "Throw": "Werfen",
+          "Shoot": "Schießen",
+          "Thrust": "Schubs",
+          "Cut": "Schneiden",
+          "Claw": "Krallen",
+          "Gore": "Durchbohren",
+          "Hug": "Umklammern",
+          "Bash": "Schlag",
+          "Parry": "Parade",
+          "Grapple": "Überwältigen",
+          "Knockback": "Zurückstoßen",
+          "Punch": "Hieb",
+          "Kick": "Tritt",
+          "Trample": "Zertrampeln"
+        }
+      }
+    },
+    "Hotbar": {
+      "MacroName": {
+        "ToChat": "Verwende {name}",
+        "ToChatEmbedded": "Verwende {name} ({actor})",
+        "RollTable": "Würfeltabelle {name}",
+        "ToggleSheet": "Bogen {name} anzeigen",
+        "ToggleSheetEmbedded": "Bogen {name} ({actor}) anzeigen"
+      }
+    },
+    "Foundry": {
+      "ActiveEffect": {
+        "Header": "🐛Aktive Effekte🧪",
+        "AddEffectTitle": "Effekt hinzufügen",
+        "Label": "Bezeichnung",
+        "Disabled": "Nicht aktiv",
+        "StartTime": "Startzeit",
+        "KeyValueMode": "Schlüssel - Wert - Modus",
+        "NewActiveEffectName": "Neuer aktiver Effekt",
+        "TargetItemNotFound": "Es konnte keine Objekt mit der rqid {rqid} an Akteur {actorName} gefunden werden. Bitte entweder ein Objekt mit {itemName} mit dieser rqid hinzufügen oder das Objekt, welches diesen Effekt hat, modifizieren"
+      },
+      "CombatTracker": {
+        "DuplicateCombatant": "Dupliziere Kombatant",
+        "UpdateCombatant": "Aktualisiere Kombatant",
+        "RemoveCombatant": "Entferne Kombatant",
+        "RemoveAllDuplicates": "Entferne alle Duplikate",
+        "CombatantWithoutActor": "Kombatant \"{combatantName}\" referenziert auf einen Akteur, der in dieser Welt nicht mehr existiert",
+        "UnknownName": "Unbekannt"
+      },
+      "ContentLink": {
+        "RqidLinkTitle": "{documentName}<small> {documentType}</small><br><small>rqid: {rqid}</small>",
+        "RqidLinkDelete": "Lösche Verknüpfung zu \"{name}\"<br><small>rqid: {rqid}</small>",
+        "DropToConnectJournal": "Ziehe einen Notizbucheintrag auf dies Element, um die Verbindung zu einer Beschreibung zu erzeugen.",
+        "DropToReplaceJournal": "Ziehe einen Notizbucheintrag auf dies Element, um die Beschreibung zu ersetzen."
+      },
+      "Settings": {
+        "Migrate": {
+          "TriggerButton": "Weltmigration auslösen",
+          "TriggerTitle": "Weltdatenmigration auslösen",
+          "TriggerContents": "<p>Weltdatenmigration aktivieren und neu starten</p>",
+          "TriggerRestart": "Speichern und neu starten"
+        }
+      }
+    },
+    "Game": {
+      "MeleeRoundAbbr": "KR",
+      "ResultEnum": {
+        "0": "Hyperkritisch",
+        "1": "Speziell kritisch",
+        "2": "Kritisch",
+        "3": "Speziell",
+        "4": "Erfolg",
+        "5": "Misslungen",
+        "6": "Patzer"
+      },
+      "RollChat": "Würfle über Chat (Klick)",
+      "RollQuick": "Schnell würfeln (Doppelklick)",
+      "RollCharacteristicQuick": "Schnell würfeln *5 (Doppelklick)",
+      "RollTitle": "Würfle über Chat (Klick), schnell würfeln (Doppelklick)",
+      "WeaponUsage": {
+        "oneHand": "1H",
+        "offHand": "falschH",
+        "twoHand": "2H",
+        "missile": "Geschoss",
+        "oneHand-full": "Einhändig",
+        "offHand-full": "Einhändig – falsche Hand",
+        "twoHand-full": "Beidhändig",
+        "missile-full": "Geschoss"
+      },
+      "RollDifficulty": {
+        "0": "Nahezu unmöglich (*0.5)",
+        "1": "Extrem schwer (*1)",
+        "2": "Schwer (*2)",
+        "3": "Moderat (*3)",
+        "4": "Leicht (*4)",
+        "5": "Einfache Aktion (*5)"
+      }
+    },
+    "RQGSystem": {
+      "rqid": "RuneQuest System ID (rqid)",
+      "GenerateDefaultRqid": "Erzeuge RuneQuest System ID (rqid) basierend auf dem aktuellen Dokument. Die rqid sollte auf dem englischsprachigen Dokumentnamen basieren.",
+      "rqidPriority": "Rqid Priorität",
+      "rqidLang": "Sprache",
+      "FoundryId": "Foundry ID",
+      "FoundryUuid": "Foundry UUID",
+      "ParentFoundryId": "Übergeordnete Foundry ID",
+      "GetThisDocument": "Dieses Dokument anzeigen",
+      "GetDocumentLikeThis": "Dokumente wie dieses anzeigen",
+      "CopyInputValue": "Diesen Wert ins Clipboard kopieren",
+      "OtherDocumentsHeader": "Dokumente mit rqid und Sprache (eingebettete Dokumente ausschliessen)",
+      "DocsInWorld": "{count} Dokumente in dieser Welt",
+      "DocsInCompendiums": "{count} Dokumente im Kompendium",
+      "DuplicateWarning": "Warnung: Mehrere rqids mit gleicher Priorität!",
+      "Error": {
+        "NoSheet": "Kein Bogen für das verknüpfte Dokument mit RQG System ID (rqid) \"{rqid}\" gefunden. Siehe Konsolenlog.",
+        "MoreThanOneRqidMatchInWorld": "Mehr als ein RQG Dokument in der Welt (nicht in Kompendien) mit rqid \"{rqid}\", lang \"{lang}\", and priority \"{priority}\" gefunden. Bitte Einstellungen für RQG System überprüfen. Siehe Konsolenlog für item ids.",
+        "MoreThanOneRqidMatchInPacks": "Mehr als ein RQG Dokument in installierten Kompendien mit rqid \"{rqid}\", lang \"{lang}\", and priority \"{priority}\" gefunden. Bitte Einstellungen für RQG System überprüfen.  Siehe Konsolenlog für item ids.",
+        "DocumentNotFoundByRqid": "Kein Dokument in Welt oder installierten Kompendien mit rqid \"{rqid}\", and lang \"{lang}\" gefunden. Siehe Konsolenlog."
+      }
+    },
+    "Notification": {
+      "Error": {
+        "GMOnlyOperation": "Diese Operation ist nur der SL erlaubt"
+      },
+      "Warn": {
+        "NameGenRqidNotSupported": "Namensgenerierung: Die RQG System ID \"{rqid}\" wird nicht für Namensgenerierung unterstützt.",
+        "NameGenRqidNotFound": "Namensgenerierung: Die RQG System ID \"{rqid}\" wurde nicht in Würfeltabellen oder Notizbucheinträgen gefunden oder der Notizbucheintrag war nicht sauber als Namensbasis formatiert.",
+        "NameBaseNotLongEnough": "Namensgenerierung: Die RQG System ID \"{rqid}\" verweist auf einen Notizbucheintrag zur Namensgenerierung, der nicht lang genug war um nach {attempts} Versuchen einen Namen zu generieren. Überlege weitere Einträge hizuzufügen."
+      }
+    },
+    "Settings": {
+      "HitLocations": {
+        "dialogTitle": "Einstellungen Trefferzonennamen",
+        "settingName": "Trefferzonennamen",
+        "settingLabel": "Konfiguriere verfügbare Trefferzonennamen",
+        "settingHint": "Die Trefferzonennamen werden in Dropdowns für Abdeckung von Rüstungen und beim Benennen neuer Trefferzonen verwendet.",
+        "addLocationPlaceholder": "Füge weitere Trefferzone hinzu"
+      },
+      "SortHitLocationsLowToHigh": {
+        "settingName": "Sortiere Trefferzonen von Niedrig nach Hoch",
+        "settingHint": "Wenn du diese Einstellung aktivierst, werden die Trefferzonen des Charakters genauso sortiert wie die Attributsblöcke, wobei die niedrigste Würfelzahl an erster Stelle steht. Die Einstellung kann in der Gesundheitstabelle des Akteurs umgeschaltet werden."
+      },
+      "DefaultItemIcons": {
+        "dialogTitle": "Einstellungen für Standard-Icons für Gegenstände",
+        "settingName": "Standard-Icons für Gegenstände",
+        "settingLabel": "Konfiguriere die Standard-Icons für neue Gegenstände",
+        "settingHint": "Stelle die Standard-Icons ein, die beim Erstellen neuer Gegenstände verwendet werden."
+      },
+      "WorldLanguage": {
+        "settingName": "Sprache der Welt",
+        "settingHint": "Dies ist die Sprache, in der das Spiel gespielt wird. Sie beeinflusst, welche Kompendien und Notizbucheinträge angezeigt werden. Es wird empfohlen, ist aber nicht zwingend erforderlich, dass alle Spieler diese Sprache in ihren Kerneinstellungen als präferierte Sprache selektiert haben."
+      },
+      "ShowOnlyWorldLanguagePacks": {
+        "settingName": "Filtere Kompendien",
+        "settingHint": "Zeige nur die vom System bereitgestellten Kompendien in der unter der Einstellung 'Sprache der Welt' definierten Sprache, wobei Kompendien die durch das System in anderen Sprachen bereitgestellt werden ausgeblendet werden. Falls die gewählte Sprache nicht zur Verfügung steht, werden die englischsprachigen Kompendien angezeigt."
+      },
+      "ShowEnglishLanguagePacksAlso": {
+        "settingName": "Englische Kompendien",
+        "settingHint": "Zeige die englischsprachigen Kompendien zusätzlich zu jenen in der unter 'Sprache der Welt' ausgewählten Sprache an."
+      },
+      "FumbleRollTable": {
+        "settingName": "Patzer-Würfeltabelle",
+        "settingHint": "Der Name der Würfeltabelle für Patzer - wird im Kampf verwendet"
+      },
+      "SpecialCrit": {
+        "settingName": "Spezielle & Extrem Kritische Ergebnisse",
+        "settingHint": "*** Alpha Version - nicht vollständig implementiert *** Ergänzt die Möglichkeit eines Würfelwurfs auf Speziell Kritisch  (Fertigkeit/100) and Hyperkritisch (Fertigkeit/500)"
+      },
+      "MagicRuneName": {
+        "settingName": "Name der Magierune (Zustand)",
+        "settingHint": "Falls ein Runenzauber diese Rune hat, wird davon ausgegangen, dass er \"Allgemein\" ist und ein Abenteurer ihn mit jeder Rune des Kults wirken kann, dessen Runenpunkte er ausgibt."
+      },
+      "WorldMigrationVersion": {
+        "settingName": "MigrationWeltversion",
+        "settingHint": "Die RQG System Version, auf die diese Welt migriert wurde."
+      }
+    },
+    "TokenEffects": {
+      "StatusProtection1": "Schutz 1",
+      "StatusProtection2": "Schutz 2",
+      "StatusProtection3": "Schutz 3",
+      "StatusProtection4": "Schutz 4",
+      "StatusStrength": "Stärke",
+      "StatusBefuddled": "Verwirrt",
+      "StatusBladesharp": "Scharfklinge",
+      "StatusBludgeon": "Niederknüppeln",
+      "StatusCoordination": "Koordination",
+      "StatusCountermagic": "Gegenmagie",
+      "StatusDullblade": "Stumpfklinge",
+      "StatusFanaticism": "Fanatismus",
+      "StatusFireblade": "Feuerklinge",
+      "StatusGlamour": "Beeindrucken",
+      "StatusGlue": "Kleben",
+      "StatusIronhand": "Eisenhand",
+      "StatusLantern": "Laterne",
+      "StatusLight": "Licht",
+      "StatusMobility": "Beweglichkeit",
+      "StatusParry": "Parieren",
+      "StatusShimmer": "Verschwimmen",
+      "StatusSlow": "Verlangsamen",
+      "StatusSpiritScreen": "Geisterschirm",
+      "StatusVigor": "Vitalität"
+    },
+    "Migration": {
+      "Dialog": {
+        "windowTitle": "Migriere Weltdaten",
+        "header": "Bitte ein Backup deiner Welt erstellen!",
+        "migrationWarning": "Die Version dieser Welt ({worldVersion}) entspricht nicht dem RQG System ({systemVersion}). Die Ausführung dieser Aufgabe wird Daten in deiner Welt dahingehend verändern, was das RQG System erwartet. Bitte erstelle ein Backup deiner Welt bevor du fortfährst, da es nicht möglich ist die Migration rückgängig zu machen!",
+        "migrationTime": "Falls du eine große Welt hast, kann die Migration einige Zeit in Anspruch nehmen. Bleibe trotzdem geduldig und fahre das System nicht runter, bevor der Prozess abgeschlossen ist.",
+        "btnMigrate": "Migriere Welt \"{worldTitle}\" auf Version {systemVersion}"
+      },
+      "applyingMigration": "Weltmigration auf Version {systemVersion} wird durchgeführt. Bitte bleibe geduldig und schließe nicht dein Spiel oder fahre deinen Server runter.",
+      "migrationFinished": "Weltmigration auf Version {systemVersion} abgeschlossen!",
+      "actors": "Schritt 1 / 4 - Migriere {count} Akteure",
+      "items": "Schritt 2 / 4 - Migriere {count} Gegenstände",
+      "scenes": "Schritt 3 / 4 - Migriere {count} Szenen",
+      "compendiums": "Schritt 4 / 4 - Migriere {count} Kompendien"
+    },
+    "UI": {
+      "SortItems": "Sortiere Elemente alphabetisch",
+      "MultipleCults": "Charakter hat mehrere Kulte,<br> siehe Reiter Runenmagie"
+    }
+  }
+}
