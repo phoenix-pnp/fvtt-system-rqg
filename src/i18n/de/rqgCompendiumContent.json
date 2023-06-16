@@ -1,0 +1,1976 @@
+{
+  "prio": 0,
+  "lang": "de",
+  "cult": {
+    "aldrya": {
+      "name": "Aldrya",
+      "tagline": "Göttin der Wälder",
+      "descriptionHtml": "<p>Diese Göttin herrscht in Kiefernwäldern, Laubwäldern oder im tropischen Dschungel. Sie gebietet über alles in den Wäldern: Pflanzen, Tiere, Brunnen und Quellen, helle Lichtungen und schattige Schluchten, Leere und Schatten, Geister und furchterregende Geister.</p><p>Aldrya ist auch die Mutter der Elfen und Dryaden, die ihre Diener in den Wäldern sind. In alten Zeiten, dem Grünen Zeitalter, herrschten Aldrya und die Elfen über die ganze Welt. Sie ist jetzt verbittert über den Verlust, was erklärt, warum die Wälder den Menschen von Natur aus unheimlich sind.</p>"
+    },
+    "arganArgar": {
+      "name": "Argan Argar",
+      "tagline": "Gott der Dunkelheit in der Oberwelt",
+      "descriptionHtml": "<p>Argan Argar war ein Anführer unter den Trollen während der Dunkelheit. Er ist der Bote und Übersetzer des Trollpantheons und der Gott der Kaufleute. Er ist bei den Trollingen beliebt, die von sich behaupten, Argan Argar habe sie zuerst den Umgang mit Speeren gelehrt.</p>"
+    },
+    "babeesterGor": {
+      "name": "Babeester Gor",
+      "tagline": "die Rächende Tochter",
+      "descriptionHtml": "<p>Als der Götterkrieg die Welt böse machte, brachte die Erde ihre eigene schreckliche Verteidigerin hervor. Babeester Gor wurde aus dem Leib ihrer toten Mutter geboren, mit Äxten in den Händen und einem Körper, der rituell vernarbt war, um todbringende Magie zu wirken. Sie vernichtete alle Sippenmörder, alle Eidbrecher, die bei ihrer Mutter geschworen hatten, und alles, was die heiligen Stätten der Erde entweihte.</p>"
+    },
+    "chalanaArroy": {
+      "name": "Chalana Arroy",
+      "tagline": "die Heilerin",
+      "descriptionHtml": "<p>Diese Göttin ist eine der Sieben Lichtbringerinnen und außerdem die Magd von Yelm. Sie kann alle Krankheiten und Wunden heilen und heilte die Welt nach der Großen Dunkelheit. Ihre Anbetung ist weit verbreitet, aber nur wenige aus ihrem Volk kennen sie unmittelbar. Stattdessen verehren sie Teile von ihr oder die machtvollen Geister der Heilung, die bei dieser erhabenen Gottheit jederzeit verfügbar sind.</p>"
+    },
+    "dakaFal": {
+      "name": "Daka Fal",
+      "tagline": "der Richter der Toten",
+      "descriptionHtml": "<p>Daka Fal ging durch die Welt und trennte die Lebenden von den Toten, indem er einen jeden an seinen Platz setzte und alle über ihre Pflichten und Aufgaben belehrte. Er wird immer dann angerufen, wenn die Toten verehrt werden.</p>"
+    },
+    "ernalda": {
+      "name": "Ernalda",
+      "tagline": "die Erdmutter",
+      "descriptionHtml": "<p>Ernalda ist die Erdmutter und die beliebteste aller Erdgöttinnen. Zu ihren Titeln gehören die Erdkönigin, die Lebensspenderin, die Schöne, die Große Grüne Dame, die Quelle des Reichtums, die Spenderin, die Erhalterin, die Ehefrau von vielen, die Unterstützerin von allen und die Hebamme der Zeit. Sie und ihre Töchter sind die Quelle von Nahrung, Schutz und Gesellschaft für den größten Teil des Lebens. Sie ist die Göttin der Frauen, der weiblichen Sexualität, der Fruchtbarkeit und der Mutterschaft.</p><p>Ernalda hat viele Ehemänner, doch der wichtigste unter ihnen ist Orlanth. Sie steht einem ausgedehnten Pantheon von Erdgöttern vor, sowohl gütigen als auch unheilbringenden.</p><p>Der Ernalda-Kult ist überall von großer Bedeutung, auch wenn ihre Priesterinnen nicht immer direkte politische Macht besitzen.</p>"
+    },
+    "eurmal": {
+      "name": "Eurmal",
+      "tagline": "der Trickser",
+      "descriptionHtml": "<p>Trickstergott, Narr, Gesetzesbrecher, Geächteter und Sündenbock, ist er dennoch einer der Sieben Lichtbringer. Er ist ein gefährlicher und verräterischer Gott, aber er verfügt über große göttliche Macht.</p>"
+    },
+    "humakt": {
+      "name": "Humakt",
+      "tagline": "der Gott des Todes",
+      "descriptionHtml": "<p>Die Mythologie von Humakt ist eine lange und unvollendete Geschichte des Unglücks. Doch inmitten der zahlreichen Leiden, die der Gott des Todes bereitet, offenbart dieser Gott auch einen Hoffnungsschimmer. Er stellt die ehrenvollen Vorsätze und Überzeugungen der meisten Menschen mit einer zielgerichteten Haltung ideal dar. Er wurde als Kind der Urluft geboren, brach aber seine Verbindung zu ihr ab, als sie den Tod unehrenhaft einsetzte. Obwohl Humakt nicht mehr mit den Luftgöttern verwandt ist, bleibt er in der Regel ihr Freund.</p>"
+    },
+    "issaries": {
+      "name": "Issaries",
+      "tagline": "der Gott der Sprache",
+      "descriptionHtml": "<p>Herr des Handels, Hüter der Straßen und Bote der Götter, Issaries ist einer der Sieben Lichtbringer und Seelengeleiter dieses Pantheons. Eingeweihte seines Kultes sind Händler und Herolde, geschützt durch den Ruf und die Macht ihres Gottes. Die Sprache des Kults, Handelssprache, ist das, was einer Verkehrssprache in ganz Glorantha am nächsten kommt. Der Kult breitete sich während der Zeit des Jrusteli-Imperiums weit aus und genießt nach wie vor große Akzeptanz und Einfluss, stets dürstend nach mehr.</p>"
+    },
+    "kygerLitor": {
+      "name": "Kyger Litor",
+      "tagline": "die Mutter der Trolle",
+      "descriptionHtml": "<p>Sie ist die Vorfahrin aller Trollrassen der Welt und wird weithin verehrt. Als die Sonne erschlagen wurde, fiel sie mit ihren Schergen in die Oberflächenwelt ein, wo sie das Land eroberten und schließlich die Hauptlast der Kämpfe gegen das Chaos trugen. Der Kult ist schlicht und primitiv, in den Augen der Menschen oft wild und grausam, aber für die einfachen Trolle befriedigend.</p>"
+    },
+    "lhankorMhy": {
+      "name": "Lhankor Mhy",
+      "tagline": "der Wissende Gott",
+      "descriptionHtml": "<p>Bewahrer der Gesetze, Schreiber der Unsterblichen und Sänger der Geschichte sind seine Titel. Er ist der Gott der Grauen Herren, der Weisen von Glorantha. Einer der sieben Lichtbringer, der auf seiner epischen Reise viele Teile der alten Mächte erbte, fand, erkämpfte und stahl und diese sicher für den Wiedereintritt in die Zeit aufbewahrt. Er ist Träger der heiligen steinernen Schriftrollen, die in der Unterwelt geschmiedet wurden, um die Geheimnisse des Kompromisses vor unreifen Seelen zu verbergen, auch wenn sein Wissen unvollkommen ist und er und sein Kult nach mehr dürsten.</p>"
+    },
+    "magasta": {
+      "name": "Magasta",
+      "tagline": "der Herr des Wassers",
+      "descriptionHtml": "<p>Magasta ist der Sohn von Daliath und Framanthe, der beweglichen Quelle des Lebens in den Gewässern. Seine Familie verkörpert die gewaltigen Urgewalten der Meere, doch Magasta führt sie an. Er ist König der Meeresgötter, Herr über Leben und Tod in den Tiefen.</p>"
+    },
+    "maranGor": {
+      "name": "Maran Gor",
+      "tagline": "die Erdschüttlerin",
+      "descriptionHtml": "<p>Eine Schwester von Ernalda, war sie einst großzügig und gütig. Als die Unruhen des Götterkrieges kamen, nahm sie den Titel Gor an und wurde zu einem Objekt der Angst und Ehrfurcht. Damals war sie eine Zerstörerin und war während dieser schwarzen Zeit mächtig und berühmt. Heute wird sie nur noch von denjenigen aktiv verehrt, die sich an dem Blutbad ergötzen, das ihre kostbarste Gabe ist. Die meisten großen Erdtempel enthalten noch immer Schreine für diese Gottheit, und es werden Gebete gesandt, die ihren Zorn abwenden sollen.</p>"
+    },
+    "mostal": {
+      "name": "Mostal",
+      "tagline": "der Erschaffer",
+      "descriptionHtml": "<p>Maschinengott, Hüter der Weltmühle und Herr des Steins sind einige seiner Titel. Man glaubt, Mostal sei ein Sohn der Erde und des mächtigen Acos, Gott des Gesetzes am himmlischen Hof. Von seinem Vater hat er die Macht über das Gestein geerbt, welches manchmal auch als das Element des Gesetzes bezeichnet wird. Er war geschickt in allen Formen der Fertigung und des Schaffens und hat ein angeborenes Misstrauen und Unverständnis für Aldrya. In der Götterzeit wurden er und sein Bruder Stein von Elfen erschlagen. Jetzt arbeiten die Zwerge unermüdlich daran, Mostals Maschine zu reparieren, damit die Welt wieder ordnungsgemäß funktionieren kann.</p>"
+    },
+    "orlanth": {
+      "name": "Orlanth",
+      "tagline": "der Sturmkönig",
+      "descriptionHtml": "<p>Herr der Stürme, Führer des Schwertes Tod, Bringer des Lichts und König der Götter sind einige von Orlanths Titeln. Orlanth ist das Oberhaupt der Sieben Lichtbringer. Seine Anbetung ist sehr weit verbreitet. Er ist ein erbitterter Feind der Roten Göttin des Lunaren Reiches. Als Orlanth der Abenteurer werden seine Fähigkeiten als Dichter, Kämpfer und Liebhaber gepriesen und gelehrt. Sein Aspekt als Orlanth der Donner repräsentiert die Macht, die der Gott über die Naturgewalten des Sturmes besitzt. Als Orlanth Rex wird er gepriesen und verehrt, um Anteil an seinem Können als Herrscher zu haben. Er kennt Gerechtigkeit und Führung, feine Rhetorik und andere Fähigkeiten, die zum Herrschen nötig sind.</p><p>Orlanth hat eine weibliche Inkarnation namens Vinga, welche Schutzherrin von Kriegerinnen ist. Diese färben sich ihr Haar rot.</p><p>Viele niedere Geister sind mit seinem Kult verbunden. Seine Religion ist eine der größten und umfassendsten der Welt, so wie es dem König der Götter gebührt.</p><h2>Abenteurer Erschaffung</h2><p>Kult-Startfertigkeiten: Rhetorik +15%, Fremdsprache Sprechen (Sturmsprache) +20%, Singen +10%.</p><p><strong>Besondere Runenmagie:</strong>Luftelementar bannen ( klein oder mittel), Abflauen, Auffrischen, Luftelementar beschwören ( klein oder mittel), Das Böse beschwören und Wind drehen sind für alle Unterkulte verfügbar. Jeder Subkult verfügt über zusätzliche besondere Runenzauber.</p><p><strong>Geistermagie des Kults:</strong> Beweglichkeit, Demoralisieren (2 Pkt.), Feinde spüren (1 Pkt.), Heilen (var.), Scharfklinge (var.), Stärke (2 Pkt.), Verletzen (1 Pkt.).</p><p><strong>Bevorzugte Leidenschaften:</strong> Ehre, Hass (Chaos), Hingabe (Orlanth), Loyalität (Tempel)</p><p><strong>Spezieller Hinweis:</strong> Orlanth hat mehrere große Unterkulte: Abenteurer/Vinga und Donner. Der Spieler muss sich für einen Unterkult entscheiden, dem sein Abenteurer angehört. Siehe die Beschreibung dieser Kulte im Folgenden. Rex steht bei der Charaktererschaffung noch nicht zur Verfügung.</p><p><strong>Assoziierte Kulte</strong> Chalana Arroy, Ernalda, Eurmal, Issaries, Lhankor Mhy, Odayla, Sturmbulle, Yinkin.</p><h3>Orlanth der Abenteurer/Vinga (Unterkulte der Krieger)</h3><p><strong>Geistermagie:</strong> Fanatismus, Schutz (var.).</p><p><strong>Besondere Runenmagie (nur Abenteurer-Unterkult):</strong> Blitz, Dunkelgang, Erdschild, Fliegen, Nebelwolke, Schild, Sprung, Windworte. Es gibt auch eine rein weibliche Variante des Unterkults des Abenteurers namens Vinga die Abenteurerin, die Zugang zu allen genannten besonderen Runenzaubern sowie dem Zauber Furchtlos hat.</p><p><strong>Spezieller Hinweis:</strong> Füge +10% zu einer beliebigen Schwertfertigkeit hinzu.</p><h3>Orlanth der Donner (Priester-Unterkult)</h3><p><strong>Geistermagie:</strong> Löschen, Zweites Gesicht</p><p><strong>Besondere Runenmagie (nur Donner-Unterkult):</strong> Aufklaren, Bewölken und Donnerkeil. Ein Initiierter von Orlanth dem Donner hat keine Beschränkung bei der Größe des Luftelementars, welches beschworen oder gebannt werden kann.</p><p><strong>Spezieller Hinweis:</strong> Füge +10% zu Tanzen hinzu.</p><h2>Kult-Ränge</h2><h3>Initiiertes Mitglied</h3><p><strong>Voraussetzungen:</strong> Standard.</p><p><strong>Kultfertigkeiten:</strong> 1H-Schwert, Fremdsprache sprechen (Sturmsprache), Gefechtswissen, Gottesdienst (Orlanth), Hüten, Kultkunde (Orlanth), Landwirtschaft, Rhetorik, Singen, Spähen.</p><p><strong>Bevorzugte Leidenschaften:</strong> Ehre, Hass (Chaos), Hingabe (Orlanth), Loyalität (Tempel).</p><p><strong>Geistermagie:</strong> Beweglichkeit, Demoralisieren, Fanatismus, Feinde spüren, Heilen, Scharfklinge, Schutz, Stärke, Verletzen.</p><p><strong>Unterkulte</strong> Der Orlanth-Kult hat zwei große Unterkulte: Abenteurer und Donner. Ein Initiierter wählt den einen oder anderen Unterkult, wenn er sich dem Kult von Orlanth anschließt&mdash;typischerweise der lokal bevorzugte Unterkult. Ein zusätzliches MAN-Opfer ist nicht erforderlich.</p><p>Andere wichtige Unterkulte sind Orlanth Rex und Vinga. Nur Stammesführer können dem Orlanth Rex Unterkult beitreten. Der Stammeskönig ist Hohepriester des Orlanth Rex für den jeweiligen Stamm; der Prinz von Sartar ist Hohepriester für sämtliche Stämme von Sartar.</p><p>Der Unterkult Vinga ist ein rein weiblicher Kriegerinnen-Unterkult, der Orlanth in weiblicher Form verehrt. Initiierte müssen sich die Haare rot färben. Ansonsten ist er identisch mit Orlanth dem Abenteurer.</p><p><strong>Anmerkung:</strong>Da sie dem König der Sturmgötter huldigen, können Initiierte von Orlanth immer voraussehen, wann ein Wetterumschwung bevorsteht. Windlords und Sturmstimmen können das Wetter ungefähr einen Tag im Voraus vorhersagen.</p>",
+      "holyDays": "<p>Der Windstag der Bewegungswoche in der Sturmzeit ist der höchste Feiertag. In jeder Jahreszeit ist der Windstag der Bewegungswoche ein saisonaler Feiertag, ebenso wie die Windstage der Heiligen Zeit.</p><p>Darüber hinaus hat Orlanth in jeder Jahreszeit einen beweglichen saisonalen Feiertag. Diese Feiertage werden von den Priestern des Kultes bestimmt und sind nicht an den Kalender gebunden.</p>",
+      "subcult": {
+        "adventurous": {
+          "name": "Orlanth der Abenteurer",
+          "tagline": "Gott der Abenteurer und Helden"
+        },
+        "rex": {
+          "name": "Orlanth Rex",
+          "tagline": "König der Götter"
+        },
+        "thunderous": {
+          "name": "Orlanth der Donner",
+          "tagline": "der Sturmgott"
+        },
+        "vinga": {
+          "name": "Vinga",
+          "tagline": "die Rothaarige Kriegerin"
+        }
+      }
+    },
+    "theRedGoddess": {
+      "name": "Die Rote Göttin",
+      "tagline": " ",
+      "descriptionHtml": "<p>Mondgöttin, Herrin der Zeit, Schwester des Chaos und Lauerin über dem Schleier sind einige weitere Titel dieser einzigartigen Göttin. Sie wurde im Zeitalter der Götter geboren, wurde aber in prähistorischen Kriegen zerschlagen und verstreut; nicht erschlagen, doch auch nicht lebendig. Ihre Religion ist eine seltsame Mischung aus Mystik und praktischer Magie, aus barbarischer Grausamkeit und würdevoller Schönheit, aus Freiheit und Tyrannei. Seine Philosophien sind einzigartig und komplex. Obgleich sie innerhalb der Zeit geboren wurde und daher sterblich ist, entwickelte sie schnell ihre inneren Fähigkeiten und begab sich auf eine furchtbare Götterreise, die erst 27 Jahre später mit ihrer Apotheose endete.</p><p>Die Rote Göttin verdiente und erarbeitete, ertanzte und erkämpfte sich ihren Weg in das Gefüge der Welt. Sie hat die Mittlere Luft zu ihrem Herrschaftsgebiet gemacht und sich damit die ewige Feindschaft von Orlanth und anderen Luftgöttern erworben. Ihr Kult erstreckt sich über die Grenzen ihres Reiches hinaus und ist sehr mächtig. Er schließt viele niedere Gottheiten mit ein.</p>"
+    },
+    "theSevenMothers": {
+      "name": "Die Sieben Mütter",
+      "tagline": " ",
+      "descriptionHtml": "<p>Diese Götter sind die Mütter der Roten Göttin, und ihr gemeinsames Pantheon ist die offizielle Staatsreligion des Lunaren Imperiums. Anders als viele andere Kulte Gloranthas versucht der Kult der Roten Göttin aktiv, neue Gläubige zu rekrutieren und andere zu ihrer Religion zu bekehren. Ihre Magie ist eng mit den Zyklen des roten Mondes von Glorantha verbunden.</p><p>Entgegen ihrem Namen sind drei der 'Mütter' männlich. Die sieben Halbgötter, die sich zur Wiedererweckung der Roten Göttin verschworen haben, waren Teelo Norri, Jakaleel die Hexe, Königin Deezola, Sie, Die Wartet, Danfive Xaron, Yanafal Tarnils und Irrippi Ontor. Zu den angeschlossenen Kulten gehören Etyries, Hwarin Dalthippa, Yara Aranis, Hon-eel, die Rote Göttin und die Jungen Elementare.</p>"
+    },
+    "stormBull": {
+      "name": "Sturmbulle",
+      "tagline": "Chaostöter",
+      "descriptionHtml": "<p>Sturmbulle ist ein Gott der ungezähmten animalischen Kraft und Leidenschaft. Seine wilde und intensive Wut konnte sogar das Chaos besiegen, und so führte die Berserker-Gottheit den Krieg der Großen Dunkelheit an. Er hat den Teufel bis zum Stillstand bekämpft und ihn unter einem Berg aus Adamant gefangen. Aus diesem Grund wird er, wenna auch widerwillig, in vielen Regionen geduldet.</p>"
+    },
+    "waha": {
+      "name": "Waha",
+      "tagline": "der Schlachter",
+      "descriptionHtml": "<p>Waha ist der Sohn des Sturmbullen. Er erschien in Prax unter den führerlosen Menschen der Gegend, lehrte sie die neuen Wege, die zum Überleben notwendig sind, und nahm sich Frauen aus ihrer Mitte, um neue Dynastien zu zeugen. Zu seinen vielen großen Taten gehören das Graben des Guten Kanals, um die Erde zu reinigen, die Zähmung von Oakfed, dem Gott des wilden Feuers, und die Unterweisung von Menschen und Tieren an ihren jeweiligen Platz in der neuen Welt.</p>"
+    },
+    "yelm": {
+      "name": "Yelm",
+      "tagline": "der Herrscher der Sonne",
+      "descriptionHtml": "<p>Gott des Mittleren Feuers und Bruder von Lodril und Dayzatar. Yelm war nicht immer an seinen Weg im Himmel gebunden, sondern reiste während der Götterzeit frei umher. Seine verhängnisvolle Fehde mit Orlanth war einer der wichtigsten Kämpfe des Götterkriegs, denn als er von Orlanth erschlagen wurde, markierte sein Ableben die Geringere Dunkelheit, die den ganzen Kosmos mit Furcht erfüllte und es dem Chaos ermöglichte einzudringen.</p><p>Yelm wird im Lunaren Imperium als der Sonnenkaiser und in den Graslanden als das kaiserliche Sonnenpferd verehrt.</p>"
+    },
+    "yelmalio": {
+      "name": "Yelmalio",
+      "tagline": "der Strahlende Gott",
+      "descriptionHtml": "<p>Yelmalio ist die helle Sonne, die Licht, aber keine Wärme bringt. Er ist ein Sohn von Yelm und manchmal Freund und manchmal Feind von Orlanth. Er ist am besten für die Sonnendom-Tempel bekannt, die sowohl die Orlanthi als auch ihre Feinde mit Söldnern versorgen.</p>"
+    }
+  },
+  "fumbleTable": {
+    "name": "Patzer",
+    "description": "Patzertabelle Kampf",
+    "range1-4Html": "Kann in der nexten Kampfrunde nicht parieren."
+  },
+  "culture": {
+    "esrolian": "Esrolier",
+    "heortling": "Heortlinger",
+    "bisonTribe": "Bisonreiter",
+    "highLlamaTribe": "Hochlamareiter",
+    "impalaTribe": "Impalareiter",
+    "sableTribe": "Antilopenreiter",
+    "poljoni": "Pol-Joni",
+    "grazelandPonyBreeders": "Ponyzüchter der Graslande",
+    "lunarProvincial": "Provinz-Lunarer",
+    "tarshite": "Tarschite"
+  },
+  "homeland": {
+    "esrolia": {
+      "name": "Esrolia",
+      "description": "<p>Dieses reiche und zivilisierte Land wird von einem Matriarchat regiert. Esrolia ist die Heimat der Erdmutter Ernalda und das Zentrum für die Anbetung der Erde. Nochet, die Hauptstadt, ist die größte Stadt in Glorantha und wird von der Königin von Esrolia regiert. Die prächtige Stadt wird jedoch von den Flotten der Wolfspiraten bedroht, furchterregenden Raubtieren, die von dem Halbgott Harrek dem Berserker angeführt werden. Zuvor waren dieselben Piraten jedoch maßgeblich daran beteiligt, das Lunare Imperium 1624 zu besiegen und es aus dem Heiligen Land zu vertreiben.</p><p>Die Esrolianer betrachten sich selbst als zivilisiert, neugierig, luxuriös und sinnlich. Ihr Stil setzt in vielen Ländern die Standards. Sie sind kosmopolitisch und kennen viele ferne Reiche. Sie verabscheuen den Krieg und ziehen Verhandlungen einem offenen Konflikt vor. Fremde halten die Esrolianer für stolz, ehrgeizig, verschlagen, emotional und streitsüchtig.</p>"
+    },
+    "grazelands": {
+      "name": "Graslande",
+      "description": "<p>Die Graslande bestehen aus grasbewachsenen Hügeln und Tälern, die von den Grasland-Ponyzüchtern bewohnt werden. Dieser halbnomadische Stamm unterhält Pferdeherden und herrscht über leibeigene Bauern, die ursprünglich aus Esrolia, Sartar und Tarsch stammen. Sie werden von der Gefiederten Pferdekönigin regiert, die eine mächtige Priesterin der Erde ist. Die Gesellschaft der Ponyzüchter ist starr und patriarchalisch, und der Status von jedem wird durch Alter und Geburt bestimmt. Der Stamm ist in ein Dutzend Clans aufgeteilt; wobei die Clanhäuptlinge gewählt werden, sich aber nur wenige für die Wahl qualifizieren. Die Ponyzüchter halten sich den 'Bodenleuten' gegenüber für weit überlegen.</p>"
+    },
+    "lunarTarsh": {
+      "name": "Lunarer Tarsch",
+      "description": "<p>Das Königreich Tarsch ist eine Provinz des Lunaren Imperiums und seine Herrscher und die städtische Bevölkerung haben die zivilisierte Kultur und Religion der Lunaren Kernlande übernommen. Die lunaren Tarschiten sind stolz und arrogant: Sie haben den Drachenpass in der letzten Generation beherrscht. Sie sind dem Roten Imperator und der Roten Göttin treu ergeben, aber sie sind jetzt hin- und hergerissen zwischen den Anhängern von König Pharandros und denen seines Onkels, des großen Generals Fazzur Wideread.</p>"
+    },
+    "oldTarsh": {
+      "name": "Alter Tarsch",
+      "description": "<p>Alt-Tarsch ist eine Gruppe von Stämmen, die sich um die Ausläufer des Bergs Kero Fin geschart haben und sich weigern, die lunare Dynastie von Tarsch anzuerkennen, und stattdessen den Erdschüttler-Priesterinnen loyal geblieben sind. Während sie einst das Herz des Königreichs von Tarsch darstellten, sind die Stämme von Alt-Tarsch an den Rand gedrängt worden und halten sich mit Jagd und Überfällen über Wasser. Die Alt-Tarschiten sind arm, aber stolz und wild. Sie sehen sich selbst als die rechtmäßigen Herrscher von Tarsch an und sehen in den Lunar-Tarschiten Thronräuber. Sie sind berüchtigt dafür, sowohl rachsüchtig als auch gönnerhaft zu sein.</p>"
+    },
+    "prax": {
+      "name": "Prax",
+      "description": "<p>Diese barbarischen Nomaden wohnen in den weiten Prärien östlich von Drachenpass. Jeder ihrer Stämme reitet und züchtet das Tier, nach dem sie benannt werden: Antilope, Bison, Bolaechse, Hochlama, Impala, Nashorn und sogar die pferdereitenden Pol-Joni. Pferde sind in Prax bei allen Stämmen (außer den Pol-Joni) tabu.<p/><p>Die Praxaner sind stolze, kriegerische Nomaden, die Außenseitern und einander gegenüber misstrauisch sind. Sie haben einen leidenschaftlichen Hass auf das Chaos und meiden zivilisierte Kulte. Sie leben ein hartes, grausames Leben in diesen Einöden und liegen fast immer im Krieg mit irgendjemand. Sie empfinden sogar die Umgebung, in der sie leben, als potenziell gefährlich. Ein oft wiederholter Grundsatz der Praxaner besagt 'Leben ist Krieg.'</p><p>Dies sind die wichtigsten menschlichen Stämme von Prax:</p><ul><li><strong>Bison:</strong> Die Bisonreiter verlassen sich auf ihre großen, schweren Tiere, um ihren Lebensunterhalt zu bestreiten. Genau wie ihre Tiere sind die Bisonreiter groß und schwer, setzen sich nur mit Mühe in Bewegung, sind aber schrecklich, wenn man mit ihnen zusammenstößt.</li><li><strong>Hochlama:</strong> Die Hochlamareiter sind der kleinste der Großen Stämme, aber sie sind auch einer der mächtigsten. Ihre Tiere sind um einiges größer als die anderen praxischen Reittiere und können sogar die schnellsten Plänkler jagen. Es heißt, dass sie niemanden in der Ebene fürchten.</li><li><strong>Impala:</strong> Die Impalareiter machen ihre geringe Statur mit ihrer Anzahl wieder wett und sind der zahlreichste Stamm in Prax. Sie verlassen sich auf die Geschwindigkeit und die Agilität ihrer Tiere, um sich selbst zu schützen.</li><li><strong>Pol-Joni:</strong> der „Bastardstamm“ besteht aus Pferdereitern aus Drachenpass. Sie haben sich zu den Ebenen durchgekämpft und besitzen die magische und kriegerische Stärke, um dort auch zu bleiben. Sie werden auch manchmal als einer der Stämme von Sartar angesehen.</li><li><strong>Antilope</strong>: Die Antilopenreiter reiten riesige Antilopen mit gekrümmten Hörnern. Als das Lunare Imperium in Prax einmarschierte, verbündeten sich die Antilopenreiter mit ihnen gegen die anderen Stämme von Prax. Später wandten die Antilopenreiter sich gegen das Lunare Imperium, was wieder einmal die flüchtige Natur einer Vereinbarung unter Praxanern verdeutlicht.</li><</ul><p>Eine andere Spezies, die Morokanth, sind intelligente, humanoide Tapire, die nicht-intelligente Menschen hüten.</p><p>Am Rande von Prax liegt der Fluss der Wiegen, ein ackerbauliches Flusstal, das von der Stadt Pavis und alten Ruinen, den Großen Trümmern, beherrscht wird. Der Held Argrath Weißer Bulle hat die Stämme von Prax unter seiner Führung vereint und sich selbst zum König von Pavis ausgerufen.</p>"
+    },
+    "sartar": {
+      "name": "Sartar",
+      "description": "<p>Sartar ist die Standardheimat für Abenteurer; ein bergiges Königreich, das aus Stämmen besteht, die den Sturm verehren und vom Königshaus Sartar vereinigt worden sind. Sartar befreite sich selbst kürzlich von der Herrschaft des Lunaren Imperiums und entfachte so die Heldenkriege. Es wird derzeit von Kallyr Sternenstirn regiert und ist ein fruchtbarer Boden für magischen Questen, kleine Fehden und Möchtegern-Abenteurer.</p><p>Die Sartariten sind streitsüchtig, übermütig und wild zur Unabhängigkeit entschlossen. Die Männer sind emotional und geradezu leidenschaftlich mit einem Hang zur Gewalt. Die Frauen sind raffiniert, praktisch veranlagt und rachsüchtig. Die Sartariten verehren Orlanth und Ernalda und verspüren einen brennenden Hass auf das Lunare Imperium.</p>"
+    }
+  },
+  "journalEntryType": {
+    "cultDescription": {
+      "name": "Kult",
+      "title": "<h3>Kult</h3><br/>"
+    },
+    "runeDescription": {
+      "name": "Rune",
+      "title": "<h3>Rune</h3><br/>"
+    },
+    "runeMagicDescription": {
+      "name": "Runenmagie",
+      "title": "<h3>Rune Magic</h3><br/>"
+    },
+    "skillDescription": {
+      "name": "Fertigkeit",
+      "title": "<h3>Fertigkeit</h3><br/>"
+    },
+    "spiritMagicDescription": {
+      "name": "Geistermagie",
+      "title": "<h3>Spirit Magic</h3><br/>"
+    }
+  },
+  "language": {
+    "aldryami": {
+      "name": "Aldryami"
+    },
+    "esrolian": {
+      "name": "Esrolisch"
+    },
+    "heortling": {
+      "name": "Heortlingisch"
+    },
+    "mostali": {
+      "name": "Mostali"
+    },
+    "newPelorian": {
+      "name": "Neupelorisch"
+    },
+    "praxian": {
+      "name": "Praxisch"
+    },
+    "pureHorseTongue": {
+      "name": "Reine Pferdesprache"
+    },
+    "stormspeech": {
+      "name": "Sturmsprache"
+    },
+    "tarshite": {
+      "name": "Tarschitisch"
+    },
+    "tradetalk": {
+      "name": "Handelssprache"
+    }
+  },
+  "rune": {
+    "air": "Air",
+    "beast": "Beast",
+    "chaos": "Chaos",
+    "combine": "Combine",
+    "command": "Command",
+    "darkness": "Darkness",
+    "dragonewt": "Dragonewt",
+    "death": "Death",
+    "disorder": "Disorder",
+    "dispel": "Dispel",
+    "earth": "Earth",
+    "fate": "Fate",
+    "fertility": "Fertility",
+    "fireSky": "Fire/Sky",
+    "harmony": "Harmony",
+    "illusion": "Illusion",
+    "infinity": "Infinity",
+    "law": "Law",
+    "light": "Light",
+    "luck": "Luck",
+    "magic": "Magic",
+    "man": "Man",
+    "mastery": "Mastery",
+    "moon": "Moon",
+    "movement": "Movement",
+    "plant": "Plant",
+    "separate": "Separate",
+    "spirit": "Spirit",
+    "stasis": "Stasis",
+    "summon": "Summon",
+    "tap": "Tap",
+    "truth": "Truth",
+    "water": "Water"
+  },
+  "runeDescription": {
+    "airElement": {
+      "name": "Air (element)",
+      "description": "<p>Luft ist der Fünftgeborene, der Sohn von Erde und Himmel (Himmel war ebenfalls der Sohn der Erde). Er ist der Brecher der Gesetze, Zerstörer des Himmels, Kämpfer gegen die Dunkelheit und Befreier der Sonne. Er manifestiert sich gewöhnlich als Sturmgott, wie Orlanth in Sartar oder der Sturmbulle von Prax.</p><p>Das Element der Stärke und Gewalt, die Luft, trennt für immer die Erde vom Himmel. Sie ist das Unheil der Welt und der Retter des Kosmos. Sie ist das Element des Wetters, des Sturms, des Windes und der mittleren Luft.</p><p><b>Eigenschaft:</b> STÄ</p><p><b>Personalität:</b> Eine starke Affinität zur Luft zu haben bedeutet, leidenschaftlich, gewalttätig, stolz und unberechenbar zu sein.</p><p><b>Sinne:</b> Meuchelmörder fühlen, Chaos fühlen, Riechen</p><p><b>Fertigkeitskategorie:</b> Handhabung</p><p><b>Waffe:</b> Schwert</p><p><b>Organe:</b> Lunge, Muskel</p><p><b>Farbe:</b> Orange</p><p><b>Metall:</b> Bronze</p><p><b>Tierstamm:</b> Säugetiere</p>"
+    },
+    "beastForm": {
+      "name": "Beast (form)",
+      "description": "<p>Diese Rune wird auch das Drachenauge genannt und stellt angeblich die Schützende Schuppe oberhalb des Auges eines Drachens dar. Man glaubt, dass die Drachen die Vorfahren aller Tiere sind (oder wenigstens der mit vier oder mehr Beinen), aber keiner hat sich bisher getraut, einen Drachen danach zu fragen. Einige glauben, dass dies ursprünglich eine Rune der Drachenmolche war, und ihre Komplexität scheint dies zu bestätigen.</p><p>Stark zu sein in der Tier-Rune bedeutet, animalisch, wild, ungezähmt und ungehemmt zu sein. Solche Abenteurer fühlen sich in kultivierten Ländern nicht wohl und bevorzugen die Wildnis.</p>"
+    },
+    "chaosForm": {
+      "name": "Chaos (form)",
+      "description": "<p>Beschreibt Dinge, die vom Chaos verdorben worden sind. Die Chaosrune kann mit jeder anderen Rune kombiniert werden, da nichts vor ihrem Einfluss ist völlig sicher ist.</p>"
+    },
+    "combineTechnique": {
+      "name": "Combine (technique)",
+      "description": "<p>Diese Technik zwingt eine bestimmte Manifestation einer Rune, sich mit der einer anderen Rune zu kombinieren. Sie ist das Gegenteil von Trennen.</p>"
+    },
+    "commandTechnique": {
+      "name": "Command (technique)",
+      "description": "<p>Diese Technik zwingt eine bestimmte Manifestation einer Rune, sich auf eine bestimmte Art und Weise zu verhalten, die im Einklang mit ihrer Natur liegt. Wenn man Befehligen beherrscht, dann erlangt man dadurch einen Einblick in alle anderen Techniken.</p>"
+    },
+    "darknessElement": {
+      "name": "Darkness (element)",
+      "description": "<p>Die älteste aller Runen, die Erstgeborene, aus der alle anderen Elemente geboren wurden oder von ihr abstammen. Dunkelheit war das erste Element, das sich aus dem Urchaos erhob.</p> <p>Die Dunkelheit war das erste Element, das sich selbst vom Chaos trennte, und seine Geburt wurde begleitet von uralten Kämpfen der Dunkelheit gegen das Chaos. Es ist das Element der Unterwelt, die endlose, eiskalte Dunkelheit, die der Schöpfung vorrausging und die immer noch unter der Erde und den Meeren lauert und hungert</p><p><b>Eigenschaft:</b> GRÖ</p><p><b>Persönlichkeit:</b> Eine starke Affinität zur Dunkelheit zu haben bedeutet, kalt, grausam, geduldig und heimlichtuerisch zu sein.</p><p><b>Sinn:</b> Hören</p><p><b>Fertigkeitskategorie:</b> Heimlichkeit</p><p><b>Waffen:</b> Keule, Streitkolben, Stein</p><p><b>Organe:</b> Magen, Fett</p><p><b>Farbe:</b> Schwarz</p><p><b>Metall:</b> Blei</p><p><b>Tierstamm:</b> Insekten</p>"
+    },
+    "deathPower": {
+      "name": "Death (power)",
+      "description": "<p>Stellt das Erste Schwert dar, die unsterbliche und verfluchte Waffe, die der Gott Humakt benutzte, um den Tod in die Welt zu bringen. Einige sagen, es sei die Erste Rune, denn die Trennung der Welt vom Chaos sei die erste Stufe der Schöpfung gewesen.</p><p>Stark zu sein in der Todesrune bedeutet, sich von der materiellen Welt zu trennen und zu versuchen, die Welt der Sinne zu verleugnen oder sogar zu zerstören. Solche Abenteurer sind unbarmherzig, rücksichtslos und asketisch, bereit, andere und sich selbst zu verleugnen.</p>"
+    },
+    "disorderPower": {
+      "name": "Disorder (power)",
+      "description": "<p>Direkt vom Chaos abstammend. Anarchistische Kulte behaupten, dies sei der erste Schritt der Schöpfung aus dem Chaos gewesen, daher sei die Unordnung die Erstgeborene der Kräfte und Fundament des Universums.</p><p>To be strong with the Disorder Rune is to place one’s own welfare, advantage, or pleasure above all others. Such adventurers may be described as individualistic, impulsive, and contrary, or as greedy, thoughtless, and egocentric.</p>"
+    },
+    "dispelTechnique": {
+      "name": "Dispel (technique)",
+      "description": "<p>Diese Technik erlaubt es einem Zauberer, besondere Manifestationen der Rune aus der materiellen Welt zu bannen. Sie ist das Gegenteil von Beschwören.</p>"
+    },
+    "dragonewtForm": {
+      "name": "Dragonewt (form)",
+      "description": "<p>So exotisch wie die Spezies, die sie repräsentiert, kann man sie nur im Gebiet des Drachenpasses finden. Im Gegensatz zu den meisten anderen Form-Runen wird sie nie zusammen mit einer Elementar-Rune verwendet.</p>"
+    },
+    "earthElement": {
+      "name": "Earth (element)",
+      "description": "<p>Erde ist das dritte Element, die Tochter der Meere, Mutter des Himmels, die Ehefrau der Vielen, die Unterstützerin von allen. Mindestens die Hälfte aller Kulte in Glorantha verehren irgendeine Manifestation der Erdrune, z. B. die Lebensspenderin, den Steinvater oder die Urahnin.</p><p>Als Element der Materie und der irdischen Welt wird Erde mit den sinnlichen Aspekten des Lebens und des Todes in Verbindung gebracht. Sie ist reich an Leben und Geschenken, aber manchmal furchteinflößend und tödlich. Es ist die Rune der physischen Dinge und von allen Dingen, die auf und im Innern der Erde leben und wachsen.</p><p><b>Eigenschaft:</b> KON</p><p><b>Persönlichkeit:</b> Eine starke Affinität zur Erde zu besitzen bedeutet, pragmatisch, besonnen, weltlich und sinnlich zu sein.</p><p><b>Sinn:</b> Suchen</p><p><b>Fertigkeitskategorie:</b> Kommunikation</p><p><b>Waffen:</b> Axt</p><p><b>Organe:</b> Genitalien, Knochen</p><p><b>Farbe:</b> Grün</p><p><b>Metall:</b> Kupfer</p><p><b>Tierstamm:</b> Reptilien</p>"
+    },
+    "fateCondition": {
+      "name": "Fate (condition)",
+      "description": "<p>Nur sehr wenige Kulte verwenden dies als eine Erklärung für den Lauf der Welt. Sie wird vielmehr von unterdrückten Kulturen verwendet, die keine andere Erklärung für ihren Status haben, wie auch umgekehrt von jenen, die an der Spitze stehen, um ihre eigene Position zu legitimieren.</p>"
+    },
+    "fertilityPower": {
+      "name": "Fertility (power)",
+      "description": "<p>Symbolisiert den Alten Kelch, aus dem bei Anbruch der Schöpfung die ganze Welt gegossen wurde. Sie ist das Symbol für Wachstum und Leben.</p><p>Wer stark in der Fruchtbarkeitsrune ist, genießt die Freuden des Fleisches, vor allem sexuelle Begierde. Solche Abenteurer sind großzügig und freigiebig, oft ohne persönliche Verpflichtung zwischen den beteiligten Personen.</p>"
+    },
+    "fireSkyElement": {
+      "name": "Fire/Sky (element)",
+      "description": "<p>Der Himmel ist anders als die Luft, denn die Luft trennt den Himmel von der Erde. Nachdem er von seinem Sohn besiegt wurde, hat der Himmel sich von der Menschheit distanziert, aber es gibt im Land noch Enklaven, die ihn verehren, wie z. B. den Sonnendomtempel.</p><p>Das Element Feuer/Himmel bedeutet Reinigung. Es zerstört alles Schmutzige und zieht sich aus der Mittleren Welt nach oben zurück. Es ist die große Himmelskuppel und die Sterne, und seine größte Manifestation ist die Sonne, die das Licht und die Wärme in die Welt bringt.</p><p><b>Eigenschaft:</b> INT</p><p><b>Persönlichkeit:</b> Eine starke Affinität zur Feuer-/Himmelsrune zu haben bedeutet, rein, keusch, idealistisch und scharfsinnig zu sein.</p><p><b>Sinn:</b> Spähen</p><p><b>Fertigkeitskategorie:</b> Wahrnehmung</p><p><b>Waffen:</b> Speer, Bogen</p><p><b>Organe:</b> Gehirn, Nerven</p><p><b>Farbe:</b> Gelb</p><p><b>Metall:</b> Gold</p><p><b>Tierstamm:</b> Vögel</p>"
+    },
+    "harmonyPower": {
+      "name": "Harmony (power)",
+      "description": "<p>Es heißt, sie stelle die göttliche Harfe dar, mit der Ordnung vom Chaos getrennt wurde. Sie ist uralt und wird überall in Glorantha verehrt.</p><p>In der Rune der Harmonie stark zu sein bedeutet, das Wohl der selbst definierten Gemeinschaft ( die so klein wie ein Dorf oder so groß wie die ganze Welt sein kann) über das eigene Wohl zu stellen. Jene, die mit dieser Rune im Einklang stehen, sind hilfsbereit, umsichtig, kompromissbereit, großzügig und mitfühlend - sie schaffen Frieden, nicht Zwietracht.</p>"
+    },
+    "illusionPower": {
+      "name": "Illusion (power)",
+      "description": "<p>Die Puppenspielertruppe, der Hauptkult des Vaters der Illusion, behauptete schon immer, dies sei die erste Rune, denn ohne Illusion würde niemand glauben, jemals gewesen zu sein. Sie weigern sich, dies näher zu erklären.</p><p>In der Rune der Illusion stark zu sein, bedeutet, die Wahrheit zu verzerren oder Unwahrheiten zu schaffen, sei es für eigene Ziele oder im Namen anderer, oder manchmal einfach nur, um der Sache willen. Solche Abenteurer betrachten die Realität als etwas subjektives, das ihrer Fantasie unterliegt.</p>"
+    },
+    "infinityCondition": {
+      "name": "Infinity (condition)",
+      "description": "<p>Das Symbol für die Götter. Ein Träger der Unendlichkeitsrune ist nahezu gottgleich. Diese Rune wird nicht leichtfertig verwendet, da sie die totale Kontrolle über den Kraftfluss um den Benutzer herum bedeutet und ihn für fast alle Magie unverwundbar macht. Nur Götter, Drachen und die größten Helden tragen diese Rune.</p>"
+    },
+    "lawCondition": {
+      "name": "Law (condition)",
+      "description": "<p>Diese Rune beschreibt die unveränderlichen Gesetze des Universums und wird normalerweise mit Zauberei in Verbindung gebracht.</p>"
+    },
+    "lightCondition": {
+      "name": "Light (condition)",
+      "description": "<p>Licht ohne Hitze. Eine Unterrune von Feuer/Himmel.</p>"
+    },
+    "luckCondition": {
+      "name": "Luck (condition)",
+      "description": "<p>Diese Rune, die zugleich Ausdruck des Chaos und Zeichen für die Anerkennung der Götter sein soll, wird nur selten verwendet, außer im Heiligen Land, wo die Meister des Glücks und des Todes dieses Symbol des Risikos, das sie mit jedem Atemzug eingehen, stolz zur Schau stellen.</p>"
+    },
+    "magicCondition": {
+      "name": "Magic (condition)",
+      "description": "<p>Fast überflüssig in dieser an Magie so reichen Welt, beschreibt diese Rune, wie ein Kult oder eine einzelne Person mit der Kraft einer anderen Rune umzugehen hat. Da der Umgang mit Runen ohne Magie nicht möglich ist, hat diese Rune eine besondere Bedeutung.</p>"
+    },
+    "manForm": {
+      "name": "Man (form)",
+      "description": "<p>Diese Rune stellt die humanoide Form dar und ist bei allen humanoiden Rassen verbreitet. Einige andere Rassen interpretieren sie als 'Sklave' oder 'Nahrung'. Es heißt, sie stehe für den Sterblichen Ahn, und es werden zahlreiche Sagen über ihn erzählt.</p><p>In der Mensch-Rune stark zu sein, bedeutet, zivilisiert, sesshaft, sozial und moralisch zu sein. Solche Abenteurer fühlen sich in der Wildnis unwohl und bevorzugen von Menschen gezähmte Landstriche.</p>"
+    },
+    "masteryCondition": {
+      "name": "Mastery (condition)",
+      "description": "<p>Diese Allzweckrune kann die Meisterschaft der Sterblichen, der Magie oder der Elemente symbolisieren. Als Meisterschaft der Sterblichen symbolisiert sie einen Helden; als Meisterschaft der Magie symbolisiert sie jeden Kult von angemessener Macht. Der Gebrauch solcher Zustandsrunen verdeckt in der Regel die wahren Erkennungsrunen des beschriebenen Kultes oder der Person, obgleich sie auch die Unabhängigkeit eines Helden oder eines mächtigen Zauberers von kultischen Bindungen bedeuten kann.</p>"
+    },
+    "moonElement": {
+      "name": "Moon (element)",
+      "description": "<p>Mond ist das sechste Element, das von seinen Gleichgestellten kaum akzeptiert wird. Außerhalb des Lunaren Imperiums hat es fast keine Präsenz, allerdings wird Mond manchmal als Zustandsrune angesehen.</p><p>Das Mondelement wurde während des Götterkrieges zerstört, aber innerhalb der Zeit als die Rote Göttin wiedergeboren. Ihre Geheimnisse sind in Gleichgewicht und Zeit verwoben und erzeugen somit den Mondzyklus, der auf der Oberfläche der Welt herrscht. Der Mond akzeptiert das Chaos als Teil des Kosmischen Gleichgewichts und ist sich somit der Feindschaft eines großen Teils des Restes der Welt gewiss.</p><p><b>Eigenschaft:</b> MAN</p><p><b>Persönlichkeit:</b> Eine starke Affinität zum Mond zu haben bedeutet, nach der spirituellen Freiheit von den Fesseln der Furcht und der Ignoranz zu suchen.</p><p><b>Sinn:</b> Keiner</p><p><b>Fertigkeitskategorie:</b> Magie</p><p><b>Waffen:</b> Gekrümmte Klingen wie Sichelschwerter und Kopis.</p><p><b>Organe:</b> Inneres Auge, Zirbeldrüse</p><p><b>Farbe:</b> Rot</p><p><b>Metall:</b> Silber</p><p><b>Tierstamm:</b> Keiner</p>"
+    },
+    "movementPower": {
+      "name": "Movement (power)",
+      "description": "<p>Steht für das alte Rad. Wie üblich wird behauptet, sie sei die erste Rune, denn es hätte kein Wachstum aus dem Chaos ohne sie geben können. Die Sagen erzählen von dem Weltenvogel, der auf diesem Rad aus dem Schlund des Chaos entkam.</p><p>In der Rune Bewegung stark zu sein, bedeutet, wandelbar, energiegeladen, rebellisch und ehrgeizig zu sein. Solche Abenteurer können sich schnell an sich verändernde Umstände anpassen, sind aber auch impulsiv und waghalsig.</p>"
+    },
+    "plantForm": {
+      "name": "Plant (form)",
+      "description": "<p>Das Symbol für das erste Leben auf Glorantha. Es heißt, sie symbolisiert den ersten Pflanzengott, einen Sohn der Erde und des Meeres. Viele Kulte haben eine Verbindung mit der Pflanzenrune, wie zum Beispiel Aldrya, deren Verehrung die Runen der Erde, der Pflanze und die Kraftrune der Fruchtbarkeit kombiniert.</p>"
+    },
+    "separateTechnique": {
+      "name": "Separate (technique)",
+      "description": "<p>Diese Technik zwingt eine bestimmte Manifestation einer Rune, sich von einer anderen bestimmten Rune zu lösen. Sie ist das Gegenteil von Kombinieren.</p>"
+    },
+    "spiritForm": {
+      "name": "Spirit (form)",
+      "description": "</p>Diese Rune beschreibt körperlose Wesenheiten, die in der Geisterwelt existieren.</p>"
+    },
+    "stasisPower": {
+      "name": "Stasis (power)",
+      "description": "<p>Diese Rune ist eng verknüpft mit der Kunst der Alchemie und mit den Zwergen. Sie behaupten, dies sei die erste Rune, denn sie bildete die Grundlage, auf der alles andere geschaffen wurde.</p><p>In der Rune Stillstand stark zu sein, bedeutet, entschlossen und standhaft zu sein. Ein solcher Abenteurer kann freundlich als zielstrebig oder beharrlich beschrieben werden, und weniger freundlich als doktrinär oder starrsinnig.</p>"
+    },
+    "summonTechnique": {
+      "name": "Summon (technique)",
+      "description": "<p>Mit dieser Technik kann der Zauberer bestimmte Manifestationen einer Rune in der materiellen Welt herbeirufen. Sie ist das Gegenteil von Bannen.</p>"
+    },
+    "tapTechnique": {
+      "name": "Tap (technique)",
+      "description": "<p>Diese Technik erlaubt es einem Zauberer, die Manifestation einer Rune in rohe Energie umzuwandeln, die der Zauberer nutzen kann. Die Kenntnis des Anzapfens gibt Einblick in alle anderen Techniken.</p>"
+    },
+    "truthPower": {
+      "name": "Truth (power)",
+      "description": "<p>Eine Rune der uralten, alles sehenden Himmelsgötter. Sie soll die Fackel darstellen, mit deren Hilfe die Sterblichen dem Chaos in der Großen Dunkelheit entkamen und bis zum Morgengrauen überlebten. Ein weiterer Kandidat als Erste Rune, da ihre Beständigkeit und Ordnung die Schöpfung vom zufälligen, unbeständigen Chaos abhebt.</p><p>In der Rune Wahrheit stark zu sein bedeutet, die Wahrheit als etwas Objektives zu betrachten, das außerhalb individueller Vorurteile, Interpretationen, Gefühle und Vorstellungen liegt. Solche Abenteurer beschreiben die Dinge so, wie sie wirklich sind, sowohl in kleinen als auch in großen Angelegenheiten, ungeachtet der Konsequenzen.</p>"
+    },
+    "waterElement": {
+      "name": "Water (element)",
+      "description": "<p>Wasser wurde von Dunkelheit geboren. Als Element wird es auch als Sohn der Dunkelheit, Pfad zur Unterwelt und Unterstützer der Erde bezeichnet.</p><p>Im Wasser liegt das gesamte Potential des Universums ohne die Dunkelheit. Es ist das Element der Meere, Seen und Flüsse und aller Gewässer auf der Welt.</p><p><b>Eigenschaft:</b> GES</p><p><b>Persönlichkeit:</b> Eine starke Affinität zum Wasser zu haben bedeutet launenhaft, sprunghaft und veränderlich zu sein.</p><p><b>Sinn:</b> Schmecken</p><p><b>Fertigkeitskategorie:</b> Gewandtheit</p><p><b>Waffen:</b> Netz, Dreizack, Peitsche</p><p><b>Organe:</b> Herz, Blut</p><p><b>Farbe:</b> Blau</p><p><b>Metall:</b> Quecksilber</p><p><b>Tierstamm:</b> Fische</p>"
+    }
+  },
+  "runeMagic": {
+    "absorption": {
+      "name": "Absorption",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Ernalda</i></p><p>Jeder Punkt von Absorption absorbiert 1 Punkt Runenmagie oder 2 Punkte Geistermagie oder Zauberei und wandelt sie um in Magiepunkte. Jeder Punkt Runenmagie wird in zwei Magiepunkte verwandelt. Absorption kann nicht nur Teile eines Zaubers absorbieren. Wenn der gegnerische Zauber mehr Punkte hat, als Absorption in sich aufnehmen kann, dann wirkt der gegnerische Zauber auf die normale Art und Weise. Die Magiepunkte, die durch diesen Zauber erlangt werden, sammeln sich sichtbar in der Aura des Zaubernden an und können beliebig eingesetzt werden. Wenn der Zauber abgelaufen ist oder aufgelöst wird, verschwinden alle Magiepunkte, die das derzeitige MAN des Anwenders überschreiten.</p>"
+    },
+    "analyzeMagic": {
+      "name": "Magie analysieren",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Berührung, Sofortig<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Gibt eine wahre Aussage über mindestens eine Funktion eines einzelnen magischen Gegenstandes, einer Entität oder einer Substanz. Jeder weitere ausgegebene Runenpunkt enthüllt eine weitere Aussage über den Gegenstand.</p>"
+    },
+    "arousePassion": {
+      "name": "Leidenschaft wecken",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Ernalda</i></p><p>Erhöht eine der Leidenschaften des Ziels um +20% und kann eine neue temporäre Leidenschaft von 20% erzeugen. Jeder zusätzliche Punkt erhöht die Leidenschaft um +20%.</p>"
+    },
+    "axisMundi": {
+      "name": "Axis Mundi",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Daka Fal, Waha</i></p><p>Dieses Beschwörungsritual erschafft ein Heiligtum mit einem Radius von 10 Metern, in dem die folgenden Effekte wirken:</p><ul><li>Ermöglicht das Erscheinen von Ahnengeistern ohne einen Sichtbarkeitszauber.</li><li>Wirkt als Leuchtfeuer für Geister.</li><li>Schützt den Schamanen, der ihn erschaffen hat, und wirkt wie ein Schutzkreis.</li><li>Dient als Ort für den Übergang eines Schamanengehilfen zu einem vollwertigen Schamanen.</li><li>Zieht die Geister des Kults an, so dass sie an den Zeremonien und Feiern anlässlich von Feiertagen teilnehmen.</li><li>Hält 15 Minuten plus weitere 15 Minuten pro Magiepunkt, der mit dem Zauber investiert wird.</li></ul>"
+    },
+    "axeTrance": {
+      "name": "Axttrance",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Babeester Gor</i></p><p>Jeder Magiepunkt, der mit diesem Zauber ausgegeben wird, erhöht eine der Axt-Fertigkeiten des Zaubernden um +10%. Dieser Zauber kann mit anderen waffenverstärkenden Zaubern kombiniert werden, jedoch nicht mit Berserker oder Fanatismus. Während der Trance muss sich der Zaubernde darauf konzentrieren, seine Axt im Kampf einzusetzen. Sollte der Zaubernde eine Pause bei der Ausführung von Aktivitäten einlegen, die mit dem Einsatz einer Axt im Kampf zu tun haben, endet die Wirkung des Zaubers.</p>"
+    },
+    "ban": {
+      "name": "Exkommunizieren",
+      "description": "<p><i><b>Kosten:</b> 1 oder 3<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Alle</i></p><p>Kann nur vom Ober- oder Hohepriester gewirkt werden. Verbietet dem Ziel die Teilnahme am Gottesdienst im Tempel oder Schrein des Zaubernden für drei Jahre (1 Pkt.) oder bis zum Tod des Ziels (3 Pkt.).</p>"
+    },
+    "bearsSkin": {
+      "name": "Bärenfell",
+      "description": "<p><i><b>Kosten:</b> 3<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Odayla</i></p><p>Dem Ziel wächst ein Pelz, der +6 auf GRÖ und 4 Punkte Schutzwert auf alle Trefferzonen gibt. Dies kann den Schadensbonus und die Trefferpunkte erhöhen. Kann nicht mit getragener Rüstung kombiniert werden. Kann nur auf Anhänger von Odayla gewirkt werden.</p>"
+    },
+    "bearsStrength": {
+      "name": "Bärenstärke",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Odayla, Orland der Donner</i></p><p>Die STÄ des Ziels verdoppelt sich und fügt +10% zu Beweglichkeit, Handhabung, sowie Waffen- und Schildfertigkeiten hinzu. Erhöht den Schadensbonus um eine Stufe (keine auf 1D4, 1D4 auf 1D6, dann auf 2D6, usw.). Kann nur auf Anhänger von Odayla und verbündeten Kulten gewirkt werden.</p>"
+    },
+    "becomeOtherSex": {
+      "name": "Gestaltwandel (in anderes Geschlecht)",
+      "description": "<p><i><b>Kosten:</b> 3<br><b>Typ:</b> Selbst<br><b>Kulte:</b> Eurmal</i></p><p>Verändert den Körper und das Aussehen des Ziels in das eines anderen Geschlechts, hat aber keine weiteren Auswirkungen auf Eigenschaften oder Fähigkeiten. Der Zaubernde kann wählen, ob er seine GRÖ reduzieren möchte, auf ein Minimum von 1.</p>"
+    },
+    "berserker": {
+      "name": "Berserker",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Kulte:</b> Babeester Gor, Sturmbulle</i></p><p>Das Ziel wird wahnsinnig und vergisst alles außer dem Bedürfnis, seine Feinde zu töten. Er kann nicht auf jemanden gewirkt werden, der unter dem Zauber Fanatismus steht, und die Zauber lassen sich nicht kombinieren. Berserker hat die folgenden Effekte:</p><ul><li>Erhöht die Angriffsfertigkeit des Ziels mit Handwaffen nochmals um die Hälfte.</li><li>Erhöht KON um die Hälfte (und damit die Trefferpunkte).</li><li>Verleiht 2 Punkte Gegenmagie.</li><li>Schutz vor Behinderung, Schock, Bewusstlosigkeit oder Erschöpfung während der Wirkung des Zaubers. Wenn sie diese erhalten, werden sie erst wirksam, sobald der Spruch abgeklungen ist.</li><li>Alle KON-Würfe sind erfolgreich, es sei denn, man würfelt 96-00.</li><li>Gegen Chaos (mit der Chaos-Rune oder von chaotischem Ursprung) wird der Angriffswert verdoppelt und die Gegenmagie auf 4 Punkte erhöht.</li><li>Ein Berserker kann weder zaubern noch Angriffen ausweichen oder sie parieren.</li></ul><p>TUm sich von dem Bann zu befreien, muss der Berserker INT×1 würfeln oder erfolgreich meditieren. Ein Initiierter der Chalana Arroy kann ihn mit einem CHA×5-Wurf aus dem Berserkerrausch holen. Wenn der Zauber abläuft, ist der Berserker außer Gefecht gesetzt, als ob er in einen tiefen Schlaf gefallen wäre. Er kann mit normalen Mitteln geweckt werden.</p>"
+    },
+    "bindGhost": {
+      "name": "Gespenst binden",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Humakt</i></p>Bindet den Geist eines willigen und sterbenden Humakti als Geist in das Zielgebiet. Erfordert eine Runde erfolgreichen Geisterkampfes.</p>"
+    },
+    "bindingEnchantment": {
+      "name": "Bindungsverzauberung",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Alle</i></p>Erschafft einen magischen Gegenstand, der einen Geist oder eine andere Wesenheit aufnehmen kann. Muss mit 1 Punkt permanenter MAN pro Eigenschaft, die die gewünschte Entität besitzt, verzaubert werden.</p>"
+    },
+    "blastEarth": {
+      "name": "Erde verderben",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Babeester Gor, Ernalda, Maran Gor</i></p>Beeinflusst einen Quadratmeter pro ausgegebenem Runenpunkt, mit jedem weiteren Punkt über 1 wird der Wert verdoppelt. Ein ganzes Jahr lang werden in dem betroffenen Gebiet keine Pflanzen mehr blühen, Früchte tragen oder wachsen.</p>"
+    },
+    "blessCrops": {
+      "name": "Ernte segnen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Ernalda</i></p>Segnet eine Hufe Land (eine Fläche, die eine Familie ernähren kann) und verbessert die Fertigkeiten des Bauern und sein Einkommen aus diesem Land.</p>"
+    },
+    "blessWoad": {
+      "name": "Waid segnend",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Orlanth der Abenteurer</i></p>Kann nur von einem Windlord von Orlanth an hohen Feiertagen gewirkt werden. Erzeugt einen Topf mit heiligem Waid (1 Pkt. an Rüstungschutzwert und magischem Schutz pro ausgegebenem Runenpunkt).</p>"
+    },
+    "catseye": {
+      "name": "Katzenaugen",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Yelmalio, Yinkin</i></p>Das Ziel sieht im Dunkeln wie eine Katze, sofern ein Mindestmaß an Licht vorhanden ist. Die Augen sehen katzenartig aus und reflektieren das Licht wie die einer Katze. Hält 12 Stunden an.</p>"
+    },
+    "charisma": {
+      "name": "Charisma",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Ernalda, Yinkin</i></p><p>Verdoppelt CHA; fügt +20% zu den Kommunikations- und Magiefertigkeiten hinzu.</p>"
+    },
+    "clairvoyance": {
+      "name": "Hellsehen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Ermöglicht es dem Zaubernden, im Trancezustand jeden Ort im Umkreis von fünf Kilometern zu sehen und zu hören, als ob er dort wäre. Der Zaubernde muss zuvor an diesem Ort gewesen sein.</p>"
+    },
+    "claws": {
+      "name": "Krallen",
+      "description": "<p><i><b>Kosten:</b>21<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Odayla, Yinkin</i></p>Dieser Zauber kann nur von und auf Initiierte von Odayla oder Yinkin gewirkt werden. Das Ziel erhält krallenbewehrte Hände mit den folgenden Effekten:</p><ul><li>1D6 Schaden plus Schadensbonus.</li><li>Die Trefferchance ist gleich der eines normalen Faustangriffs.</li><li>Das Ziel kann zweimal pro Runde im Abstand von 5 Aktionsrängen zuschlagen.</li><li>Erhält +50% für Klettern.</li></ul>"
+    },
+    "cloudCall": {
+      "name": "Bewölken",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Orlanth der Donner</i></p><p>Ruft oder erschafft eine Wolkendecke über dem gesamten sichtbaren Himmel und erhöht die Regenwahrscheinlichkeit um 20% pro ausgegebenem Runenpunkt.</p>"
+    },
+    "comfortSong": {
+      "name": "Trostlied",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Chalana Arroy</i></p><p>Dieses Lied der Macht bewirkt, dass diejenigen, die sich in Hörweite befinden, Trost vor Schmerz und Kummer finden. Entkräftete Abenteurer können weiter kämpfen, während dieses Lied gesungen wird.</p>"
+    },
+    "commandCultSpiritElemental": {
+      "name": "Kultgeist befehligen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Kulte:</b> Alle</i></p><p>Die verwendete Rune hängt von der Art des zu befehligenden Elementars ab. Ermöglicht es dem Zaubernden, einen beliebigen Geist oder Elementar seines Kultes zu beherrschen, sofern er dessen MAN überwindet. Ein Kultgeist oder Elementar, der nicht mit diesem Zauber kontrolliert wird, verhält sich entsprechend seiner ursprünglichen Neigung, bis er zerstört wird oder der Zauber abläuft.</p>"
+    },
+    "commandWorshipers": {
+      "name": "Gläubige zusammenrufen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Orlanth Rex</i></p>Veranlasst alle angeschlossenen Anhänger Orlanths im Umkreis von fünf Kilometern, sich innerhalb von zwei Tagen zu versammeln.</p>"
+    },
+    "createFissure": {
+      "name": "Erdspalte",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Maran Gor</i></p>Erzeugt eine 5 Meter lange, 5 Meter tiefe und 1 Meter breite Spalte für jeden ausgegebenen Runenpunkt. Wird er gegen eine Wand oder Struktur eingesetzt, erleidet diese Struktur 1W6 Punkte Schaden. Entsteht der Abgrund unter einem Ziel, muss das Ziel einen Wurf auf GES×3 schaffen, um nicht hineinzustürzen. Siehe @JournalEntry[DUMMY]{Falling}</p>"
+    },
+    "createMarket": {
+      "name": "Markt erschaffen",
+      "description": "<p><i><b>Kosten:</b> 3+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Issaries</i></p>Benötigt vier Stäbe. Erzeugt einen neutralen Handelsplatz im Quadrat von 10 Metern, der gegen diejenigen mit feindlichen Absichten geschützt ist. Dies bringt die folgenden Vorteile mit sich: @JournalEntry[${{openSystem.module.name}}$.spirit-magic-descriptions-DUMMY]{Countermagic} 1,  @JournalEntry[${{openSystem.module.name}}$.spirit-magic-descriptions-DUMMY]{Spirit Screen} 2 und fügt einem unwillkommenen Eindringling an einer zufälligen Trefferstelle 1W3 Punkte Schaden zu (ohne Berücksichtung der Rüstung). Zusätzlich ausgegebene Runenpunkte können die magischen Effekte im gleichen Umfang pro Punkt erhöhen oder sie können die Größe des Marktes um ein Vielfaches der ausgegebenen Punkte erhöhen. Hält acht Wochen.</p>"
+    },
+    "cureAllDisease": {
+      "name": "Alle Krankheiten heilen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Berührung, Sofortig<br><b>Kulte:</b> Chalana Arroy</i></p>Heilt jegliche Krankheiten, an denen das Ziel leidet (nicht aber den erlittenen Schaden).</p>"
+    },
+    "cureChaosWound": {
+      "name": "Chaoswunde heilen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Berührung, Sofortig<br><b>Kulte:</b> Chalana Arroy</i></p>Heilt eine Wunde oder Krankheit, die durch Chaos verursacht wurde, muss aber mit einem anderen Heilzauber kombiniert werden. Der Zauber liefert alle Magiepunkte, die zum Wirken des anderen Zaubers benötigt werden.</p>"
+    },
+    "curePoison": {
+      "name": "Vergiftung heilen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Chalana Arroy</i></p>Neutralisiert jegliche Gifte, an denen das Ziel leidet (aber nicht den erlittenen Schaden).</p>"
+    },
+    "darkWalk": {
+      "name": "Dunkelgang",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Argan Argar, Orlanth der Abenteurer</i></p><p>Ermöglicht es dem Benutzer, in der Dunkelheit und im Schatten, für alle in Reichweite vollkommen unsichtbar und lautlos zu sein.</p>"
+    },
+    "detectHonor": {
+      "name": "Ehre entdecken",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Orlanth Rex</i></p>Erkennt, ob das Ziel nach den Maßstäben der Orlanthi derzeit ehrenhaft ist.</p>"
+    },
+    "detectTruth": {
+      "name": "Wahrheit entdecken",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Humakt</i></p><p>Ermöglicht es dem Zaubernden zu erkennen, ob jemand im Umkreis von fünf Metern um den Zielort des Zaubers die Unwahrheit sagt.</p>"
+    },
+    "discorporation": {
+      "name": "Entkörperlichen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Daka Fal, Waha</i></p>Ein einstündiges Ritual, das es dem/der Zaubernden ermöglicht, die Geisterwelt zu betreten. Zusätzlich zum Wurf für den Zauber muss ein erfolgreicher Meditationswurf durchgeführt werden. Für Reisen, die mehr als fünf Kilometer vom Körper des Zaubernden entfernt sind, wird alle fünf Kilometer ein weiterer Runenpunkt benötigt, der beim Wirken des Zaubers ausgegeben wird. Siehe @JournalEntry[DUMMY]{Discorporation} für mehr Infomationen.</p>"
+    },
+    "dismissElementalType": {
+      "name": "(Elementar) bannen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Distanz, Sofortig<br><b>Kulte:</b> Ernalda (Erde), Orlanth (Luft), Die Sieben Mütter (alle außer Luft), Waha (Erde)</i></p>Die Rune hängt von der Art des Elementars ab, welches gebannt werden soll. Bannt einen Kultgeist (normalerweise ein Elementar) der angegebenen Art.</p><ul><li>Mit 1 Runenpunkt kann der Zaubernde versuchen, ein kleines Elementar zu bannen.</li><li>Mit 2 Runenpunkten kann der Zaubernde versuchen, ein mittleres Elementar zu bannen.</li><li>Mit 3 Runenpunkten kann der Zaubernde versuchen, ein großes Elementar zu bannen.</li></ul> <p>Der Zaubernde muss das MAN des Elementar überwinden, damit der Spruch funktioniert.</p>"
+    },
+    "dismissMagic": {
+      "name": "Magie bannen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Distanz, Sofortig<br><b>Kulte:</b> Alle</i></p>Jeder Punkt hebt 2 Punkte Geistmagie oder 1 Punkt Runenmagie auf.</p>"
+    },
+    "divination": {
+      "name": "Orakel",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Alle</i></p>Jeder Punkt ermöglicht es dem Zaubernden, seiner Gottheit eine einfache Frage zu stellen und eine Antwort von bis zu zehn Wörtern zu erhalten. Die Zauberdauer beträgt eine Stunde.</p>"
+    },
+    "earthShield": {
+      "name": "Erdschild",
+      "description": "<p><i><b>Kosten:</b> 3<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Babeester Gor, Ernalda, Orlanth der Abenteurer</i></p>Verleiht einem Schild für die Dauer unendlich viele Trefferpunkte.</p>"
+    },
+    "earthpower": {
+      "name": "Erdmana",
+      "description": "<p><i><b>Kosten:</b> 3+<br><b>Typ:</b> Selbst, Sofortig<br><b>Kulte:</b> Ernalda</i></p><p>Ziehe 1 Punkt MAN oder 1W8 Magiepunkte aus der Erde pro zusätzlich ausgegebenem Runenpunkt.</p>"
+    },
+    "extension": {
+      "name": "Verlängern",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Alle</i></p><p>Erhöht die Dauer eines anderen Runenzaubers. Bei 1 Punkt hält der Zauber eine Stunde an. Für 2 Punkte, einen Tag. Für 3 Punkte hält er eine Woche an.</p>"
+    },
+    "faceChaos": {
+      "name": "Chaostrutz",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Orlanth der Abenteurer, Sturmbulle</i></p><p>Im Kampf gegen das Chaos flieht das Ziel des Zaubers nicht und wird auch nicht ohnmächtig. Jeder zusätzliche Runenpunkt wirkt auf ein weiteres Ziel. Wenn das Ziel von dem Zauber Demoralisieren betroffen ist, kämpft es mit halber Chance.</p>"
+    },
+    "fear": {
+      "name": "Furcht",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Zorak Zoran</i></p><p>Dieser Zauber lässt im Ziel intensive, entkräftende Furcht aufsteigen. Der Zaubernde muss das MAN des Ziels überwinden. Der Grad des Erfolgs bei diesem Wurf bestimmt die genaue Wirkung des Zaubers. Die Wirkung von Furcht kann nicht gebannt werden.</p><h4>Effekte durch Furcht</h4><ul><li><b>Kritischer Erfolg:</b> Das Opfer stirbt vor Angst.</li><li><b>Spezieller Erfolg:</b> Das Opfer bricht für 20 minus KON volle Runden zusammen und muss einen KON×5-Wurf machen oder wie vorstehend sterben.</li><li><b>Erfolg:</b> Das Opfer ist für 20 Minus-KON-Nahkampfrunden [Demoralisiert](/rules/spirit-magic-spells.html#demoralize).</li><li><b>Misserfolg:</b> Intelligente Wesen werden nicht beeinflusst.</br>Nicht intelligente Kreaturen, einschließlich Tiere, werden für 20 minus KON Kampfrunden [Demoralisiert](/rules/spirit-magic-spells.html#demoralize).</li><li><b>Patzer:</b> Ziel wird nicht beeinflusst.</p></ul>"
+    },
+    "fearless": {
+      "name": "Furchtlos",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Kulte:</b> Orlanth der Abenteurer</i></p><p>Das Ziel erhält Immunität gegen Furcht, auch gegen magische Furcht wie Demoralisierung, Furcht oder Wahnsinn oder gegen Feinde, die furchtähnliche Effekte verursachen.</p>"
+    },
+    "findEnemy": {
+      "name": "Feind erkennnen",
+      "description": " <p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Alle</i></p><p>Warnt den Zaubernden, falls sich jemand in Reichweite befindet, der ihm Schaden zufügen will.</p>"
+    },
+    "findGrain": {
+      "name": "Getreide erkennen",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Ernalda</i></p><p>Findet alles Getreide in Reichweite und lässt es für den Zaubernden sichtbar leuchten, sofern es nicht durch drei oder mehr Meter Stein, Erde oder Metall blockiert wird.</p>"
+    },
+    "findMagic": {
+      "name": "Magie erkennen",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Erkennt das Vorhandensein von Magie innerhalb der Reichweite und lässt sie für den Zaubernden sichtbar leuchten, sofern sie nicht durch drei oder mehr Meter Stein, Erde oder Metall blockiert wird.</p>"
+    },
+    "flight": {
+      "name": "Fliegen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Issaries, Orlanth der Abenteurer</i></p><p>Transportiert einen Gegenstand (einschließlich des Zaubernden) mit einem Gewicht von bis zu GRÖ 6 für die Dauer des Zaubers durch die Luft. Jeder zusätzliche Runenpunkt erhöht die GRÖ um +6. Fliegende Objekte haben Bewegung 12 und können ihren Flug selbst steuern.</p>"
+    },
+    "harmony": {
+      "name": "Harmonie",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Chalana Arroy</i></p><p>Verhindert dass jemand im Umkreis von drei Metern je ausgegebenem Punkt gewalttätig wird. Um in diesem Bereich gewalttätig zu werden, ist ein Widerstandswurf in Höhe des MAN des Zaubernden im Vergleich zur Widerstandstabelle erforderlich. Jeder in Reichweite, dessen MAN überwunden worden ist, wird betroffen. Wirkt Zaubern mit Wirkung auf die Emotionen (Demoralisieren oder Fanatismus) entgegen, wenn diese schwächer sind als der Zauber Harmonie ( je nachdem, wie viele Punkte aufgewendet wurden). Harmonie kann mit Magiepunkten verstärkt werden, um anderen Zaubern entgegenwirken zu können.</p>"
+    },
+    "healBody": {
+      "name": "Körperheilung",
+      "description": "<p><i><b>Kosten:</b> 3<br><b>Typ:</b> Berührung, Sofortig<br><b>Kulte:</b> Chalana Arroy, Babeester Gor, Eiritha, Ernalda, Orlanth der Abenteurer</i></p><p>Heilt den gesamten Schaden, den das Ziel erlitten hat, unabhängig von der/den Trefferzone(n).</p>"
+    },
+    "healWound": {
+      "name": "Wundheilung",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Berührung, Sofortig<br><b>Kulte:</b> Alle</i></p><p>Heilt Trefferpunkte in Höhe der ausgegebenen Magiepunkte.</p>"
+    },
+    "healingTrance": {
+      "name": "Heiltrance",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Berührung, Duration<br><b>Kulte:</b> Chalana Arroy</i></p><p>Das Ziel fällt in einen tiefen Schlaf und heilt achtmal schneller als normal. Sowohl der Zaubernde als auch das Ziel schlafen so lange, bis das Ziel vollständig geheilt ist.</p>"
+    },
+    "illusionarySound": {
+      "name": "Klangillusion",
+      "description": " <p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Eurmal</i></p><p>Erzeugt ein ortsgebundenes Geräusch mit der vom Zaubernden gewählten Art, Dauer und dem Ziel. Mehr Punkte erhöhen Reichweite und Lautstärke.</p>"
+    },
+    "impedeChaos": {
+      "name": "Chaos ausweichen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Sturmbulle</i></p><p>Das Ziel dieses Zaubers wird für Chaoskreaturen schwer zu treffen. Für jeden in den Zauber investierten Punkt werden -20% von der Angriffsfertigkeit jeder Chaoskreatur, die das Ziel angreift, abgezogen. Chaos ausweichen hat keine Wirkung gegen nicht-chaotische Gegner.</p>"
+    },
+    "increaseDecreaseWind": {
+      "name": "Auffrischen/Abflauen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Orlanth</i></p><p>Erhöht die STÄ des Windes im Umkreis von 100 Metern um den Zaubernden. Jeder zusätzliche Punkt fügt +1W6 STÄ oder weitere 100 Meter hinzu.</p>"
+    },
+    "inviolable": {
+      "name": "Unbeirrbarkeit",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Ernalda</i></p><p>Beeinflusst jeden Anhänger von Ernalda oder Orlanth im Umkreis von drei Metern um den Zaubernden. Hebt Demoralisieren, Fanatismus und andere Gefühle beeinflussende Magie bei ihnen auf, beruhigt sie und verhindert Gewalt, sofern möglich.</p>"
+    },
+    "knowledge": {
+      "name": "Wissen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Ermöglicht es dem Zaubernden, die Geschichte eines Gegenstandes zu lesen.</p>"
+    },
+    "leap": {
+      "name": "Sprung",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Orlanth der Abenteurer</i></p><p>Das Ziel kann für die gesamte Dauer bis zu sechs Meter hoch oder sechs Meter weit springen. Jeder zusätzliche Punkt erhöht die Entfernung um +6 Meter.</p>"
+    },
+    "lie": {
+      "name": "Lügen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Selbst, Sofortig<br><b>Kulte:</b> Eurmal</i></p><p>Der Zaubernde kann eine Lüge aussprechen, egal wie haarsträubend, die von jedem Zuhörer geglaubt wird. Der Effekt hält an, bis die Lüge als falsch enttarnt wird (mindestens eine Kampfrunde). Die Zuhörer müssen die gesprochene Sprache verstehen, es sei denn, die Lüge ist nonverbal, z. B. eine Finte oder irreführende Geste.</p>"
+    },
+    "lightning": {
+      "name": "Blitz",
+      "description": " <p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Orlanth der Abenteurer</i></p><p>Beschwört einen Blitzschlag, der 1W6 je Runenpunkt an einer einzelnen Trefferzone anrichtet, wenn das MAN des Ziels vom Zaubernden überwunden werden muss. Physische Rüstung schützt nicht vor dem Schaden, magische Rüstung oder Schutz hingegen schon.</p>"
+    },
+    "lock": {
+      "name": "Schloss",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Issaries</i></p><p>Verschließt eine Tür, ein Tor, eine Luke, eine Truhe usw. mit einer STÄ, die der Anzahl der eingesetzten Magiepunkte entspricht. Der Zauber muss auf eine verschließbare Tür gewirkt werden und erhöht weder ihre Rüstung noch ihre Widerstandsfähigkeit in irgendeiner Weise. Pro Punkt benötigt man eine Stunde, um ihn zu wirken, und er hält acht Wochen an. Dieser Zauber wird oft mit Durchgang kombiniert.</p>"
+    },
+    "madness": {
+      "name": "Wahnsinn",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Die Sieben Mütter</i></p><p>Falls der Zaubernde das MAN des Ziels überwinden kann, erleidet das Opfer Effekte, die vom Grad des Erfolgs abhängen:</p><ul><li><b>Kritischer Erfolg:</b> Wahn: Das Opfer verliert sofort dauerhaft 1W4 INT und erleidet 30 minus MAN Tage lang einen ausgewürfelten Effekt der Tabelle für Wahnzustände</li><li><b>Spezieller Erfolg:</b> Wutausbruch: Das Opfer greift 30 minus MAN Minuten lang die nächstbeste Person an, als ob es dem Geisterzauber Fanatismus unterliegen würde.</li><li><b>Erfolg:</b> Katatonie: Das Opfer bricht für 30 minus MAN Minuten zusammen und kann so lange nicht aufgeweckt werden.</li><li><b>Misserfolg/Patzer</b> Keino Effekt.</li></ul>"
+    },
+    "magicPointEnchantment": {
+      "name": "Magiepunktspeicherverzauberung",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Alle</i></p><p>Wird auf einen Gegenstand gewirkt, um diesen zum Speichern von Magiepunkten für das Zaubern zu verwenden. Für jeden gewirkten Punkt wird eine Stunde benötigt, und der Gegenstand speichert 1W10 Magiepunkte. Das Speichern von 1 Magiepunkt in einem Gegenstand dauert eine Kampfrunde.</p>"
+    },
+    "matrixCreation": {
+      "name": "Matrixverzauberung",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Alle</i></p><p>Speichert einen Geistermagie- oder Runenzauber in einem Gegenstand zu den Kosten von 1 Punkt permanenter MAN pro Punkt des Zaubers. Jeder, der den Gegenstand besitzt, kann ihn einsetzen, indem er die Magiepunktkosten aufwendet (falls nötig) und einen Wurf auf MAN×5 erfolgreich absolviert. Runenmatrizen müssen mit einem Wurf auf Gottesdienst in einem Tempel wieder aufgeladen werden.</p>"
+    },
+    "mindblast": {
+      "name": "Mentaler Schlag",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Die Sieben Mütter</i></p><p>Zersetzt die INT des Ziels, sofern der Zaubernde das MAN des Ziels überwinden kann. Der Effekt hält für die Dauer von 1/2 MAN des Zaubernden in Tagen an (aufrunden). Der Effekt kann nicht aufgehoben werden. Wenn der Zaubernde einen speziellen Erfolg beim Überwinden des MAN des Ziels erzielen kann, verursacht der Angriff außerdem 1W6+2 Schaden an der Trefferzone Kopf des Ziels. Rüstung schützt nicht vor diesem Schaden, magischer Schutz jedoch schon.</p>"
+    },
+    "mindRead": {
+      "name": "Gedankenlesen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Der Zaubernde kann die bewussten Gedanken des Ziels ohne dessen Zustimmung lesen, wobei das Ziel jedoch merkt, was vor sich geht. Der Zaubernde muss das MAN des Ziels überwinden, um den Zauber wirken zu können.</p>"
+    },
+    "mistCloud": {
+      "name": "Nebelwolke",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Orlanth der Abenteurer</i></p><p>Erschafft eine Blase aus natürlich aussehendem Nebel mit einem Durchmesser von zwei Metern um den Zaubernden für jeden ausgegebenen Runenpunkt. Die Sichtweite innerhalb des Nebels oder durch ihn hindurch ist auf einen Meter begrenzt.</p>"
+    },
+    "morale": {
+      "name": "Moral heben",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Humakt</i></p><p>Erzeugt um den Zaubernden und seine Einheit ein Feld wie bei einem Fanatismus-Zauber, jedoch ohne die Einschränkungen beim Ausweichen und Parieren. Hält bis Sonnenaufgang oder Sonnenuntergang, je nachdem, was zuerst eintritt.</p>"
+    },
+    "multispell": {
+      "name": "Kombinieren",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Selbst<br><b>Kulte:</b> Alle</i></p><p>Ermöglicht die Kombination zweier Geisterzauber, die zusammen auf ihrem höchsten Aktionsrang gewirkt werden. Dies gilt für die gesamte Dauer des Zaubers: In jeder Kampfrunde kann der Zaubernde also zwei Geisterzauber wirken. Jeder zusätzliche Runenpunkt fügt einen Zauber hinzu.</p>"
+    },
+    "oath": {
+      "name": "Schwur",
+      "description": "<p><i><b>Kosten:</b> 2+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Humakt</i></p><p>Jede beteiligte Person gibt Magiepunkte aus und schließt einen Pakt: Eidbrecher erleiden einen Zauber Entseelen mit Magiepunkten in Höhe der insgesamt für den Schwur ausgegebenen Magiepunkte. Jeder zusätzliche Runenpunkt fügt dem Schwur eine Person hinzu. Hält an, bis er gebrochen wird.</p>"
+    },
+    "passage": {
+      "name": "Durchlass",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Issaries</i></p><p>Dieser Zauber öffnet jede beliebige verschlossene, versperrte oder magisch versiegelte Öffnung. Wenn er gewirkt wird, müssen die Person(en), die den Durchgang erhalten ebenfalls anwesend sein und ihre Hände auf die Öffnung legen, während der Zauberspruch gesprochen wird. Jeder Punkt Durchgang erlaubt einer Person durch die magisch beeinflusste Öffnung zu gehen oder sie zu öffnen, außer außer dem Zaubernden.</p>"
+    },
+    "pathWatch": {
+      "name": "Wegwacht",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Selbst, Duration<br><b>Kulte:</b> Issaries</i></p><p>Muss auf einen bekannten Pfad oder eine sichtbare Straße gelegt werden, auf der der Zaubernde reisen wird. Weist den Zaubernden auf die Richtung und die Anzahl (nicht die Art) aller Feinde und Fallen im Umkreis von 100 Metern um den Zaubernden hin, solange er sich auf dem Weg oder in dessen unmittelbarer Nähe befindet. Die Wirkung hält an, solange der Weg anhält und der Zaubernde wach ist.</p>"
+    },
+    "reconstruction": {
+      "name": "Rekonstruieren",
+      "description": "<p><i><b>Kosten:</b> 3<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Bewirkt, dass eine beliebige 15-minütige Sequenz aus der Vergangenheit für die Sinne des Zaubernden erneut abgespielt wird, während er sich in der unmittelbaren Umgebung befindet, in der sie sich zugetragen hat. Der Zaubernde muss die genaue Zeit und Datum der Vision nennen.</p>"
+    },
+    "reflection": {
+      "name": "Reflexion",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Eurmal, Die Sieben Mütter</i></p><p>Dieser Zauber wendet Zauber, die es nicht schaffen, das MAN des mit Reflexion geschützten Individuums zu überwinden, gegen ihren Urheber, welcher daraufhin im nächsten Aktionsrang von ihnen angegriffen wird. Da das MAN des reflektierten Angriffszaubers dem MAN desjenigen entspricht, der den Zauber ursprünglich gewirkt hat, besteht eine Chance von 50%, den Widerstand des Urhebers zu überwinden.</p>"
+    },
+    "regrowLimb": {
+      "name": "Gliederregeneration",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Berührung, Permanent<br><b>Kulte:</b> Chalana Arroy, Ernalda, Issaries, Die Sieben Mütter</i></p><p>Dieser Zauber lässt eine abgetrennte oder verstümmelte Gliedmaße nachwachsen. Wenn eine Gliedmaße verloren wurde, dann sollte der Spielleiter entscheiden, wie viel Prozent der Gliedmaße dabei zerstört wurden. Dazu kann der Spielleiter entweder mit W100 würfeln oder dies selbst entscheiden. Das Ergebnis zeigt, wie viel Prozent der Gliedmaße neu regeneriert werden müssen. Wenn der Zauber innerhalb von zehn Minuten, nachdem der Schaden erlitten wurde, auf die Wunder gewirkt wird, beträgt die Regenerationsrate 10% pro Woche, andernfalls beträgt sie nur 20% pro Jahreszeit.</p>"
+    },
+    "restoreHealth": {
+      "name": "Gesundmachen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Berührung, Sofortig<br><b>Kulte:</b> Chalana Arroy</i></p><p>Dieser Zauber bringt Eigenschaftspunkte zurück, die zuvor durch Krankheit, durch den Zauberspruch Anzapfen oder durch andere Umstände verloren worden sind. Dieser Zauber heilt nicht die Krankheit, unter der das Opfer möglicherweise leidet. Er heilt auch keine Eigenschaftspunkte, die durch den Tod verlorengegangen sind.</p>"
+    },
+    "resurrect": {
+      "name": "Wiederbeleben",
+      "description": "<p><i><b>Kosten:</b> 3<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Chalana Arroy, Daka Fal</i></p><p>Erweckt eine tote Person wieder zum Leben, nachdem der Körper durch Heilmagie auf mindestens 3 Trefferpunkte geheilt wurde. Wenn der Tod durch eine Krankheit verursacht wurde, muss der Krankheitsgeist zuerst aus dem Körper gebannt werden. Nach dem Wirken muss der Zaubernde den Geist des Verstorbenen im Geisterkampf besiegen. Wenn der Zaubernde erfolgreich ist, kehrt der Geist in seinen Körper zurück und wird wieder lebendig. Scheitert der Zaubernde, vergeht der Geist ohne Hoffnung auf Heilung. Für jeden Tag, den der Körper über den ersten Tag hinaus tot ist, büßt der Verstorbene jeweils 1W3 Punkte auf STÄ, KON und GES ein. Wenn eine dieser Eigenschaften auf 0 reduziert wird, kann der Abenteurer nicht mehr ins Leben zurückkehren. </p><p>Jemand, der länger als sieben Tage tot ist, kann durch diesen Zauber nicht mehr zurückgebracht werden, und es liegt in der Hand der Götter, ob er in die Mittelwelt zurückkehren kann.</p>"
+    },
+    "safe": {
+      "name": "Verriegeln",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Berührung, Duration<br><b>Kulte:</b> Argan Argar</i></p><p>Wird auf einen Behältnis oder eine Öffnung gewirkt, um einen unerwünschten Durchgang zu verhindern, muss mit Magiepunkten verstärkt werden. Jeder andere als der Zaubernde, der das gesicherte Behältnis öffnet oder den Durchgang durchquert, wird von diesen Magiepunkten angegriffen. Wenn das MAN des Eindringlings überwunden werden muss, erleidet er 1W6 Punkte Trefferpunkte Schaden und wird zurückgedrängt. Hält acht Wochen.Wird auf einen Behältnis oder eine Öffnung gewirkt, um einen unerwünschten Durchgang zu verhindern, muss mit Magiepunkten verstärkt werden. Jeder andere als der Zaubernde, der das gesicherte Behältnis öffnet oder den Durchgang durchquert, wird von diesen Magiepunkten angegriffen. Wenn das MAN des Eindringlings überwunden werden muss, erleidet er 1W6 Punkte Trefferpunkte Schaden und wird zurückgedrängt. Hält acht Wochen.</p>"
+    },
+    "sanctify": {
+      "name": "Geweihter Boden",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Riual<br><b>Kulte:</b> Alle</i></p><p>Dies segnet einen Raum mit einem Radius von 10 Metern, normalerweise eine Kugel, die halb über und halb unter der Erde liegt (für Erdkulte ist dies ein Kubus). Kultmitglieder können in diesem Bereich Zeremonien wie in einem Tempel durchführen, einschließlich des Aufladens von Runenpunkten.</p><p>Die Grenze schimmert leicht im Tageslicht, ist aber nicht durch Berührung oder Dunkelsinn wahrnehmbar. Jeder, der sich in einem beliebigen Teil des geweihten Bereichs aufhält, wird als vollständig eingeschlossen betrachtet. Der Zaubernde wird sofort gewarnt, wenn Nicht-Initiierte, Zauber oder Geister in den Bereich eindringen.</p><p>Wenn die Zeremonien enden, endet auch der Zauber. Zusätzliche Runenpunkte vergrößern seinen Bereich nochmals um die Hälfte (2 Punkte schützen einen 15-Meter-Radius, 3 Punkte einen 22,5-Meter-Radius usw.).</p>"
+    },
+    "severSpirit": {
+      "name": "Entseelen",
+      "description": "<p><i><b>Kosten:</b> 3<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Humakt</i></p><p>Greift die Verbindung zwischen Körper und Geist des Ziels an. Das Ziel muss einen Widerstandswurf MAN vs. MAN schaffen oder es stirbt. Überwindet der Zaubernde nicht das MAN des Opfers, erleidet das Ziel trotzdem 1W6 Trefferpunkte allgemeinen Schaden.</p>"
+    },
+    "shakeEarth": {
+      "name": "Erde schütteln",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Maran Gor</i></p><p>Verursacht ein kleines Erdbeben: Die ausgegebenen Magiepunkte bestimmen den Wirkungsbereich und die Runenpunkte die Stärke des Bebens. Betroffen ist ein Quadratmeter pro Magiepunkt, exponentiell (1 Magiepunkt = 1 Quadratmeter, 2 Magiepunkte = 4 Quadratmeter, usw.). Jeder, der sich in dem betroffenen Gebiet aufhält, verliert pro Runenpunkt -5% seiner Beweglichkeits- und Handhabungsfertigkeiten und muss jede Runde einen GES×5-Wurf bestehen oder zu Boden fallen, modifiziert um den vorgenannten Malus.</p>"
+    },
+    "shield": {
+      "name": "Schild",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Many</i></p><p>Die Rune variiert je nach Kult. Jeder Punkt des Schildes verleiht dem Träger 2 Punkte magische Rüstung und 2 Punkte Gegenmagie. Die Effekte sind kumulativ mit Schutz oder Gegenmagie.</p>"
+    },
+    "slash": {
+      "name": "Schlitzen",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Babeester Gor</i></p><p>Muss auf eine ein- oder zweihändige Axt gewirkt werden. Jeder ausgegebene Punkt erhöht den Schaden der Waffe um +1W6. Dieser zusätzliche Schaden wird nach eventuellen Effekten eines speziellen oder kritischen Erfolgs addiert.</p>"
+    },
+    "soulSight": {
+      "name": "Seelenblick",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Alle</i></p><p>Ermöglicht es dem Empfänger, sowohl die MAN-Aura von Lebewesen zu sehen als auch die aktuellen Magiepunkte anderer Wesen und Kreaturen auf magische Weise zu erkennen, inklusive der Menge, die für derzeit wirksame Zauber verwendet wird.</p>"
+    },
+    "spellTrading": {
+      "name": "Zaubertausch",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Typ:</b> Berührung, Sofortig<br><b>Kulte:</b> Issaries</i></p><p>Dieser Zauber kann nur auf einem Markt des Issaries gewirkt werden und benötigt einen symbolischen Wertgegenstand für den Austausch. Erlaubt dem Zaubernden, einen beliebigen Runenzauber (außer diesem!), der einmal eingesetzt werden kann, gegen einen beliebigen Runenzauber eines anderen Priesters eines beliebigen Kultes einzutauschen. Kostet Runenpunkte in Höhe von 2 plus die Runenpunktkosten des zu tauschenden Zaubers.</p><p>Werfen Sie beim Wirken 1W100: ein Wurf von 01-95 bedeutet Erfolg, ein Fehlschlag bedeutet, dass der Zauber sofort auf die Person wirkt, mit der er getauscht wird (aber immer noch getauscht wird).</p><p>Der neue Eigentümer des Zaubers wird beim Wirken des Zaubers die bereits eingesetzten Runenpunkte einsetzen und die Runenaffinität des ursprünglichen Eigentümers (auch wenn diese niedriger ist als die des neuen Eigentümers), deshalb sollten diese Angaben beachtet werden. Die Runenpunkte für den Zauberspruch werden nicht auf das Maximum des neuen Besitzers angerechnet.</p>"
+    },
+    "spiritArmorEnchantment": {
+      "name": "Geisterrüstungsverzauberung",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Alle</i></p><p>Pro permanent geopfertem MAN-Punkt wird 1W3 Punkte Rüstung gegen Schaden durch Geisterkampf erschaffen. Das Wirken nimmt eine Stunde in Anspruch.</p>"
+    },
+    "spiritBlock": {
+      "name": "Geisterblockade",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Alle</i></p><p>Hilft, den Empfänger vor Angriffen von Geistern zu schützen. Jeder Punkt dieses Zaubers wirkt wie eine geistige Rüstung und absorbiert 2 Punkte Magiepunkteschaden, der dem Zaubernden im Geisterkampf zugefügt wird.</p>"
+    },
+    "summonCultSpirit": {
+      "name": "Kultgeist beschwören",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Distanz, Vorübergehend<br> <b>Kulte:</b> Alle</i></p><p>Die Gottheit des Zaubernden schickt ihm einen Kultgeist zu Hilfe. Die Größe dieses Geistes hängt von der Anzahl der eingesetzten Runenpunkte ab. In der Regel haben mächtigere Gottheiten mehr Größen und Arten von Kultgeistern. Die beschworene Entität erscheint am Ende der Runde, auf Aktionsrang 12. Dieser Zauber kann gleichzeitig mit Kultgeist befehligen gewirkt werden.</p><p>Elementar beschwören ist ein spezifisches Beispiel für diesen Zauber, aber es existieren viele weitere Varianten.</p>"
+    },
+    "summonElementalType": {
+      "name": "(Elementar) beschwören",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Distanz, Vorübergehend<br><b>Kulte:</b> Ernalda (Earth), Orlanth (Air), Die Sieben Mütter (all but Air), Waha (Earth)</i></p><p>Die Rune, die eingesetzt wird, hängt von der Art des beschworenen Elementars ab. Wenn der Zauber gewirkt wird, schickt die Gottheit ein Elementar des Typs der Rune. Elementare gibt es in drei Größen: klein (1 Pkt.), mittelgroß (2 Pkt.) und groß (3 Pkt.). Die Größe des Elementars hängt davon ab, mit wievielen Runenpunkten der Zauber summiert wurde (begrenzt durch die maximale Größe des Elementars, die dem Kult zur Verfügung steht).</p><p>Nach der Beschwörung folgt das Elementar seinen natürlichen Neigungen, es sei denn, es wird durch einen Befehligen-Zauber gebunden. Der Spielleiter sollte diese bestimmen, wenn sie nicht offensichtlich sind. Wenn er nicht durch einen Befehligen-Zauber gebunden ist, kann das Elementar nicht angreifen, es sei denn, es wird angegriffen, und bleibt, bis es physisch zerstört wird oder bis 15 Minuten vergangen sind, je nachdem, was zuerst eintritt.</p>"
+    },
+    "summonHealingSpirit": {
+      "name": "Heilungsgeist beschwören",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Kulte:</b> Chalana Arroy</i></p><p>Beschwört einen Heilgeist, dessen MAN von seiner Größe abhängt:</p><ul><li>Klein (1 Pkt.): 3W6 MAN/Magiepunkte</li><li>Mittel (2 Pkt.): 3W6+6 MAN/Magiepunkte</li><li>Groß (3 Pkt.): 4W6+6 MAN/Magiepunkte</li></ul><p>Der Geist kann alle 24 Stunden pro Magiepunkt einen Trefferpunkt bei einer Person heilen, wobei diese Heilung eine Stunde dauert.</p>"
+    },
+    "sunbright": {
+      "name": "Sonnenschein",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Kulte:</b> Yelmalio</i></p><p>Erzeugt einen Lichtkreis mit einem Radius von 60 Metern um das Ziel. Falls das Ziel unwillig ist, muss sein MAN durch einen Widerstandswurf überwunden werden. Hat die Wirkung von vollem Tageslicht, wobei Höhlentrolle und Trollinge, Vampire, Ghule und Untote wie durch den Zauber Demoralisieren betroffen werden. Wirkt wie ein Verschwimmen 2 Zauber. Dunkelheitselementare erleiden durch diesen Zauber 1W3 Schaden pro Runde. Wird der Zauber direkt auf ein solches Elementar gewirkt und sein MAN in einem Widerstandswurf besiegt, wird es gebannt.</p>"
+    },
+    "sureshot": {
+      "name": "Treffsicherheit",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Foundchild, Yelm</i></p><p>Wird auf eine Fernkampfwaffe gewirkt. Bei Erfolg trifft der nächste Angriff innerhalb der Reichweite immer, es sei denn, es wird ein 96-00 für den Angriff geworfen. Spezielle und kritische Erfolge werden entsprechend der Fertigkeit des Angreifers gewertet. Angriffe, die mit diesem Zauber ausgeführt werden, werden nicht für Erfahrung gezählt, und der Zauber kann nicht mit Scharfschuss oder Feuerpfeil kombiniert werden. Wenn er zusammen mit Geschossbündel eingesetzt wird, wirkt Treffsicherheit nur auf das erste/ursprüngliche Geschoss.</p>"
+    },
+    "swordTrance": {
+      "name": "Schwerttrance",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Selbst<br><b>Kulte:</b> Humakt</i></p><p>Jeder Magiepunkt, der für diesen Zauber ausgegeben wird, erhöht eine der Schwertfertigkeiten des Zaubernden um +10%. Dieser Zauber kann mit anderen waffenverstärkenden Zaubern kombiniert werden, jedoch nicht mit Berserker oder Fanatismus. Während der Trance muss sich der Zaubernde darauf konzentrieren, sein Schwert im Kampf einzusetzen. Sollte er jegliche Aktivitäten unterbrechen, die mit dem Einsatz des Schwertes im Kampf zusammenhängen, endet auch die Wirkung des Zaubers.</p>"
+    },
+    "teleportation": {
+      "name": "Teleportieren",
+      "description": "<p><i><b>Kosten:</b> 3+<br><b>Typ:</b> Selbst oder Berührung, Sofortig<br><b>Kulte:</b> Orlanth der Abenteurer</i></p><p>Der Zaubernde kann sich an einen Ort teleportieren, der sichtbar ist, entweder mit seinen Augen oder durch die Augen eines verbündeten Geistes. Für jeden zusätzlichen Runenpunkt kann ein weiteres Lebewesen mitteleportiert werden, sofern es den Zaubernden berührt. Unfreiwillige Ziele müssen durch einen MAN-Widerstandswurf besiegt werden.</p>"
+    },
+    "translate": {
+      "name": "Übersetzen",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Übersetzt alle Wörter, die der Nutzer bei normaler Lesegeschwindigkeit mit dem Zeigefinger berührt, und hinterlässt einen Eindruck von der Bedeutung. Es werden keine Sprachen übersetzt, die der Leser nicht kennt.</p>"
+    },
+    "truespeak": {
+      "name": "Wahrsprechen",
+      "description": "<p><i><b>Kosten:</b> 2<br><b>Kulte:</b> Lhankor Mhy</i></p><p>Das Ziel kann nur noch die Wahrheit sagen und muss alle Fragen wahrheitsgemäß beantworten. Bei jeder Frage muss der Zaubernde das MAN des Ziels überwinden, sonst kann das Ziel frei sprechen. Die Zielperson darf auch schweigen.</p>"
+    },
+    "trueSword": {
+      "name": "Wahres Schwert",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Berührung<br><b>Kulte:</b> Humakt</i></p><p>Verdoppelt den Schaden der Waffe, auf die er gewirkt wird (normalerweise ein Schwert), indem zweimal gewürfelt und die Summen kombiniert werden. Der Schadensbonus des Anwenders wird nicht verdoppelt.</p>"
+    },
+    "turnUndead": {
+      "name": "Untote abwenden",
+      "description": "<p><i><b>Kosten:</b> 1+<br><b>Typ:</b> Sofortig<br><b>Kulte:</b> Humakt</i></p><p>Wirkt auf einen Untoten pro Punkt. Würfle mit dem MAN des Zaubernden gegen die Magiepunkte des Ziels:</p><ul><li><b>Kritischer Erfolg:</b> Untote vernichtet, entlassen oder anderweitig beseitigt.</li><li><b>Speziell:</b> Untote sind für 20 Kampfrunden minus ihrer INT gelähmt (mindestens 1, Skelette sind 20 Runden lang inaktiv).</li><li><b>Erfolg:</b> Untote fliehen, wenn möglich. Wenn nicht, siehe <b>Speziell</b>.</li><li><b>Misserfolg:</b> Der Untote ist Verwirrt (siehe Geistermagie).</li><li><b>Patzer</b> Kein Effekt.</li></ul>"
+    },
+    "warding": {
+      "name": "Schutzzone",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Typ:</b> Ritual<br><b>Kulte:</b> Alle</i></p><p>Mit diesem Ritual wird ein sicherer Raum für diejenigen geschaffen, die sich innerhalb des Bereichs aufhalten. Vier Stäbe, die in einem groben Rechteck angeordnet sind, definieren die Grenze des Bereichs. Sie können aus einem beliebigen Material bestehen und müssen so platziert werden, dass sie einen Bereich von bis zu 100 Quadratmetern (typischerweise 10×10 Meter) umschließen. Der Zauber erstreckt sich drei Meter oberhalb der Stäbe in die Luft und bis zur Tiefe der Stäbe in die Tiefe. Die Stäbe müssen nicht sichtbar sein, um zu wirken; manche Zaubernde vergraben sie vollständig.</p><p>Der Zauber verbindet diese Stäbe unsichtbar miteinander und bildet so eine Barriere, die nur auf magische Weise aufgespürt werden kann. Die Schutzwirkung wird aktiv, sobald physische oder geistige Feinde des Zaubernden die Barriere durchqueren oder wenn ein Zauber von außen durch die Barriere gewirkt wird. Wenn dies geschieht, ertönt ein lautes Geräusch (ein Keifen, Pfeifen, Dröhnen usw.), das vom zaubernden Priester unterdrückt werden kann.</p><p>Jeder Punkt Schutzzone (bis zu 4) entspricht 1 Punkt Gegenmagie gegen Zauber, die durch die Barriere gewirkt werden, 2 Punkten Geisterrüstung gegen Geister von außen und fügt jedem beliebigen körperlichen Feind, der unklug genug ist, die Grenze zu überschreiten, 1W3 Schaden an einer Trefferzone zu, ohne Rücksicht auf Rüstung. </p><p>Jeder zusätzliche Punkt Schutzzone vergrößert den geschützten Bereich um weitere 100 Quadratmeter.</p><p>Der Zauber Schutzzone bleibt in Kraft, bis einer der Stäbe entfernt wird. Jeder mit Ausnahme des Zaubernden, der versucht, die Pfähle zu berühren, wird durch den Zauber beeinträchtigt, kann die Pfähle aber entfernen, nachdem die Auswirkungen erlitten wurden.</p>"
+    },
+    "windWords": {
+      "name": "Windworte",
+      "description": "<p><i><b>Kosten:</b> 1<br><b>Kulte:</b> Lhankor Mhy, Orlanth der Abenteurer</i></p><p>Bewirkt, dass der Wind Gespräche zu den Ohren des Zaubernden bringt, als stünde er direkt neben dem Sprecher.</p>"
+    }
+  },
+  "runeType": {
+    "condition": "condition",
+    "element": "element",
+    "form": "form",
+    "power": "power",
+    "technique": "technique"
+  },
+  "spiritMagic": {
+    "befuddle": {
+      "name": "Verwirren",
+      "description": "<p>Das Ziel ist verwirrt und kann sich nur verteidigen, bis es direkt angegriffen wird.</p>"
+    },
+    "bladesharp": {
+      "name": "Scharfklinge",
+      "description": "<p>Fügt einer Klingenwaffe +5% auf den Schlag und +1 Schaden pro Punkt hinzu. Magischer Schaden kann magische Kreaturen verletzen. Nicht kompatibel mit Feuerklinge.</p>"
+    },
+    "bludgeon": {
+      "name": "Niederknüppeln",
+      "description": "<p>Fügt einer stumpfen Waffe +5% auf den Schlag und +1 Schaden pro Punkt hinzu. Magischer Schaden kann magischen Kreaturen schaden.</p>"
+    },
+    "coordination": {
+      "name": "Koordination",
+      "description": "<p>Steigert die GES des Ziels um +3, modifiziert die Aktionssränge um -1 und fügt +5% zu allen Fertigkeiten der Kategorien Gewandtheit, Manipulation, Heimlichkeit und Waffen hinzu.</p>"
+    },
+    "countermagic": {
+      "name": "Gegenmagie",
+      "description": "<p>Blockt 1 Punkt Geistermagie für jeden Punkt Gegenmagie oder 1 Punkt Runenmagie für je 2 Punkte Gegenmagie.</p>"
+    },
+    "demoralize": {
+      "name": "Demoralisieren",
+      "description": "<p>Das Ziel wird versuchen, sich zurückzuziehen, wenn es möglich ist; wenn nicht, greift es mit halber Wahrscheinlichkeit an.</p>"
+    },
+    "detectEnemies": {
+      "name": "Feinde spüren",
+      "description": "<p>Dieser Zauber gibt die grobe Richtung und Entfernung eines Wesens an, das ihm schaden will, oder er erkennt und lokalisiert ein bestimmtes Individuum, auf das sich der Zaubernde konzentriert. Der Wirkung des Zaubers kann nicht widerstanden werden.</p><p>Der Spüreffekt wird durch einen oder mehrere Meter einer dichten Substanz wie Stein, Metall oder Erde aufgehalten.</p>"
+    },
+    "detectSubstance": {
+      "name": "(Substanz) spüren",
+      "description": "<p>Repräsentiert viele Sprüche. Zeigt auf das nächstgelegene Objekt des betreffenden Typus, so dass dieses für alle sichtbar hell leuchtet, sofern es nicht durch einen Meter Erde, Stein, Metall usw. blockiert wird.</p>"
+    },
+    "detectUndead": {
+      "name": "Untote spüren",
+      "description": "<p>Erkennt die Anwesenheit von untoten Kreaturen wie Zombies, Mumien und Vampiren und gibt Richtung und Entfernung zum Zaubernden an. Der Zauber unterscheidet zwischen Untoten von menschlicher Größe (GRÖ 3-21) und solchen von großer Größe (GRÖ 22+). Untote Kreaturen von GRÖ 2 oder kleiner werden nicht registriert. Er verrät nicht, welche Art von Untoten entdeckt wird.</p><p>Der Spüreffekt wird durch einen oder mehrere Meter einer dichten Substanz wie Stein, Metall oder Erde gestoppt.</p>"
+    },
+    "dispelMagic": {
+      "name": "Magie auflösen",
+      "description": "<p>Hebt 1 Punkt Geistermagie pro Punkt Magie Auflösen oder 1 Punkt Runenmagie pro je 2 Punkte Magie Auflösen auf.</p>"
+    },
+    "disruption": {
+      "name": "Verletzen",
+      "description": "<p>Wenn MAN des Ziels überwunden wird, verursacht er 1W3 Schaden an einer zufälligen Trefferzone, kein Rüstungsschutz.</p>"
+    },
+    "distraction": {
+      "name": "Ablenken",
+      "description": "<p>Zwingt den ausgewählten Geist, den Zauberer anzugreifen und nicht eine andere Person.</p>"
+    },
+    "dullblade": {
+      "name": "Stumpfklinge",
+      "description": "<p>Jeder ausgegebene Magiepunkt reduziert den Schaden einer Waffe um 1 Punkt und modifiziert ihre Angriffschance um -5%. Er hat keine Wirkung auf natürliche Waffen. Wird er gegen eine Waffe mit einem Geist eingesetzt, muss der Zaubernde die Magiepunkte des Geistes durch einen Widerstandswurf überwinden.</p>"
+    },
+    "extinguish": {
+      "name": "Löschen",
+      "description": "<p>Löscht ein Feuer. 1 Punkt löscht eine Fackel oder Laterne, 2 ein kleines Lagerfeuer, 3 ein großes Lagerfeuer, usw.</p>"
+    },
+    "fanaticism": {
+      "name": "Fanatismus",
+      "description": "<p>Das Ziel erhöht seine Trefferchance um die Hälfte, kann aber nicht mehr parieren. Ausweichen wird halbiert.</p>"
+    },
+    "farsee": {
+      "name": "Fernsicht",
+      "description": "<p>Jeder Punkt dieses Zaubers halbiert die Sichtdistanz zwischen demjenigen, auf den er gewirkt wurde, und dem Rest des Universums.</p>"
+    },
+    "firearrow": {
+      "name": "Feuerpfeil",
+      "description": "<p>Wird auf ein Geschoss (Pfeil, Stein usw.) gewirkt, das 3D6 Schaden (anstelle des tatsächlichen Schadens der Waffe) plus ½ Schadensbonus verursacht. Kann nicht aufspießen, und das Geschoss wird vom Feuer verzehrt. Rüstung bietet Schutz, allerdings kann brennbares Material entzündet werden. Nicht kompatibel mit Geschossbündel und Scharfschuss.</p>"
+    },
+    "fireblade": {
+      "name": "Feuerklinge",
+      "description": "<p>Auf eine scharfe Waffe oder einen Speer gewirkt, richtet sie 3D6 Schaden (anstelle des tatsächlichen Schadens der Waffe) plus Schadensbonus an. Magieresistenz wirkt nicht dagegen. Die Waffe bleibt unversehrt. Nicht kompatibel mit Scharfklinge.</p>"
+    },
+    "forget": {
+      "name": "Vergessen",
+      "description": "<p>Lässt das Ziel vergessen, was zehn Runden vor und nach dem Zauberspruch geschehen ist. Die Wirkung tritt fünf Minuten nach dem Wirken des Zaubers ein.</p>"
+    },
+    "glamour": {
+      "name": "Beeindrucken",
+      "description": "<p>Erhöht CHA um +8. Erhöht den Geisterkampfschaden um eine Stufe, erhöht alle Fertigkeiten der Kategorien Kommunikation und Magie um +10%.</p>"
+    },
+    "glue": {
+      "name": "Kleben",
+      "description": "<p>Erzeugt einen kleinen Tropfen magischen Klebstoffs, STÄ gleich den ausgegebenen Magiepunkten ×10. Kann mit einem erfolgreichen Widerstandswurf gebrochen werden. Wirkt nicht auf lebende organische Materie. Reichweite (50m), geklebte Objekte im Ruhezustand sein.</p>"
+    },
+    "heal": {
+      "name": "Heilen",
+      "description": "<p>Jeder Magiepunkt heilt 1 Trefferpunkt an einer ausgewählten Trefferzone. Kann mehrfach verwendet werden.</p>"
+    },
+    "ignite": {
+      "name": "Anzünden",
+      "description": "<p>Dieser Zauber entzündet alles, was sich normalerweise entflammen lässt. Er erzeugt ein kleines Feuer, das solche Dinge wie eine Fackel, ein Strohdach oder einen trockenen Rucksack entflammen kann. Haut kann nicht entzündet werden. Haar oder Fell können entzündet werden, aber nur, wenn der Zaubernde das MAN des Ziels überwindet.</p>"
+    },
+    "lantern": {
+      "name": "Laterne",
+      "description": "<p>Wird auf eine ebene Fläche gewirkt, erzeugt einen Leuchtradius von 12 Metern.</p>"
+    },
+    "light": {
+      "name": "Licht",
+      "description": "<p>Wird auf ein Objekt gewirkt, erleuchtet es alles in einem Umkreis von 10 Metern.</p>"
+    },
+    "mobility": {
+      "name": "Beweglichkeit",
+      "description": "<p>Verdoppelt die Bewegungsgeschwindigkeit des Ziels und modifiziert seinen Aktionsrang um -1.</p>"
+    },
+    "multimissile": {
+      "name": "Geschossbündel",
+      "description": "<p>Für jeden Punkt wird ein magisches Duplikat des Originalgeschosses erzeugt. Die Angriffe werden getrennt gewürfelt. Das erste Geschoss ist das Original. Spätere Geschosse können nicht mehr aufspießen, können aber kritischen Schaden verursachen. Kann auf ein Geschoss gewirkt werden und wird erst aktiv, wenn es innerhalb der Wirkungsdauer abgefeuert wird. Nicht kompatibel mit Scharfschuss und Feuerpfeil.</p>"
+    },
+    "protection": {
+      "name": "Schutz",
+      "description": "<p>Jeder Magiepunkt wirkt wie 1 Rüstungspunkt auf den gesamten Körper.</p>"
+    },
+    "repair": {
+      "name": "Reparieren",
+      "description": "<p>Repariert zerbrochene Gegenstände, wobei jeder Punkt gegebenenfalls einen Schaden von 1W10 Trefferpunkten wiederherstellt, sofern alle Teile vorhanden sind. Der Gegenstand weist eine Naht auf und ist dauerhaft um 1 Trefferpunkt vermindert.</p>"
+    },
+    "secondSight": {
+      "name": "Zweites Gesicht",
+      "description": "<p>Ermöglicht es dem Ziel, die MAN-Aura von Lebewesen und Geistern zu sehen und ihre relative Stärke einzuschätzen.</p>"
+    },
+    "shimmer": {
+      "name": "Verschwimmen",
+      "description": "<p>Lässt die Luft um das Ziel herum verschwimmen, so dass es schwerer zu treffen ist. Verringert Angriffe gegen das Ziel um -5% pro Punkt. Nicht kompatibel mit Gegenmagie, Schutz und Geisterschirm.</p>"
+    },
+    "silence": {
+      "name": "Stille",
+      "description": "<p>Unterdrückt ungewollt Geräusche, die das Ziel verursacht, wie Bewegung, Atmung, etc. Er unterdrückt keine absichtlichen Geräusche (Sprechen, Zaubersprüche, Angriffe usw.). Wird der Zauber zur Tarnung eingesetzt, ist immer noch ein Wurf auf Schleichen erforderlich, und ein Patzer bedeutet, dass das Ziel Lärm verursacht.</p>"
+    },
+    "sleep": {
+      "name": "Schlaf",
+      "description": "<p>Wenn der Zaubernde den MAN-Wert des Ziels überwinden kann, schläft das Ziel für die Dauer des Zaubers ein und wird nur dann geweckt, wenn es angegriffen oder auf andere Weise stark gestört wird. Nur Chalana Arroy bekannt.</p>"
+    },
+    "slow": {
+      "name": "Verlangsamen",
+      "description": "<p>Halbiert die Bewegungsgeschwindigkeit des Ziels und fügt +1 zu seinem Aktionsrang hinzu.</p>"
+    },
+    "speedart": {
+      "name": "Scharfschuss",
+      "description": "<p>Wird dieser Zauber auf eine Geschosswaffe gewirkt, erhöht er deren Angriffschance um +15% und fügt beim nächsten Einsatz (innerhalb der Dauer) +3 Schaden zu. Magischer Schaden kann magischen Kreaturen schaden.</p>"
+    },
+    "spiritBinding": {
+      "name": "Geisterbindung",
+      "description": "<p>Bindet einen Geist dauerhaft oder bis zum Tod des Binders an einen Vertrauten oder an ein unbelebtes Objekt. Das Binden an einen Gegenstand erfordert ein magisches Ritual, das Bindungsverzauberung genannt wird, und ein lebendes Tier muss für diesen Zweck gezüchtet worden sein. Es gibt keine Kulte, die diesen Zauber lehren, lediglich Schamanen tun dies.</p>"
+    },
+    "spiritScreen": {
+      "name": "Geisterschirm",
+      "description": "<p>Jeder Magiepunkt absorbiert 1 Punkt Geisterschaden im Geisterkampf.</p>"
+    },
+    "strength": {
+      "name": "Stärke",
+      "description": "<p>Erhöht die STÄ des Ziels um +8, erhöht den Schadensbonus um eine Stufe (0 auf 1D4, 1D4 auf 1D6, 1D6 auf 2D6) und erhöht die Fertigkeiten der Kategorien Gewandtheit und Manipulation um +10%. Nicht kompatibel mit Vitalität.</p>"
+    },
+    "vigor": {
+      "name": "Vitalität",
+      "description": "<p>Erhöht die KON des Ziels um +3, die Trefferpunkte um +3 und die Trefferpunkte pro Zone um +1. Nicht kompatibel mit Stärke.</p>"
+    },
+    "visibility": {
+      "name": "Sichtbar machen",
+      "description": "<p>Zwingt einen Geist, in dieser Welt Gestalt anzunehmen, und macht ihn anfällig für Zaubersprüche. Siehe Geisterkampf.</p>"
+    }
+  },
+  "skill": {
+    "act": {
+      "skillName": "Schauspielern",
+      "description": "<p>Die Darstellung einer anderen Person, sei es in einer inszenierten Aufführung oder in einer gesellschaftlichen Situation.</p>"
+    },
+    "art": {
+      "skillName": "Kunst",
+      "description": "<p>Das Schaffen von Bildern oder Objekten wie Malerei und Bildhauerei. Die meisten Kunstwerke in Glorantha sind mit einem Handwerk verbunden, Kunst um ihrer selbst willen ist also eher selten.</p>"
+    },
+    "alchemy": {
+      "skillName": "Alchemie",
+      "description": "<p>Herstellung und Identifizierung von Tränken oder anderen alchemistischen Substanzen.</p>"
+    },
+    "animalLore": {
+      "skillName": "Tierkunde",
+      "description": "<p>Wissen über Tiere, ihre Verhaltensweisen, ihre Physiologie und ihre verschiedenen Merkmale.</p>"
+    },
+    "battle": {
+      "skillName": "Gefechtswissen",
+      "description": "<p>Führen von Kriegern und Überleben im Gefecht. Dazu gehört auch ein gewisses Maß an Verständnis für das Geschehen, die Bewegung auf dem Schlachtfeld und die Koordination der eigenen Aktivitäten mit denen der anderen in einer Schlacht.</p>"
+    },
+    "bargain": {
+      "skillName": "Feilschen",
+      "description": "<p>Feilschen, Verhandeln und Kompromisse: Wird beim Kauf und Verkauf eingesetzt. Bei Erfolg erklärt sich das Ziel mit einem niedrigeren, angemessenen Preis einverstanden. Dies wird oft mit einem Wettstreit gehandhabt.</p>"
+    },
+    "boat": {
+      "skillName": "Bootfahren",
+      "description": "<p>Umgang mit einem kleinen Boot, Kajak oder Floß. Dies schließt auch Kenntnisse über deren allgemeine Instandhaltung ein.</p>"
+    },
+    "bureaucracy": {
+      "skillName": "Verwaltung",
+      "description": "<p>Die Einrichtungen einer Regierung oder eines Gerichts verstehen und sich darin zurechtfinden.</p>"
+    },
+    "celestialLore": {
+      "skillName": "Himmelskunde",
+      "description": "<p>Wissen über die Sterne und Himmel.</p>"
+    },
+    "charm": {
+      "skillName": "Charme",
+      "description": "<p>Körperliche Anziehung, Verführung, Schmeichelei oder einfach nur persönliche Ausstrahlung, die eingesetzt wird, um eine gewünschte Reaktion hervorzurufen.</p>"
+    },
+    "climb": {
+      "skillName": "Klettern",
+      "description": "<p>Hoch- oder Herunterklettern von Mauern, Bäumen, Klippen oder anderen Oberflächen.</p>"
+    },
+    "conceal": {
+      "skillName": "Tarnen",
+      "description": "<p>Ein Objekt so verstecken, dass es nur durch einen Wurf mit der Fertigkeit Suchen gefunden werden kann.</p>"
+    },
+    "craft": {
+      "skillName": "Handwerk",
+      "description": "<p>Herstellung von Gegenständen aus Metall, Holz, Stein, Leder, Stoff, Ton, Glas usw. oder sogar Herstellung von Lebensmitteln. Zu den Spezialisierungen gehören Backen, Brauen, Tischlern, Kochen, Glasblasen, Schmuck, Lederverarbeitung, Steinmetzarbeiten, Töpfern, Rotschmieden, Weinherstellung und Weben.</p>"
+    },
+    "cultLore": {
+      "skillName": "Kultkunde",
+      "description": "<p>Die Lehre und Geschichte einer bestimmten Religion, einschließlich der Götter und Runen, die diesem Kult heilig sind, Traditionen und heilige oder anderweitig verehrte Orte.</p>"
+    },
+    "customs": {
+      "skillName": "Sitten",
+      "description": "<p>Wissen über das Verhalten, die Etikette, das Recht, die Traditionen und die gesellschaftlichen Normen einer Gruppe. Spezialgebiete sind die Heimat oder eine bekannte Kultur. Sitten lässt einen wissen, wie man sich auf einem lokalen Fest zu verhalten hat, während die Regionalkunde darüber informiert, worum es bei dem Fest geht.</p>"
+    },
+    "dance": {
+      "skillName": "Tanzen",
+      "description": "<p>Aufführen eines gesellschaftlichen, zeremoniellen, erotischen, kämpferischen oder religiösen Tanzes. Dies ist bei magischen Ritualen und Gottesdiensten äußerst nützlich.</p>"
+    },
+    "devise": {
+      "skillName": "Mechanik",
+      "description": "<p>Dies ist die Fähigkeit, Mechanismen wie Fallen und Schlösser sowohl zu montieren als auch zu zerlegen.</p>"
+    },
+    "disguise": {
+      "skillName": "Verkleiden",
+      "description": "<p>Herstellung eines überzeugenden Kostüms mit geeigneten Materialien (Kostüme, Kosmetika, Perücken oder Haarteile).</p>"
+    },
+    "dodge": {
+      "skillName": "Ausweichen",
+      "description": "<p>Einem Angriff entgehen und nicht getroffen werden. Siehe Ausweichen.</p>"
+    },
+    "driveChariot": {
+      "skillName": "Streitwagen lenken",
+      "description": "<p>Lenken eines Streitwagens im Kampf oder auf Reisen.</p>"
+    },
+    "elderRaceLore": {
+      "skillName": "Ältere-Rassen-Kunde",
+      "description": "<p>Diese Fertigkeit beschreibt das Wissen über eine Ältere Rasse. Die Kenntnis einer jeden Älteren Rasse muss separat erlernt werden.</p>"
+    },
+    "elfsense": {
+      "skillName": "Elfensinn",
+      "description": "<p>Mit diesem Sinn kann der Elf durch Berührung den gesundheitlichen und emotionalen Zustand des Ziels erkennen und feststellen, ob es gestresst ist oder Schmerzen hat. Er liefert dem Elf auch Details über den Boden, wie z. B. seine Nährstoffe, Feuchtigkeit und allgemeine Qualität.</p>"
+    },
+    "evaluate": {
+      "skillName": "Wert schätzen",
+      "description": "<p>Schätzen des Wertes von Artefakten, Waren und wertvollen natürlichen Materialien.</p>"
+    },
+    "farm": {
+      "skillName": "Landwirtschaft",
+      "description": "<p>Pflügen, pflanzen, anbauen und ernten von Feldfrüchten sowie die Pflege von Haustieren.</p>"
+    },
+    "fastTalk": {
+      "skillName": "Überreden",
+      "description": "<p>Überzeugen einer oder mehrerer Personen, dem zuzustimmen, was der Redner sagt, und sie dazu zu verleiten, das zu tun, wovon der Redner sie zu überzeugen versucht. Der Unterschied zu Rhetorik besteht darin, dass es schnell geht und nicht versucht wird, die Überzeugungen der Zielperson zu ändern. Man überredet eine Wache und hält eine Rede, um eine Menschenmenge zu inspirieren.</p>"
+    },
+    "firstAid": {
+      "skillName": "Erste Hilfe",
+      "description": "<p>Behandeln von Verletzungen oder Opfern mit Schock. Mehr zum Thema Erste Hilfe und Verletzungen findet sich im Abschnitt über Erste Hilfe.</p>"
+    },
+    "game": {
+      "skillName": "Spielen",
+      "description": "<p>Das Verständnis der Regeln und Strategien verschiedener Spiele und des Glücksspiels im Allgemeinen, ob Brett-, Karten- oder Würfelspiele. Während Glücksspiele in der Regel nicht beeinflusst werden können, liefert diese Fähigkeit Strategien, wie man gewinnt, effektiv setzt und wann man sich zurückhalten sollte.</p>"
+    },
+    "herd": {
+      "skillName": "Hüten",
+      "description": "<p>Tiere in einer Herde zusammenhalten, die Herde versorgen und sie von einem Ort zum anderen treiben.</p>"
+    },
+    "hide": {
+      "skillName": "Verstecken",
+      "description": "<p>Verfügbare Deckung, einschließlich Schatten, Nebel usw., nutzen, um sich vor anderen zu verstecken. Dem Verstecken steht das Spähen gegenüber.</p>"
+    },
+    "homelandLore": {
+      "skillName": "Regionalkunde",
+      "description": "<p>Wissen über die Geographie, Geschichte und Berühmtheiten der eigenen oder einer anderen Heimatregion. Mit Regionalkunde weiß ein Abenteurer, wer die Königin ist und wie sie ihren Titel erhalten hat, während er mit Sitten weiß, wie man sie korrekt anspricht. Man kann eine spezialisierte Regionalkunde-Fertigkeit für eine kleinere Region oder eine Stadt haben.</p>"
+    },
+    "insight": {
+      "skillName": "Verständnis",
+      "description": "<p>Bewertung des Charakters, des emotionalen Zustands, der Vertrauenswürdigkeit und der Motive einer Person anhand von Körpersprache, Sprachmustern und anderen Faktoren. Spezialisierungen sind von Spezies zu Spezies verschieden, so dass die meisten Abenteurer Menschen als ihre Spezialisierung haben, während andere vielleicht Aldryami, Enten, Mostali, Trolle oder sogar Drachen haben.</p>",
+      "specialization": {
+        "human": "Menschen"
+      }
+    },
+    "intimidate": {
+      "skillName": "Einschüchtern",
+      "description": "<p>Eine Person zu einem bestimmten Verhalten zwingen oder einschüchtern. Ein erfolgreicher Einsatz dieser Fertigkeit kann sogar einen Kampf verhindern.</p>"
+    },
+    "intrigue": {
+      "skillName": "Intrigieren",
+      "description": "<p>Wissen, was an einem Hof, in einem großen Tempel, im Lager eines Kriegsherrn, in der Verwaltung oder ähnlichen Einrichtungen vor sich geht. Es kann sich dabei um Insiderwissen handeln, aber auch Verschwörungen darstellen.</p>"
+    },
+    "jump": {
+      "skillName": "Springen",
+      "description": "<p>Springen, um Hindernisse in der Höhe oder in der Breite zu überwinden, aber auch um sicher zu fallen (oder zu landen).</p>"
+    },
+    "libraryUse": {
+      "skillName": "Bibliotheksnutzung",
+      "description": "<p>Bibliotheken sind in Glorantha selten und werden unweigerlich von magischen Traditionen getragen oder in den Tempeln Lhankor Mhys gehütet, aber mit dieser Fertigkeit kann ein Abenteurer gewünschte Informationen in den verschiedensten Archiven finden.</p>"
+    },
+    "listen": {
+      "skillName": "Horchen",
+      "description": "<p>Aufmerksames Lauschen auf Geräusche, wo man sie normalerweise nicht hören würde, und Aufnehmen von zufälligen Geräuschen. Üblicherweise steht diese Fähigkeit im Wettstreit mit der Fertigkeit Schleichen.</p>"
+    },
+    "lore": {
+      "skillName": "Kunde",
+      "description": "Kunde vermittelt Grundwissen über die Geschichte, die Eigenschaften, das Verhalten, die Qualitäten und die Gebräuche eines Gegenstands, je nach Art des Themas. Beispiele sind Himmelskunde, Mineralkunde, Pflanzenkunde, Tierkunde, Geisterkunde, usw. Viele dieser Fertigkeiten sind spezialisiert und konzentrieren sich auf ein bestimmtes Thema, wie z. B. Kultkunde (Orlanth), d. h. Wissen über den Kult von Orlanth und den mit dem Gott verbundenen Mythos. Es gibt viele Kunde-Fertigkeiten, und die Spezialisierungen sind sogar noch zahlreicher.</p><p>Der Spielleiter sollte festlegen, was jede Kunde-Fertigkeit umfasst und was nicht, aber im Allgemeinen stellen diese Fertigkeiten ein funktionierendes Wissen über eine Rasse, eine Spezies, ein Volk, eine Organisation, eine Gruppe, eine Region usw. dar.</p><p>Kunde-Fertigkeiten verbessern sich nicht durch Erfahrung sondern müssen durch andere Mittel vermittelt oder erworben werden.</p>"
+    },
+    "manageHousehold": {
+      "skillName": "Haushaltsführung",
+      "description": "<p>Umgang mit Eigentum und Ressourcen (Gefolgsleute, Agenten und Sklaven) eines Hofes, einer Herde, eines Marktes, einer Werkstatt, eines Tempels oder eines Palastes.</p>"
+    },
+    "martialArts": {
+      "skillName": "Kampfkunst",
+      "description": "<p></p>"
+    },
+    "meditate": {
+      "skillName": "Meditieren",
+      "description": "<p>Sich in einen tranceähnlichen Zustand versetzen, um innere Ruhe zu erlangen und Gelassenheit und Fokus wiederherzustellen. Meditieren kann sowohl Zauber als auch Fertigkeiten unterstützen und hilft, verbrauchte Magiepunkte wiederherzustellen.</p>"
+    },
+    "meleeWeapon": {
+      "skillName": "Nahkampfwaffen",
+      "description": "<p>Jede Nahkampfwaffe hat ihre eigene spezifische Fertigkeit. Ein Abenteurer kann seine Nahkampfwaffen-Fertigkeit einsetzen, um mit dieser Waffe anzugreifen und zu parieren, sofern nichts anderes angegeben ist.</p><p>Nahkampfwaffen sind nach Kategorien aufgeführt. Ein Abenteurer kann alle anderen Nahkampfwaffen derselben Waffenkategorie (wie 1H-Äxte, Fäuste, 1H-Schwerter usw.) mit der Hälfte der Fertigkeitsstufe der besten Fertigkeit, die der Abenteurer in dieser Kategorie hat, benutzen.</p>"
+    },
+    "mineralLore": {
+      "skillName": "Mineralkunde",
+      "description": "<p>Kenntnis und Bestimmung der verschiedenen Arten von Mineralien, Metallen und anderen natürlichen Erzen sowie ihrer physikalischen und magischen Eigenschaften.</p>"
+    },
+    "missileWeapon": {
+      "skillName": "Fernkampfwaffen",
+      "description": "<p>Fernkampfwaffen sind Distanzwaffen wie Bögen, Armbrüste, Speere oder Schleudern, mit denen auf ein Ziel oder eine Person geschossen wird.</p><p>Fernkampfwaffen sind in den Waffentabellen für Fernkampfwaffen nach Kategorien aufgeführt. Ein Abenteurer kann jede andere Fernkampfwaffe derselben Waffenkategorie (z.B. Bogen, Armbrust usw.) mit der Hälfte des Fertigkeitswertes der besten Fertigkeit, die der Abenteurer in dieser Kategorie besitzt, benutzen.</p>"
+    },
+    "moveQuietly": {
+      "skillName": "Schleichen",
+      "description": "<p>Sich lautlos bewegen, ohne einen Gegner zu warnen, wird gegen einen Wurf auf Horchen eingesetzt, wenn jemand aktiv versucht, einen Eindringling zu entdecken.</p>"
+    },
+    "orate": {
+      "skillName": "Rhetorik",
+      "description": "<p>Der Einsatz von Sprache, um Gruppen von widerwilligen Zuhörern dazu zu bringen, eine bestehende Überzeugung zu ändern, eine Handlung vorzunehmen oder eine bedeutende Bitte zu erfüllen, gestützt auf Gefühle und Vernunft. Sie unterscheidet sich von Überreden, da sie Zeit braucht und das Ziel erfolgreich von der angestrebten Meinung überzeugt, anstatt nur schnell und vorübergehend zu sein.</p>"
+    },
+    "peacefulCut": {
+      "skillName": "Sanftes Schlachten",
+      "description": "<p>Das Friedliche Schlachten wird von Tiernomaden und einigen anderen Kulturen sowie von vielen Kulten praktiziert und ermöglicht die korrekte Opferung eines Tieres und dessen respektvolle Schlachtung. Gelingt dies nicht, ist es sehr unschön und das Tier reagiert mit Angst.</p>"
+    },
+    "plantLore": {
+      "skillName": "Pflanzenkunde",
+      "description": "<p>Bestimmung und Nutzung von Pflanzen für medizinische und andere Zwecke.</p>"
+    },
+    "playInstrument": {
+      "skillName": "Musizieren",
+      "description": "<p>In der Lage sein, ein Musikinstrument zu spielen, sei es für eine Aufführung oder zu seinem eigenen Vergnügen. Dazu gehören auch die allgemeine Pflege und ein Repertoire an geeigneter Musik.</p>"
+    },
+    "prepareCorpse": {
+      "skillName": "Bestatten",
+      "description": "<p>Ordnungsgemäße Herrichtung eines Verstorbenen, Vorbereitung auf die letzten Riten und Kenntnis traditioneller Totenrituale oder -zauber.</p>"
+    },
+    "readWrite": {
+      "skillName": "Lesen/Schreiben",
+      "description": "<p>Lesen und Schreiben in einer Schrift. In der Regel wird dies nur bei längeren oder schwer zu entziffernden Texten verwendet. Einige Sprachen verwenden eine gemeinsame Schrift, unterscheiden sich aber in der Aussprache voneinander. Siehe Sprachen für weitere Informationen.</p>"
+    },
+    "ride": {
+      "skillName": "Reiten",
+      "description": "<p>Reiten auf einem Pferd oder einem anderen Reittier. Zu den Spezialisierungen gehören Pferd, Bison, Impala, Zebra, Nashorn, usw. Siehe Berittener Kampf für weitere Informationen.</p>",
+      "specialization": {
+        "bison": "Bison",
+        "horse": "Pferd"
+      }
+    },
+    "scan": {
+      "skillName": "Spähen",
+      "description": "<p>Das Beobachten eines Gebiets auf Anzeichen von Bewegung. In der Regel wird diese Fertigkeit im Wettstreit mit der Fertigkeit Verstecken eingesetzt.</p>"
+    },
+    "darksenseScan": {
+      "skillName": "Dunkelsinn Spähen",
+      "description": "<p>Das Beobachten eines Gebiets auf Anzeichen von Bewegung. In der Regel wird diese Fertigkeit im Wettstreit mit der Fertigkeit Verstecken eingesetzt.</p><p>Trolle können sich aufgrund ihrer stygischen Herkunft auch in der dunkelsten Nacht bewegen. Bei ihnen wird &quot;Dunkelsinn&quot; eingesetzt, eine Wahrnehmung, die anderen Völkern nicht zur Verfügung steht. Der Dunkelsinn kombiniert Hören, Riechen, Fühlen und einige unspezifische Wahrnehmungsfähigkeiten und ermöglicht es Trollen, sich wie Menschen im Sonnenschein zu bewegen. Obwohl Trolle das Licht hassen, fügt dieses Element den meisten Trollen keinen direkten Schaden zu. Höhlentrolle und Trollinge werden jedoch durch Licht beeinträchtigt. Trolle haben in der Dunkelheit einen klaren Vorteil gegenüber Menschen (und den meisten anderen Gegnern). Der Spielleiter sollte die Regeln zum Kampf in der Dunkelheit lesen, sobald Abenteurer auf Trolle treffen. Dunkelsinn ist in zwei Fertigkeiten unterteilt: Dunkelsinn Spähen und Dunkelsinn Suchen.</p>"
+    },
+    "earthsenseScan": {
+      "skillName": "Erdsinn Spähen",
+      "description": "<p>Das Beobachten eines Gebiets auf Anzeichen von Bewegung. In der Regel wird diese Fertigkeit im Wettstreit mit der Fertigkeit Verstecken eingesetzt.</p><p>Zwerge verfügen über einen einzigartigen Sinn, den &quot;Erdsinn.&quot; Er ist wie ein Ferntastsinn und ermöglicht es ihnen, Wärme, Luftdruck und Luftströmungen mit bemerkenswerter Genauigkeit zu spüren. Mit Hilfe des Erdsinns können sie in der Dunkelheit manövrieren, ihre Tiefe unter der Oberfläche berechnen, sich bewegende Objekte wahrnehmen und sogar die Größe und Form eines Höhlensystems messen, indem sie sich einfach in eine Ecke stellen und die Luftströmungen spüren. So kann ein Zwerg schnell durch ein unbekanntes Höhlensystem reisen und sich auf sein Gefühl verlassen, welche Tunnel wohin führen. Der Erdsinn für weite Entfernungen wird als Erdsinn Spähen bezeichnet, der Erdsinn für nahe Entfernungen als Erdsinn Suchen.</p>"
+    },
+    "scentIntruder": {
+      "skillName": "Eindringling Riechen",
+      "description": "<p>Diese Kreatur kann nicht durch Geruch Spuren verfolgen, aber sie hat eine Chance, Eindringlinge durch Geruch zu bemerken.</p>"
+    },
+    "search": {
+      "skillName": "Suchen",
+      "description": "<p>Durchsuchen eines Bereichs, um einen verborgenen oder verlorenen Gegenstand oder eine Tür zu finden. Die Fertigkeit, mit der dies verhindert werden kann, ist Tarnen.</p>"
+    },
+    "darksenseSearch": {
+      "skillName": "Dunkelsinn Suchen",
+      "description": "<p>Durchsuchen eines Bereichs, um einen verborgenen oder verlorenen Gegenstand oder eine Tür zu finden. Die Fertigkeit, mit der dies verhindert werden kann, ist Tarnen.</p><p>Trolle können sich aufgrund ihrer stygischen Herkunft auch in der dunkelsten Nacht bewegen. Bei ihnen wird &quot;Dunkelsinn&quot; eingesetzt, eine Wahrnehmung, die anderen Völkern nicht zur Verfügung steht. Der Dunkelsinn kombiniert Hören, Riechen, Fühlen und einige unspezifische Wahrnehmungsfähigkeiten und ermöglicht es Trollen, sich wie Menschen im Sonnenschein zu bewegen. Obwohl Trolle das Licht hassen, fügt dieses Element den meisten Trollen keinen direkten Schaden zu. Höhlentrolle und Trollinge werden jedoch durch Licht beeinträchtigt. Trolle haben in der Dunkelheit einen klaren Vorteil gegenüber Menschen (und den meisten anderen Gegnern). Der Spielleiter sollte die Regeln zum Kampf in der Dunkelheit lesen, sobald Abenteurer auf Trolle treffen. Dunkelsinn ist in zwei Fertigkeiten unterteilt: Dunkelsinn Spähen und Dunkelsinn Suchen.</p>"
+    },
+    "earthsenseSearch": {
+      "skillName": "Erdsinn Suchen",
+      "description": "<p>Durchsuchen eines Bereichs, um einen verborgenen oder verlorenen Gegenstand oder eine Tür zu finden. Die Fertigkeit, mit der dies verhindert werden kann, ist Tarnen.</p><p>Zwerge verfügen über einen einzigartigen Sinn, den &quot;Erdsinn.&quot; Er ist wie ein Ferntastsinn und ermöglicht es ihnen, Wärme, Luftdruck und Luftströmungen mit bemerkenswerter Genauigkeit zu spüren. Mit Hilfe des Erdsinns können sie in der Dunkelheit manövrieren, ihre Tiefe unter der Oberfläche berechnen, sich bewegende Objekte wahrnehmen und sogar die Größe und Form eines Höhlensystems messen, indem sie sich einfach in eine Ecke stellen und die Luftströmungen spüren. So kann ein Zwerg schnell durch ein unbekanntes Höhlensystem reisen und sich auf sein Gefühl verlassen, welche Tunnel wohin führen. Der Erdsinn für weite Entfernungen wird als Erdsinn Spähen bezeichnet, der Erdsinn für nahe Entfernungen als Erdsinn Suchen.</p>"
+    },
+    "senseAssassin": {
+      "skillName": "Meuchelmörder fühlen",
+      "description": "<p>Diese Fertigkeit, die ausschließlich den Anhängern des Gottes Humakt beigebracht wird, ermöglicht es, die verräterischen Zeichen eines geplanten Mörders zu erkennen, seien es Verhaltensweisen, psychologische oder sogar physische Anzeichen. Sie trägt wenig zur Identifizierung des potenziellen Opfers bei, sondern weist nur auf den mutmaßlichen Mörder hin.</p>"
+    },
+    "senseChaos": {
+      "skillName": "Chaos fühlen",
+      "description": "<p>Diese Fertigkeit, die ausschließlich den Kultisten des Sturmbullen gelehrt wird, ermöglicht es dem Anwender, den Makel des Chaos in einer Person, einem Gebiet oder sogar einem Gegenstand zu erkennen.</p>"
+    },
+    "shield": {
+      "skillName": "Schild",
+      "description": "<p>Jede Schildgröße - klein, mittel und groß - hat ihre eigene spezifische Fertigkeit. Ein Abenteurer kann seine Schildfertigkeit einsetzen, um mit dieser Waffe zu parieren oder anzugreifen. Ein Abenteurer kann jeden anderen Schild mit der Hälfte der Fertigkeitsstufe der besten Schildfertigkeit, die er besitzt, oder mit seiner Grundwahrscheinlichkeit plus zusätzlicher Ausbildung und Erfahrung benutzen, je nachdem, was besser ist.</p>"
+    },
+    "shiphandling": {
+      "skillName": "Schiffsführung",
+      "description": "<p>Steuern und Manövrieren eines Schiffes, einer Galeere, einer Trireme oder eines anderen großen Segel- oder Ruderschiffes, sei es im Kampf oder auf Reisen. Dazu gehören auch allgemeine Wartungsarbeiten und Tätigkeiten an Bord.</p>"
+    },
+    "sing": {
+      "skillName": "Singen",
+      "description": "<p>Poesiekenntnisse sowie Gesang oder Rezitation von Gedichten, verwendet in religiösen Ritualen sowie zur Erinnerung an mündlich überlieferte Geschichte, Genealogie und Gesetze. Sehr nützlich bei Gottesdiensten.</p>"
+    },
+    "sleight": {
+      "skillName": "Fingerfertigkeit",
+      "description": "<p>Schnelligkeit oder Ablenkung nutzen, um einen kleinen Gegenstand zu manipulieren, während man von anderen beobachtet wird, oder möglicherweise in eine Tasche oder einen Geldbeutel zu greifen.</p>"
+    },
+    "speakLanguage": {
+      "skillName": "Sprache sprechen",
+      "description": "<p>Seine Muttersprache zu sprechen. Beim Sprechen mit anderen Muttersprachlern ist kein Wurf erforderlich. Im Allgemeinen wird diese Fertigkeit nur beim Lauschen, Übersetzen oder in schwierigen Situationen eingesetzt. Wenn der Abenteurer eine andere auf Kommunikation basierende Fertigkeit einsetzt, ist die Stufe in 'Sprache sprechen' die Grenze, bis zu der der Abenteurer die andere Fertigkeit einsetzen kann.</p><p>Sprechen einer anderen Sprache als der eigenen, z. B. einer der unter Sprachen aufgeführten Sprachen. Im Allgemeinen reichen 20% oder mehr aus, um einfache Gespräche zu führen. Wenn eine andere auf Kommunikation basierende Fertigkeit eingesetzt werden soll, so ist die Fertigkeit Fremdsprache sprechen die Grenze, bis zu der man die andere Fertigkeit einsetzen kann.</p><p><em>Ein Abenteurer mit Muttersprache sprechen (Heortling) 75% und Charme 83% ist auf 75% beschränkt, wenn er Charme einsetzt.</em></p><p>Für weitere Informationen siehe Sprachen.</p>"
+    },
+    "spiritCombat": {
+      "skillName": "Geisterkampf",
+      "description": "<p>Gegen einen feindlichen Geist kämpfen und ihm Schaden zufügen. Siehe Geisterkampf für weitere Informationen."
+    },
+    "spiritDance": {
+      "skillName": "Geistertanz",
+      "description": "<p>Feindliche Geister meiden, während man sich in entkörperlichter Form befindet, und eine sichere Rückkehr in den eigenen Körper in der mundanen Welt gewährleisten. Siehe Geisterkampf.</p>"
+    },
+    "spiritLore": {
+      "skillName": "Geisterkunde",
+      "description": "<p>Wissen über die Arten von Geistern und ihre Fähigkeiten, Verständnis für die Natur der Geisterwelt, usw.</p>"
+    },
+    "spiritTravel": {
+      "skillName": "Geisterreise",
+      "description": "<p>Sich in der Geisterwelt bewegen, insbesondere von einer Region zur anderen. Siehe Reisen in der Geisterwelt.</p>"
+    },
+    "survival": {
+      "skillName": "Überleben",
+      "description": "<p>Überleben auf dem Land oder in der Wildnis, einschließlich Nahrungssuche, Feuer machen und Schutz finden. Dies kann auch verwendet werden, um die eigenen Spuren zu verwischen, so dass Spurenlesen-Würfe notwendig sind, um ihnen zu folgen.</p>"
+    },
+    "ski": {
+      "skillName": "Skifahren",
+      "description": "<p>Fortbewegung über Schnee durch Skilanglauf. Grünelfen sind dafür bekannt, dass sie auf diese Weise Skifahren.</p>"
+    },
+    "swim": {
+      "skillName": "Schwimmen",
+      "description": "<p>Sich über Wasser zu halten und im Wasser in eine gewünschte Richtung zu bewegen.</p>"
+    },
+    "track": {
+      "skillName": "Spurenlesen",
+      "description": "<p>Der Spur eines Lebewesens durch Wildnis und ländliche Gebiete folgen. Diese Fertigkeit steht im Wettstreit mit Überleben, wenn sie dazu dient, Spuren zu verwischen.</p><p>Einige Spezies können Spuren durch Geruch verfolgen.",
+      "specialization": {
+        "scent": "nach Geruch"
+      }
+    },
+    "treatDisease": {
+      "skillName": "Krankheit behandeln",
+      "description": "<p>In Glorantha werden alle Krankheiten von bösen Geistern verursacht, die von einem unglückseligen Opfer Besitz ergreifen. Diese Fertigkeit hilft dabei, die Art des Krankheitsgeistes zu identifizieren, die Symptome zu behandeln und die Einflüsse des Geistes auf das Opfer zu vermindern. Weitere Informationen findest du in den Regeln zum Thema Krankheit.</p>"
+    },
+    "treatPoison": {
+      "skillName": "Vergiftung behandeln",
+      "description": "<p>Erkennen, wann jemand vergiftet wurde und durch welche Art von Gift, Toxin oder Giftstoff, sowie Behandlung der Symptome, sei es mit einem Gegenmittel oder mit anderen Mitteln.</p>"
+    },
+    "understandHerdBeast": {
+      "skillName": "Herdentiere verstehen",
+      "description": "<p>Verstehen der Geräusche und physischen Signale, die von nicht intelligenten Herdentieren erzeugt werden.</p>"
+    },
+    "worship": {
+      "skillName": "Gottesdienst",
+      "description": "<p>Diese Fertigkeit bezieht sich immer auf einen bestimmten Kult und den ihn repräsentierenden Gott und stellt eine Kenntnis der heiligen Riten und Rituale dar, die notwendig sind, um die Aufmerksamkeit des Gottes zu gewinnen und ihn zu besänftigen. Die Durchführung dauert einen ganzen Tag und muss auf heiligem Boden stattfinden. Die erfolgreiche Anwendung dieser Fertigkeit bringt ausgegebene Runenpunkte zurück. Spezialisierungen gibt es für jeden Kult.</p>"
+    }
+  },
+  "skillCategory": {
+    "agility": {
+      "name": "Gewandtheit",
+      "description": "<h3>Gewandtheitsfertigkeiten</h3><p>Diese Kategorie umfasst alle Fertigkeiten, die die Koordinierung der Muskeln erfordern. Die meisten dieser Fertigkeiten werden als Reflex antrainiert, und ein Abenteurer muss nicht besonders intelligent oder permanent wachsam sein, um agil zu sein. Gewandtheitsfertigkeiten erfordern STÄ, GES und geringe GRÖ, was einem eine gute Koordinationsfähigkeit und schnelle Reaktionen auf Reize beschert. Ein hoher Wert in MAN hilft ebenfalls.</p>"
+    },
+    "communication": {
+      "name": "Kommunikation",
+      "description": "<h3>Kommunikationsfertigkeiten</h3><p>Kommunikationsfertigkeiten werden durch hohes CHA, INT und MAN verbessert. Ein Abenteurer benutzt diese Fertigkeiten, um durch Worte oder Gesten anderen die eigenen Gedanken und Sehnsüchte zu vermitteln. Gute Kommunikationsfertigkeiten hinterlassen meist einen guten Eindruck.</p>"
+    },
+    "knowledge": {
+      "name": "Wissen",
+      "description": "<h3>Wissensfertigkeiten</h3><p>Diese Fertigkeiten hängen oft mit der Fähigkeit eines Abenteurers zusammen, sich Wissen zu merken und es zu verstehen, ob es nun am Lagerfeuer gelernt oder sich aus endlosen, pedantischen Vorlesungen an einer großen Bibliothek angeeignet wurde. Oft können diese Fertigkeiten nicht durch Erfahrung gesteigert werden, sondern müssen stattdessen trainiert und erforscht werden. Wissensfertigkeiten beziehen ihre Modifikatoren von der INT und dem MAN des Abenteurers.</p>"
+    },
+    "magic": {
+      "name": "Magie",
+      "description": "<h3>Magiefertigkeiten</h3><p>Diese Fertigkeiten werden benutzt, um magische Effekte zu kreieren oder zu manipulieren. Sie stützen sich auf MAN, INT und CHA.</p>"
+    },
+    "manipulation": {
+      "name": "Handhabung",
+      "description": "<h3>Handhabungsfertigkeiten</h3><p>Handhabungsfertigkeiten erfordern Fingerspitzengefühl und gute Hand-Augen-Koordination. Anders als Gewandtheitsfertigkeiten verlassen diese Fertigkeiten sich ebenso sehr auf INT wie auf GES, und GRÖ ist kein Hinderungsgrund. Hohes MAN und STÄ helfen ebenfalls bei vielen Handhabungsfertigkeiten.</p>"
+    },
+    "perception": {
+      "name": "Wahrnehmung",
+      "description": "<h3>Wahrnehmungsfertigkeiten</h3><p>Mit Fertigkeiten, die auf Wahrnehmung basieren, kann ein Abenteurer bestimmte Informationen aus einem oder mehreren Sinneseindrücken registrieren und diese intelligent strukturieren. Die Eigenschaftsmodifikatoren dieser Fertigkeiten sind INT, MAN und KON.</p>"
+    },
+    "stealth": {
+      "name": "Heimlichkeit",
+      "description": "<h3>Heimlichkeitsfertigkeiten</h3><p>Abenteurer benutzen Heimlichkeitsfertigkeiten, um feindlichen Sinnen zu entgehen. Die Aura eines hohen MAN (die Aufmerksamkeit auf sich zieht) ist in diesen Fällen nicht sehr hilfreich: eine geringe GRÖ, gute GES und INT hingegen helfen bei diesen Fertigkeiten.</p>"
+    },
+    "weapon": {
+      "name": "Waffen",
+      "description": "<p>Alle Nahkampfwaffen-, Fernkampfwaffen- und Schild-Fertigkeiten verwenden den Modifikator der Fertigkeitskategorie Handhabung und sind entweder auf einen bestimmten Waffentyp (z.B. Breitschwert) oder eine allgemeinere Kategorie (z.B. einhändige Äxte) spezialisiert.</p><p>Alle Waffen- und Schild-Fertigkeiten können durch Erfahrung verbessert werden.</p>"
+    }
+  },
+  "craftSpecialization": {
+    "iron": "Eisen"
+  },
+  "weaponSkill": {
+    "1h-axes": {
+      "name": "1H-Axt",
+      "specialization": {
+        "smallAxe": "Kleine Axt",
+        "battleAxe": "Streitaxt",
+        "offhand": "falsche Hand"
+      }
+    },
+    "1h-daggers": {
+      "name": "Dolch",
+      "specialization": {
+        "dagger": "Dolch",
+        "sickle": "Sichel",
+        "offhand": "falsche Hand"
+      }
+    },
+    "1h-hammers": {
+      "name": "1H-Hammer",
+      "specialization": {
+        "warHammer": "Kriegshammer",
+        "offhand": "falsche Hand"
+      }
+    },
+    "1h-maces": {
+      "name": "1H-Streitkolben",
+      "specialization": {
+        "club": "Holzkeule",
+        "heavyMace": "Streitkolben, schwer",
+        "lightMace": "Streitkolben, leicht",
+        "singlestick": "Schlagstock",
+        "offhand": "falsche Hand"
+      }
+    },
+    "1h-spears": {
+      "name": "1H-Speer (einschl. Lanze)",
+      "specialization": {
+        "javelin": "Wurfspeer",
+        "lance": "Lanze",
+        "shortspear": "Kurzspeer",
+        "offhand": "falsche Hand"
+      }
+    },
+    "1h-swords": {
+      "name": "1H-Schwert",
+      "specialization": {
+        "broadsword": "Breitschwert",
+        "kopis": "Kopis",
+        "rapier": "Rapier",
+        "shortsword": "Kurzschwert",
+        "offhand": "falsche Hand"
+      }
+    },
+    "2h-axes": {
+      "name": "2H-Axt",
+      "specialization": {
+        "battleAxe": "Streitaxt",
+        "daggerAxe": "Dolchaxt",
+        "greatAxe": "Große Axt"
+      }
+    },
+    "2h-hammers": {
+      "name": "2H-Hammer",
+      "specialization": {
+        "greatHammer": "Schlachthammer",
+        "maul": "Kriegsschlägel"
+      }
+    },
+    "2h-mace": {
+      "name": "2H-Streitkolben",
+      "specialization": {
+        "mace": "Streitkolben"
+      }
+    },
+    "2h-spears": {
+      "name": "2H Spears",
+      "specialization": {
+        "longspear": "Langspeer",
+        "pike": "Pike",
+        "shortspear": "Kurzspeer"
+      }
+    },
+    "2h-swords": {
+      "name": "2H-Schwert",
+      "specialization": {
+        "greatsword": "Schlachtschwert",
+        "rhomphaia": "Rhomphaia",
+        "sickle-sword": "Sichelschwert"
+      }
+    },
+    "bite": {
+      "name": "Biss"
+    },
+    "atlatls": {
+      "name": "Atlatl",
+      "specialization": {
+        "dart": "Wurfpfeil",
+        "javelin": "Wurfspeer"
+      }
+    },
+    "bows": {
+      "name": "Bogen",
+      "specialization": {
+        "compositeBow": "Kompositbogen",
+        "elfBow": "Elfenbogen",
+        "selfBow": "Einfacher Bogen"
+      }
+    },
+    "crossbows": {
+      "name": "Armbrust",
+      "specialization": {
+        "arbalest": "Arbaleste",
+        "heavyCrossbow": "Armbrust, schwer",
+        "lightCrossbow": "Armbrust, leicht",
+        "repeatingCrossbow": "Repetierarmbrust"
+      }
+    },
+    "fists": {
+      "name": "Faust",
+      "specialization": {
+        "claw": "Krallen",
+        "fist": "Faust",
+        "heavyCestus": "Kampfhandschuh, schwer",
+        "lightCestus": "Kampfhandschuh, leicht",
+        "rip": "Reißen"
+      }
+    },
+    "gore": {
+      "name": "Durchbohren"
+    },
+    "grapple": {
+      "name": "Ringen"
+    },
+    "headButt": {
+      "name": "Kopfstoss"
+    },
+    "claw": {
+      "name": "Krallen"
+    },
+    "hug": {
+      "name": "Umklammern"
+    },
+    "javelins": {
+      "name": "Wurfspeer",
+      "specialization": {
+        "dart": "Wurfpfeil",
+        "javelin": "Wurfspeer",
+        "shortspear": "Kurzspeer"
+      }
+    },
+    "kick": {
+      "name": "Tritt"
+    },
+    "lassos": {
+      "name": "Lasso",
+      "specialization": {
+        "poleLasso": "Lassostab"
+      }
+    },
+    "quarterstaff": {
+      "name": "Kampfstab"
+    },
+    "rearAndPlunge": {
+      "name": "Austreten"
+    },
+    "slings": {
+      "name": "Schleuder",
+      "specialization": {
+        "sling": "Schleuder",
+        "staffSling": "Stabschleuder"
+      }
+    },
+    "shields": {
+      "name": "Schilde",
+      "specialization": {
+        "large": "Große Schilde",
+        "medium": "Mittlere Schilde",
+        "small": "Kleine Schilde"
+      }
+    },
+    "sting": {
+      "name": "Stich"
+    },
+    "thrownAxe": {
+      "name": "Wurfaxt"
+    },
+    "thrownDagger": {
+      "name": "Wurfdolch"
+    },
+    "thrownRock": {
+      "name": "Stein, geworfen"
+    },
+    "trample": {
+      "name": "Zertrampeln"
+    }
+  },
+  "weapon": {
+    "ironDescription": "<p>Beliebiger Schaden einer Eisenwaffe an einem Elf oder Troll (und einigen ihrer verwandten Rassen), der eine Rüstung durchdringt, wird verdoppelt. Kann Kreaturen verletzen, die gegen normale Waffen immun sind.</p>",
+    "smallAxe": "kleine Axt",
+    "battleAxe": "Streitaxt",
+    "battleAxeIron": "Streitaxt, Eisen",
+    "greatAxe": "Große Axt",
+    "daggerAxe": "Dolchaxt",
+    "compositeBow": "Kompositbogen",
+    "elfBow": "Elfenbogen",
+    "selfBow": "Einfacher Bogen",
+    "arbalest": "Arbaleste",
+    "heavyCrossbow": "Schwere Armbrust",
+    "lightCrossbow": "Leichte Armbrust",
+    "repeatingCrossbow": "Repetierarmbrust",
+    "arrows": "Pfeile",
+    "crossbowBolts": "Armbrustbolzen",
+    "warHammer": "Kriegshammer",
+    "warHammerIron": "Kriegshammer, Eisen",
+    "greatHammer": "Schlachthammer",
+    "maul": "Kriegsschlägel",
+    "heavyMace": "Schwerer Streitkolben",
+    "lightMace": "Leichter Streitkolben",
+    "singlestick": "Schlagstock",
+    "woodenClub": "Holzkeule",
+    "twoHandedMace": "2H-Streitkolben",
+    "quarterstaff": "Kampfstab",
+    "atlatlDart": "Atlatl Wurfpfeil",
+    "atlatlJavelin": "Atlatl Wurfspeer",
+    "dart": "Wurfpfeil",
+    "poleLasso": "Lassostab",
+    "smallWoodenShield": "Kleiner Holzschild",
+    "mediumWoodenShield": "Mittlerer Holzschild",
+    "largeWoodenShield": "Großer Holzschild",
+    "sling": "Schleuder",
+    "staffSling": "Stabschleuder",
+    "slingStones": "Schleudersteine",
+    "javelin": "Wurfspeer",
+    "shortSpear": "Kurzspeer",
+    "lance": "Lanze",
+    "pike": "Pike",
+    "longSpear": "Langspeer",
+    "dagger": "Dolch",
+    "parryingDagger": "Parierdolch",
+    "throwingDagger": "Wurfdolch",
+    "sickle": "Sichel",
+    "broadsword": "Breitschwert",
+    "kopis": "Kopis",
+    "rapier": "Rapier",
+    "shortsword": "Kurzschwert",
+    "greatsword": "Schlachtschwert",
+    "romphaia": "Rhomphaia",
+    "sickleSwordMoonsword": "Sichelschwert (Mondschwert)",
+    "throwingAxe": "Wurfaxt",
+    "rock": "Stein",
+    "lightCestus": "Leichter Kampfhandschuh,",
+    "heavyCestus": "Schwerer Kampfhandschuh,",
+    "clawMetal": "Kralle (Metall)",
+    "fist": "Faust",
+    "grapple": "Ringen",
+    "kick": "Tritt",
+    "headButt": "Kopfstoß",
+    "trample": "Zertrampeln",
+    "bite": "Biss",
+    "claw": "Krallen",
+    "gore": "Durchbohren",
+    "rip": "Reißen",
+    "hug": "Umklammern",
+    "rearAndPlunge": "Austreten"
+  },
+  "equipment": {
+    "armor": {
+      "hood": "Haube",
+      "broadBrimmedHat": "Breitkrempiger Hut",
+      "cap": "Kappe",
+      "compositeHelm": "Komposithelm",
+      "openHelm": "Offener Helm",
+      "closedHelm": "Geschlossener Helm",
+      "fullHelm": "Vollhelm",
+      "sleeves": "Ärmel",
+      "vambraces": "Armschienen",
+      "cuirass": "Kürass",
+      "linothorax": "Linothorax",
+      "hauberk": "Haubert",
+      "segmented": "Segmentiert",
+      "skirt": "Rock",
+      "pants": "Hose",
+      "greaves": "Beinschienen†",
+      "unenchantedHeavyDwarfChainmail": "Unverzaubertes schweres Zwergen-Kettenhemd",
+      "unenchantedDwarfHelmet": "Unverzauberter schwerer geschlossener Zwergenhelm",
+      "description": {
+        "cuirboilli": "<p>Gehärtetes Leder, das mit kochendem Wachs behandelt wurde, wodurch es fast so widerstandsfähig wie Metall wird.</p>",
+        "heavyLeather": "<p>Schweres Leder ist so dick wie eine Schuhsohle und bietet zwei Punkte Schutzwert. Anders als normales Leder kann schweres Leder nicht unter anderen Rüstungen getragen werden.</p>",
+        "leather": "<p>Anstelle von Leder kann dieser Gegenstand auch aus gestepptem oder dickem Stoff hergestellt werden. Leder ist in den meisten Teilen von Glorantha sehr verbreitet.</p>",
+        "linen": "<p>Aus vielen Schichten zusammengesetztes oder gestepptes Gewebe, das steif und hart ist. Oft ist der Stoff mit Metallplatten oder -schuppen verstärkt. Leinenrüstungen werden immer seltener eingesetzt, da Metall immer häufiger verwendet wird, aber sie werden immer noch zur Ausrüstung von Milizen und dergleichen eingesetzt.</p>",
+        "quilted": "<p>Gesteppte Rüstungen bestehen aus mehreren Schichten gesteppten Leders.</p>",
+        "segmentedBronzePlate": "<p>Diese Rüstung bedeckt die Brust und den Unterleib und besteht aus einem Kürass und drei oder vier Sätzen von gebogenen unteren Schutzplatten. Die Teile sind durch Bänder miteinander verbunden, die Bewegung ermöglichen.</p>",
+        "ringMail": "<p>Metallringe werden zusammengehämmert und auf Leder genäht.</p>",
+        "heavyScale": "<p>Diese Rüstung besteht aus Hunderten von Bronzeplatten, die übereinander angeordnet und dann auf Leder befestigt sind.</p>",
+        "lightScale": "<p>Diese Rüstung besteht aus Hunderten von gekochten Lederplatten, die mit Schnüren verbunden sind. Die Platten sind oft bemalt. Diese Rüstungen sind leichter und billiger als die schweren Schuppenpanzer.</p>",
+        "underLayer": "<p>Diese Rüstung kann unter beliebigen anderen Rüstungen getragen werden, wobei ein kumulativer Belastungsnachteil entsteht.</p>",
+        "vambraces": "<p>Armschienen sind wie Beinschienen, schützen aber den Unterarm. Es wird davon ausgegangen, dass sie die gesamte Gliedmaße bedecken, obwohl die eigentliche Rüstung, die diese Namen trägt, nur den Bereich zwischen Ellenbogen und Hand abdeckt.</p>",
+        "greaves": "<p>Es handelt sich um Platten, die so geformt sind, dass sie den Unterschenkel schützen. Sie können gefedert oder mit Gurten befestigt werden. Sie sind schwer und behindern das Sprinten. Es wird davon ausgegangen, dass sie die gesamte Gliedmaße abdecken, obwohl die eigentliche Rüstung, die diese Bezeichnung trägt, nur den Bereich zwischen Knie und Fuß abdeckt.</p>",
+        "cuirass": "<p>Ein Kürass ist ein Brustpanzer, der aus Vorder- und Rückenplatten besteht, die durch Lederriemen miteinander verbunden sind.</p>",
+        "hauberk": "<p>Ein Haubert ist wie ein Hemd oder eine Tunika und bedeckt die Brust und den Unterleib.</p>",
+        "diskPlateBronze": "<p>Sie besteht aus kreisförmigen und quadratischen Bronzeplatten auf der Vorder- und Rückseite, die durch Seiten- und Schulterstücke verbunden sind. Die Platten sind oft stark verziert. Sie schützt die Brust.</p>",
+        "pants": "<p>Hosen oder Gamaschen bedecken die Beine und den Unterleib.</p>",
+        "skirtStuddedLeather": "<p>Dieser Rock aus besetzten Lederstreifen schützt den Unterleib.</p>",
+        "linothorax": "<p>Ein steifes Hemd, das Brust und Unterleib bedeckt.</p>",
+        "compositeHelm": "<p>Auf diesem Lederhelm sind Metallplatten oder Eberhauer aufgenietet.</p>",
+        "openHelm": "<p>Es handelt sich um einen konischen Metallhelm mit aufgesetzten Wangenklappen aus Bronze. Er ist in der Regel mit Flaum und Federn verziert.</p>",
+        "closedHelm": "<p>Dieser Metallhelm hat ein Paar Wangenklappen und einen Nackenschutz. An der Vorderseite befindet sich ein Nasenbügel, der die Augen und die Nase schützt.</p>",
+        "fullHelm": "<p>Dieser eng anliegende Helm hat verlängerte Wangenklappen zum Schutz von Mund und Hals des Trägers. Ein Nasenschutz schützt die Nase und die Augen. Er bietet einen hervorragenden Rundumschutz, schränkt aber das Seh- und Hörvermögen stark ein und ist bei längerem Tragen heiß und stickig.1</p>",
+        "turtleShellCuirass": "<p>Dieser Brustschutz aus Schildkrötenpanzer, Holz und Bronze ist beim Humakt-Kult beliebt, der ihn mit seinem Helden Hiia, dem Schwertkämpfer, in Verbindung bringt.</p>",
+        "unenchantedHeavyDwarfChainmail": "<p>Mantel aus unverzaubertem eisernem schweren Zwergenkettenhemd (9 Pkt.). Der Träger hat eine 60%ige Chance, dass er von beliebigen Zaubern, die auf ihn gewirkt werden, unberührt bleibt, kumulierbar mit anderem Eisen, das er an sich trägt.</p>",
+        "unenchantedDwarfHelmet": "<p>Geschlossener Helm aus unverzaubertem Zwergeneisen (9 Pkt.).  Der Träger hat eine 10%ige Chance, dass er von beliebigen Zaubern, die auf ihn gewirkt werden, unberührt bleibt, kumulativ mit anderem Eisen, das er am Körper trägt.</p>"
+      }
+    },
+    "gear": {
+      "cloakGrass": "Grasumhang",
+      "cloakGrassDescription": "<p>Dieser ärmellose Umhang besteht aus gewebtem Gras und wird zum Schutz vor Regen und Sonne getragen.</p>",
+      "cloakWoolWinter": "Wintermantel aus Wolle",
+      "cloakWoolWinterDescription": " <p>Lange Wintermäntel sind ein gängiger Schutz gegen Wind und nächtliches Frieren. Der Mantel wird in der Regel mit einer Fibel über der Schulter zusammengehalten.</p>",
+      "clothesCotton": "Baumwollkleidung",
+      "clothesCottonDescription": "<p>Männer tragen in der Regel entweder lange Tuniken mit Gürtel oder kurze Tuniken und Röcke. Frauen tragen in der Regel Tuniken und Wickelröcke. Viele Männer verzichten in der Sommerhitze auf die Tunika. Im Winter sorgen Umhänge und Gewänder oder Reithosen für Wärme.</p>",
+      "clothesWool": "Kleidung aus Wolle",
+      "clothesWoolDescription": "<p>Männer tragen in der Regel entweder lange Tuniken mit Gürtel oder kurze Tuniken und Röcke. Frauen tragen in der Regel Tuniken und Wickelröcke. Viele Männer verzichten in der Sommerhitze auf die Tunika. Im Winter sorgen Umhänge und Gewänder oder Reithosen für Wärme.</p>",
+      "clothesDressEsrolian": "Esrolisches Kleid",
+      "clothesDressEsrolianDescription": "<p>Glockenförmiger Rock mit Volants und Falten, der von adligen Frauen und Priesterinnen getragen wird. Preis: 15-35 L je nach Verzierung und Stil.</p>",
+      "clothesDressHidePlain": "Schlichtes Lederkleid",
+      "clothesDressHidePlainDescription": "<p>Ein schlichtes Kleid aus Häuten.</p>",
+      "currencyBolgs": "Bolgs",
+      "currencyBolgsDescription": "<p>Der Bolg ist eine Trollwährung aus Blei. Argan Argar erfand den Bolg und er ust die einzige Währung in welcher dieser Kult seine Trollsöldner bezahlt. Der bleierne Bolg ist als Währung insofern einzigartig, da er sowohl als Munition für Schleudern, als auch als Bargeld entwickelt wurde. Zehn Bolg ergeben einen Klack oder 100 Bolg einen Lunar. Unter Menschen findet der bleierne Bolg nur selten Verwendung, wenn überhaupt.</p>",
+      "currencyClacks": "Klacks",
+      "currencyClacksDescription": "<p>Die Zwerge erfanden Kupfermünzen um den Handel zwischen den Völkern zu erleichtern. Die Kupfermünze wird als Klack bezeichnet oder häufig auch nur als Kupfer. Zehn Klacks entsprechen einem Lunar.</p>",
+      "currencyLunars": "Lunare",
+      "currencyLunarsDescription": "<p>Die Hauptwährung im Drachenpass und in Prax ist der Lunar (abgekürzt L), eine Silbermünze von etwas mehr als  4 Gram (1/8 einer Unze). Die meisten in Umlauf befindlichen Münzen wurde durch das Lunare Imperium geprägt und sind mit den Symbolen der Roten Göttin versehen. Vor der Lunaren Herrschaft wurden verschiedene Silbermünzen durch die verschiedenen städtischen Gilden in Sartar und Pavis geprägt, diese werden auch als Gilder bezeichnet. All diese Münzen haben ungefähr den gleichen Wert. Eine Kuh ist in etwa 20 L wert.</p>",
+      "currencyWheels": "Räder",
+      "currencyWheelsDescription": "<p>Die ersten Münzen der Welt waren aus Gold geprägt und wurden von den geheimnisvollen Goldradtänzern unter die Völker gebracht. Diesen zu Ehren werden auch heute noch Goldmünzen als Räder bezeichnet. Allerdings ist Gold selten und sehr wertvoll. Ein goldenes Rad entspricht 20 L. Aus diesen Gründen wird Gold in erster Linie genutzt um Schulden zwischen Herrschern zu begleichen und nur sehr selten durch einzelne Individuen.</p>",
+      "drinkAleCup": "Zwei Becher Bier",
+      "drinkAleCupDescription": "<p>Zwei Becher Bier</p>",
+      "drinkClearwineBowl": "Schale mit Klarwein",
+      "drinkClearwineBowlDescription": "<p>Eine Portion Klarwein, der bekannte Wein, der seinen Namen an die Hauptstadt des Colymar-Stammes weitergibt.</p>",
+      "drinkMeadHorn": "Horn von Met",
+      "drinkMeadHornDescription": "<p>Eine Portion Met.</p>",
+      "foodStewMeatBowl": "Schüssel mit Fleischeintopf",
+      "foodStewMeatBowlDescription": "<p>Schweine-, Hühner- oder Hammelfleisch mit Wurzelgemüse gekocht und mit Fladenbrot serviert. Häufig stark gewürzt.</p>",
+      "horseRidingPonyGalana": "Galana (Pony)",
+      "horseRidingPonyGalanaDescription": "<p>Dies ist die häufigste Pferderasse im Drachenpass, in Kethaela, Maniria, Ralios und Talastar. Diese zähe, großköpfige Rasse wird vor allem eingesetzt, um Streitwagen schnell über das weglose, unebene Gelände zu ziehen. Sie sind graubraun bis braun, wobei Schweif und Mähne meist dunkler sind als ihre Körperfarbe.</p>",
+      "jewelryRingBronzeSimple": "Einfacher Bronzering",
+      "jewelryRingBronzeSimpleDescription": "<p>Ein einfacher Bronzering.</p>",
+      "jewelryNecklaceGoldBeaded": "Perlenhalskette aus Gold",
+      "jewelryNecklaceGoldBeadedDescription": "<p>Eine Perlenkette aus Gold.</p>",
+      "lightLamp": "Lampe",
+      "lightLampDescription": "<p>Eine Lampe aus Ton oder Bronze, die zum Verbrennen von Olivenöl oder geklärter Butter eingesetzt wird. Oft stark verziert. Die von einer Lampe beleuchtete Fläche hängt von ihrer Größe und Konstruktion ab. Preis: 1-2 L.</p>",
+      "lightTorchWicker": "Weidenfackel",
+      "lightTorchWickerDescription": "<p>Eine grobe Fackel, hergestellt aus getrockneten, verflochtenen Zweigen.</p>",
+      "instrumentDrum": "Trommel",
+      "instrumentDrumDescription": "<p>Eine Holz- oder Bronzetrommel mit einem aufgespannten Fell aus Tierhaut.</p>",
+      "instrumentKithara": "Kithara",
+      "instrumentKitharaDescription": "<p>Ein Saiteninstrument mit einem tiefen hölzernen Klangkörper.</p>",
+      "quiverLarge": "Großer Köcher",
+      "quiverLargeDescription": "<p>Fasst 40 Pfeile. Ein Behältnis aus Leder, Holz oder versteiftem Stoff, das zum Tragen von Pfeilen oder Armbrustbolzen eingesetzt wird. Er wird tief an der Hüfte, an der Taille oder über dem Rücken getragen.</p>",
+      "quiverMedium": "Mittlerer Köcher",
+      "quiverMediumDescription": "<p>Fasst zwei Dutzend Pfeile. Ein Behältnis aus Leder, Holz oder versteiftem Stoff, das zum Tragen von Pfeilen oder Armbrustbolzen eingesetzt wird. Er wird tief an der Hüfte, an der Taille oder über dem Rücken getragen.</p>",
+      "quiverSmall": "Kleiner Köcher",
+      "quiverSmallDescription": "<p>Fasst ein Dutzend Pfeile. Ein Behältnis aus Leder, Holz oder versteiftem Stoff, das zum Tragen von Pfeilen oder Armbrustbolzen eingesetzt wird. Er wird tief an der Hüfte, an der Taille oder über dem Rücken getragen.</p>",
+      "blanketSaddle": "Satteldecke",
+      "blanketSaddleDescription": "<p>Eine gewebte Decke aus Wolle oder Bisonfell, um das Scheuern zu vermeiden und das Tragen von Sattel und Reiter zu erleichtern.</p>",
+      "ridingBridle": "Zaumzeug",
+      "ridingBridleDescription": "<p>Kopfgeschirr, das eingesetzt wird, um ein Pferd oder ein anderes Reittier beim Reiten zu lenken. Es besteht in der Regel aus robustem Leder und kann mit einem Reithalfter, Nasenringen, Hornverbindungen oder einem Nasenriemen versehen sein. Zäume müssen artgerecht gestaltet sein und dem jeweiligen Tier richtig angepasst werden.</p>",
+      "ridingSaddle": "Sattel",
+      "ridingSaddleDescription": "<p>Mit und ohne Hörnern, mit oder ohne Sattelbaum: Sättel sind je nach Region sehr unterschiedlich. Alle sind jedoch so konzipiert, dass sie ein gewisses Maß an Komfort und Stabilität bieten. Preis: 8+ L.</p>",
+      "toolHammerStone": "Steinhammer",
+      "toolHammerStoneDescription": "<p>Ein billiger Steinhammer.</p>",
+      "toolRope15m": "Seil, 15m",
+      "toolRope15mDescription": "<p>Hergestellt aus Hanf oder anderen Pflanzenfasern. Seltener aus geschnürtem Leder.</p>"
+    }
+  },
+  "hitLocation": {
+    "beetle": {
+      "rightHindLeg": "Rechtes Hinterbein",
+      "rightCenterLeg": "Rechtes Mittleres Bein",
+      "leftHindLeg": "Linkes Hinterbein",
+      "leftCenterLeg": "Linkes Mittleres Bein",
+      "abdomen": "Unterleib",
+      "thorax": "Thorax",
+      "rightForeleg": "Rechtes Vorderbein",
+      "leftForeleg": "Linkes Vorderbein",
+      "head": "Kopf"
+    },
+    "birdFlying": {
+      "tail": "Schwanz",
+      "rightLeg": "Rechtes Bein",
+      "leftLeg": "Linkes Bein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "head": "Kopf"
+    },
+    "birdRunning": {
+      "rightLeg": "Rechtes Bein",
+      "leftLeg": "Linkes Bein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "head": "Kopf"
+    },
+    "centaur": {
+      "rightHindLeg": "Rechtes Hinterbein",
+      "leftHindLeg": "Linkes Hinterbein",
+      "hindquarter": "Hinterleib",
+      "forequarter": "Vorderleib",
+      "rightForeleg": "Rechtes Vorderbein",
+      "leftForeleg": "Linkes Vorderbein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "leftArm": "Linker Arm",
+      "rightArm": "Rechter Arm",
+      "head": "Kopf"
+    },
+    "dragonManticore": {
+      "tail": "Schwanz",
+      "rightHindLeg": "Rechtes Hinterbein",
+      "leftHindLeg": "Linkes Hinterbein",
+      "hindquarter": "Hinterleib",
+      "forequarter": "Vorderleib",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "rightForeleg": "Rechtes Vorderbein",
+      "leftForeleg": "Linkes Vorderbein",
+      "head": "Kopf"
+    },
+    "dragonsnailOneHeaded": {
+      "shell": "Haus",
+      "forebody": "Vorderer Körper",
+      "head": "Kopf"
+    },
+    "dragonsnailTwoHeaded": {
+      "shell": "Haus",
+      "forebody": "Vorderer Körper",
+      "rightHead": "Rechter Kopf",
+      "leftHead": "Linker Kopf"
+    },
+    "fourLeggedAnimal": {
+      "rightHindLeg": "Rechtes Hinterbein",
+      "leftHindLeg": "Linkes Hinterbein",
+      "hindquarter": "Hinterleib",
+      "forequarter": "Vorderleib",
+      "rightForeleg": "Rechtes Vorderbein",
+      "leftForeleg": "Linkes Vorderbein",
+      "head": "Kopf"
+    },
+    "fourLeggedAnimalWinged": {
+      "rightHindLeg": "Rechtes Hinterbein",
+      "leftHindLeg": "Linkes Hinterbein",
+      "hindquarter": "Hinterleib",
+      "forequarter": "Vorderleib",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "rightForeleg": "Rechtes Vorderbein",
+      "leftForeleg": "Linkes Vorderbein",
+      "head": "Kopf"
+    },
+    "gorp": {
+      "body": "Körper"
+    },
+    "harpy": {
+      "rightLeg": "Rechtes Bein",
+      "leftLeg": "Linkes Bein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "head": "Kopf"
+    },
+    "humanoid": {
+      "rightLeg": "Rechtes Bein",
+      "leftLeg": "Linkes Bein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightArm": "Rechter Arm",
+      "leftArm": "Linker Arm",
+      "head": "Kopf"
+    },
+    "humanoidWinged": {
+      "rightLeg": "Rechtes Bein",
+      "leftLeg": "Linkes Bein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "rightArm": "Rechter Arm",
+      "leftArm": "Linker Arm",
+      "head": "Kopf"
+    },
+    "mammothMastodon": {
+      "rightHindLeg": "Rechtes Hinterbein",
+      "leftHindLeg": "Linkes Hinterbein",
+      "hindquarter": "Hinterleib",
+      "forequarter": "Vorderleib",
+      "rightForeleg": "Rechtes Vorderbein",
+      "leftForeleg": "Linkes Vorderbein",
+      "trunk": "Rüssel",
+      "head": "Kopf"
+    },
+    "serpent": {
+      "tail": "Schwanz",
+      "body": "Körper",
+      "head": "Kopf"
+    },
+    "serpentWinged": {
+      "tail": "Schwanz",
+      "body": "Körper",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "head": "Kopf"
+    },
+    "spiderGiant": {
+      "rightHindLeg": "Rechtes Hinterbein",
+      "leftHindLeg": "Linkes Hinterbein",
+      "rightCenterRearLeg": "Rechtes Mittleres Hinterbein",
+      "leftCenterRearLeg": "Linkes Mittleres Hinterbein",
+      "abdomen": "Unterleib",
+      "rightCenterFrontLeg": "Rechtes Mittleres Vorderbein",
+      "leftCenterFrontLeg": "Linkes Mittleres Vorderbein",
+      "rightForeleg": "Rechtes Vorderbein",
+      "leftForeleg": "Linkes Vorderbein",
+      "head": "Kopf"
+    },
+    "walktapus": {
+      "rightLeg": "Rechtes Bein",
+      "leftLeg": "Linkes Bein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightArm": "Rechter Arm",
+      "leftArm": "Linker Arm",
+      "tentacle1": "Tentakel 1",
+      "tentacle2": "Tentakel 2",
+      "tentacle3": "Tentakel 3",
+      "tentacle4": "Tentakel 4",
+      "tentacle5": "Tentakel 5",
+      "tentacle6": "Tentakel 6",
+      "tentacle7": "Tentakel 7",
+      "tentacle8": "Tentakel 8",
+      "head": "Kopf"
+    },
+    "wyvern": {
+      "tail": "Schwanz",
+      "rightLeg": "Rechtes Bein",
+      "leftLeg": "Linkes Bein",
+      "abdomen": "Unterleib",
+      "chest": "Brust",
+      "rightWing": "Rechter Flügel",
+      "leftWing": "Linker Flügel",
+      "head": "Kopf"
+    }
+  },
+  "passionSubject": {
+    "aldryami": "Aldryami",
+    "casteDuties": "Kastenpflichten",
+    "clan": "Clan",
+    "tribe": "Stamm",
+    "family": "Familie",
+    "forest": "Wald",
+    "mostali": "Mostali",
+    "matriarch": "Matriarchin",
+    "uz": "Uz"
+  },
+  "bestiary": {
+    "spiritDescriptionGeneral": "",
+    "airElementalNotes": "<h1>Luftelementar (Umbroli)</h1><p>Luftelementare (gemeinhin Umbroli oder Sylphen genannt) ähneln beweglichen Wirbelstürmen. Alle können einen Wind erzeugen; selbst die kleinsten können kleine Gegenstände heben und werfen. Die größten können menschengroße Gegenstände werfen oder sie in die Luft tragen.</p><p><strong>Fähigkeiten</strong>: Ein Luftelementar kann Gegenstände oder Menschen mit einer Gesamtgröße tragen, die gleich oder kleiner ist als die STÄ des Luftelementars. Es kann eine Brise oder einen kleinen Wirbelwind erzeugen. Ein Luftelementar kann die Geschwindigkeit eines Segelschiffs erhöhen, indem er die Segel füllt. Ein Luftelementar kann Pfeile oder andere Geschosse vom Kurs ablenken.</p><p><strong>Angriff</strong>: Ein Luftelementar greift an, indem er einen Charakter, der in ihm gefangen ist, in die Höhe schleudert und ihn dann fallen lässt. Der verursachte Schaden beträgt 1W6 plus 1W6 für je 3 Meter Fallhöhe. Ein kleines Luftelementar kann maximal 2W6 Schaden anrichten, aber ein mittleres Luftelementar kann 3W6 Schaden anrichten und ein großes Luftelementar richtet 5W6 Schaden an. Ein Abenteurer kann versuchen, sich zu wehren, indem er seine STÄ gegen die des Elementars einsetzt. Wenn der Charakter widersteht, bleibt er am Boden.</p><p>Wenn es mehr als ein Ziel innerhalb des vom Elementar abgedeckten Bereichs gibt, kann es seine STÄ gleichmäßig auf die Ziele aufteilen und muss jede STÄ einzeln überwinden. So kann ein großes Luftelementar mit einer STÄ von 30, das drei Ziele in einem Gebiet hat, jedes Ziel mit einer STÄ von 10 angreifen. Wenn es gegen ein Ziel funktioniert, aber nicht gegen die anderen, dann fliegt ein Opfer, während die anderen am Boden bleiben. Wenn es ihm befohlen wird, greift er nur ein Ziel an und lässt die anderen in Ruhe.</p><p>Abenteurer können sich dafür entscheiden, einen Luftelementar anzugreifen oder zu verzaubern, anstatt sich zu wehren, in der Hoffnung, dass der Luftelementar mitten im Wurf vernichtet wird und nur die Hälfte des Schadens beim Wurf verursacht. Die Charaktere werden aber trotzdem geworfen.</p><p><strong>Hinweis</strong>: Stärkere und empfindungsfähige Luftelementare werden auch umbroli genannt und sind lebende Winde. Die stärksten umbroli sind kleinere Götter, wie die Sieben Winde des Drachenpasses, und werden von lokalen Clans und Stämmen verehrt.<p>",
+    "airElementalSmall": {
+      "name": "Luftelementar, klein",
+      "species": ""
+    },
+    "airElementalMedium": {
+      "name": "Luftelementar, mittel",
+      "species": ""
+    },
+    "airElementalLarge": {
+      "name": "Luftelementar, groß",
+      "species": ""
+    },
+    "brownBear": {
+      "name": "Braunbär",
+      "species": "Ursus arctos",
+      "notes": "<p>Im Gebiet des Drachenpasses gibt es drei Arten von Bären. Der gewöhnliche Schwarzbär, der größere Braunbär und eine noch größere Variante des weißen Bären. Alle Bären sind Allesfresser, und viele Arten zeigen keine Angst vor Menschen.</p><p><strong>Panzerung</strong>: 3-Punkt-Haut und Fell</p><p><strong>Anmerkung</strong>: Ein Bär kann in einer Runde entweder zweimal zubeißen und Krallen einsetzen oder zubeißen und umklammern. Wenn er sich für Beißen und Umklammern entscheidet, müssen beide Angriffe gegen denselben Gegner gerichtet sein. Wenn er zweimal beißt und Krallen einsetzt, kann er bis zu drei verschiedene Feinde angreifen.</p>"
+    },
+    "bison": {
+      "name": "Bison",
+      "species": "Bison praxus",
+      "notes": "<p>Das Bison ist ein mürrisches und widerspenstiges Tier, außer in der Gegenwart seines Reiters. Seine dicke Haut bietet ihm einen gewissen Schutz und sein Hauptangriff ist der Sturmangriff. Sie können auch einen Stoß ausführen und zertrampeln.</p><p>Gelegentlich (5 % Chance) gibt es einen weißen Bison in einer Herde. Weiße Bisonfelle sind äußerst wertvoll (300&ndash;2.000 L, je nach Zustand). Weiße Bisons sind jedoch der Gemeinschaft des Weißen Bullen, einer stammesübergreifenden praxianischen Gruppe, heilig.</p><p>Bisonreiter gehören zu den Fünf Großen Stämmen von Prax.</p><p><strong>Rüstung</strong>:&nbsp; 3-Punkte Fell.</p><p><strong>Hinweis</strong>: Ein Bison kann nicht in der gleichen Kampfrunde einen Kopfstoß ausführen und zertrampeln.</p>"
+    },
+    "diseaseSpirit": {
+      "name": "Krankheitsgeist",
+      "species": "",
+      "notes": "<p>Krankheitsgeister sind ausdrücklich dem Dienste der Mutter der Krankheiten verpflichtet und verfügen über eine besondere Art des Geisterkampfes.</p><p>Ihr erster Geisterkampf-Angriff ist normal. Gelingt dem Krankheitsgeist jedoch ein Angriff, während das Opfer scheitert, kann der Geist versuchen, das Ziel mit einer jener Krankheiten zu infizieren, die er in sich trägt. Diese Infektion erfordert einen weiteren Wurf, bei dem die Geisterkampf-Fertigkeit des Ziels überwunden werden muss, als würde der Krankheitsgeist versuchen, von dem Opfer Besitz zu ergreifen. Bei einem Erfolg wird nicht der Geist des Opfers aus dem Körper gezwungen, sondern das Opfer wird mit der akuten Form einer der mitgeführten Krankheiten infiziert. Ein zweiter Erfolg infiziert das Opfer mit der nächsthöheren Stufe der Krankheit (siehe RQG S. 155).</p><p> Gelingt es dem Opfer, den Geist zu besiegen und ihn zu vertreiben oder zu vernichten, erhält es für ein Jahr sofortige Immunität gegen jegliche Krankheiten, die von dem Geist übertragen werden. Diese Krankheiten können dem Charakter nichts anhaben. Sie stehlen dem Geist außerdem unmittelbar 1W3 MAN, die von dessen MAN abgezogen werden. Dieses gestohlene MAN ist in keinster Weise krank und wird zum eigenen MAN addiert, wie bei einem erfolgreichen Steigerungswurf.</p>"
+    },
+    "earthElementalNotes": "<h1>Erdelementar (Talosi)</h1><p>Erdelementare (gemeinhin Talosi oder Gnome genannt) können die Erde auf fast beliebige Weise formen: Sie können Gruben, Tunnel oder Mauern erschaffen, Gegenstände aus dem Boden werfen und sogar Felder pflügen. Ein Erdelementar kann nicht in Gebieten beschworen werden, die aus Bruchstein oder festem Gestein bestehen, und kann auch nicht durch diese Gebiete reisen. Allerdings mag es sehr felsigen Boden. Ein Erdelementar bewegt sich direkt durch die Erde und hinterlässt eine Spur aus umgestürztem und zermahlenem Erdreich. Es kann den Erdboden nicht verlassen und sieht aus wie ein Strudel oder eine Welle in der Erde selbst.</p><p><strong>Fähigkeiten</strong>: Ein Erdelementar kann Gruben im Boden öffnen, Tunnel schaffen und vergrabene Gegenstände finden. Es kann auch dazu eingesetzt werden, in der Erde steckende Gegenstände festzuhalten, lose Tunneldecken vor dem Einsturz zu bewahren oder Hügel und Erhebungen im Boden zu bilden (nicht größer als das Volumen des Elementars). Ein Erdelementar kann auch im Haushalt eingesetzt werden, z. B. zum Entwurzeln von Baumstämmen, zum Pflügen von Feldern und zum Ausheben von Fundamenten für Häuser. Im Krieg kann ein Erdelementar eingesetzt werden, um Befestigungen zu untergraben oder zu bauen. Erdelementare sind vielleicht das allgemein nützlichste Elementar.</p><p>Ein Erdelementar kann eine Person tragen und durch den Boden schwimmen, wenn es STÄ genug hat, um diese Person zu tragen. Unter der Erde gibt es keine Luft, und eine Person, die transportiert wird, muss KON-Würfe machen, um nicht zu ersticken. Der Erdelementar kann dies nur mit einem widerstandslos getragenen Passagier tun. Ein Erdelementar kann mehrere Personen tragen, wenn seine STÄ ausreicht.</p><p><strong>Angriff</strong>: Im Kampf wird das Erdelementar sein Volumen einsetzen, um seine Gegner zu verschlucken, indem es eine Grube unter dem Feind öffnet, deren maximales Volumen seinem eigenen Volumen entspricht. Pro Kubikmeter Volumen kann es etwa die Hälfte eines menschengroßen Opfers verschlingen.</p><p>Die Tiefe der Grube hängt von der Größe des Elementars ab. Ein kleines Erdelementar verschlingt einfach die Beine des Opfers. Ein mittleres Erdelementar kann ein Opfer vollständig verschlucken. Ein großes Erdelementar kann sein Opfer samt einem mittelgroßen Reittier vollständig verschlingen und dabei alle Trefferzonen verschlingen. In diesem Fall wird das Opfer ersticken (gemäß den Erstickungsregeln), es sei denn, es kann sich befreien.</p><p>Nach dem Begraben eines Opfers schließt das Erdelementar die Grube und fügt allen eingeschlossenen Trefferzonen den Schadensmodifikator des Erdelementars zu (berechnet durch die STÄ×2 des Erdelementars statt durch STÄ+GRÖ). Ein Erdelementar kann auf diese Weise nur in Erde oder felsigem Boden angreifen (nicht in Sand oder weichem Lehm) und kann nur einmal an derselben Position angreifen, da die pulverisierte Erde zu fein für einen zweiten Angriff ist.</p><p>Das Opfer wird in jedem Fall von dem Erdelementar festgehalten und muss die STÄ des Elementars mit seiner eigenen überwinden, um sich zu befreien und aus seiner Umklammerung herauszukriechen. Wenn ein Erdelementar keinen Schadensbonus hat oder ein Opfer in einem ungeeigneten Untergrund angreift, wird es das Opfer wie oben beschrieben verschlingen, ohne dabei Schaden zu verursachen. Das Opfer muss allerdings weiterhin STÄ gegen STÄ widerstehen, um sich aus dem Griff des Erdelementars zu befreien.</p><p><strong>Anmerkung</strong>: Mächtigere und empfindungsfähige Erdelementare sind die niederen Göttinnen und Götter der Erde und haben unzählige Namen. Sie werden von den lokalen Bevölkerungsgruppen verehrt.</p>",
+    "earthElementalSmall": {
+      "name": "Erdelementar, klein",
+      "species": ""
+    },
+    "earthElementalMedium": {
+      "name": "Erdelementar, mittel",
+      "species": ""
+    },
+    "earthElementalLarge": {
+      "name": "Erdelementar, groß",
+      "species": ""
+    },
+    "elementalHitPointsNote": "<p><strong>Anmerkung:</strong> Elementare haben keine Trefferpunkte und erleiden stattdessen physischen Schaden an ihrer GRÖ.</p>",
+    "elementalGeneralNotes": "<h1>Allgemeine Eigenschaften von Elementaren</h1><p>Die meisten Elementare sind unvollständige Wesen, die nur über STÄ, GRÖ und MAN verfügen. Ihre Trefferpunkte sind mit ihrer GRÖ verbunden, wie nachstehend erklärt wird. Die GRÖ eines Elementars wird als Volumen und nicht als charakteristische Zahl ausgedrückt: Ein Elementar würde zum Beispiel mit einer GRÖ von 3 Kubikmetern (Meter3) beschrieben.</p><p>Wenn ein Punktwert für die GRÖ eines Elementars benötigt wird, können die Trefferpunkte des Elementars als seine GRÖ eingesetzt werden. Würde also ein Elementar mit 10 Trefferpunkten in eine Kiste steigen und von einem Abenteurer hochgehoben werden, könnte seine GRÖ so behandelt werden, als würde sie 10 betragen.</p><p>Den meisten Elementaren fehlt INT und sie sind nicht wirklich empfindungsfähig. Sie können durch Zaubersprüche kontrolliert werden, aber werden sie sich selbst überlassen, tun sie einfach das, was natürlich ist: Feuerelementare verbrennen brennbare Materialien in ihrer Reichweite, Wasserelementare fliehen an die tiefstmögliche Stelle, Erdelementare sinken in den Boden, Dunkelheitselementare fliehen vor dem Licht, und Luftelementare wehen umher.</p><p>Viele Elementare sind Diener der Götter, und Priester bestimmter Gottheiten lernen, entsprechende Elementare zu kontrollieren. Die größten Elementare sind selbstbewusst und empfindungsfähig und werden oft als Teil eines Kultes verehrt.</p><p>Alle Elementare können im Kampf mit gewöhnlichen Waffen getroffen werden, was ihre physische Form aufbricht und sie schließlich unbrauchbar macht. Sie haben nur eine Trefferzone und keine Rüstung. Wenn ein Elementar auf 0 Trefferpunkte reduziert wurde, löst er sich auf. Der Geist des Elementars kehrt in sein Reich zurück, von wo aus es erneut beschworen werden kann, um in einem anderen Körperteil zu wohnen.</p>",
+    "ghost": {
+      "name": "Ghost",
+      "species": "",
+      "notes": "<p>Gespenster sind die Seelen der ruhelosen Toten. Die Gespenster, die man in der Mittelwelt findet, sind immer an einen bestimmten Ort oder ein bestimmtes Objekt gebunden und können sich entweder nicht von dort entfernen oder sie müssen wieder zurückkehren, sobald sie sich von dort entfernt haben.</p><p>Gespenster gibt es in vielen Formen. Einige können ihre Gestalt verändern, wobei die häufigste Form eine dunkle Wolke ist, besonders bei Tageslicht. Andere können mehrere menschliche Gestalten annehmen, sich in Tiere verwandeln, ihr Geschlecht wechseln oder sogar Körperteile entfernen und sie umherwandern lassen. Besessenheit ist ein allgemeines Merkmal von Gespenstern, aber viele wünschen eine direkte Interaktion mit den Sterblichen. Die Begegnung mit einem Gespenst kann bleibende oder dauerhafte Folgen haben, je nach Art des Schadens, den das Opfer erleidet, und dem Grad des Erfolgs des Gespenstes. Einige Arten von Gespenstern sind passiv oder sogar freundlich. </p><p>Gespenster können jederzeit sichtbar werden und Eindringlinge im Geisterkampf angreifen. Wenn ein Gespenst einen Feind auf 0 Magiepunkte reduziert, wird es von dem Opfer Besitz ergreifen. Auch wenn ein Gespenst von jemandem Besitz ergreift, bleibt es an seinen Standort gebunden und kann ihn nicht verlassen.</p><p>Die meisten Gespenster sind bösartig und hassen die Lebenden. Häufig sind sie wahnsinnig. Gespenster verfügen über INT, MAN und CHA.</p>"
+    },
+    "greenElf": {
+      "name": "Aldryami (Grünelf)",
+      "species": "Dendro sapien vronkalum",
+      "notes": "<h1>Hinweise zur Erschaffung</h1><ul>  <li>Wähle die Rune Erde oder Feuer/Himmel (Erde ist Standard)</li>  <li>Füge einen oder mehrere Kulte hinzu, siehe unten</li></ul><h1>Aldryami (Elfen)</h1><p>Das als Aldryami bekannte Volk besteht aus Elfen, Dryaden, Feen und Läufern. Sie gehören dem Pflanzenreich an. Im Wesentlichen sind Aldryami wandelnde Pflanzen und unterscheiden sich deutlich von anderen Humanoiden und Tieren.</p><p>Aldryami leben gewöhnlich in Waldgemeinschaften zusammen. Da alle behaupten, von der Göttin Aldrya abzustammen (und sie aktiv zu verehren), werden die Mitglieder dieser gemischten Waldgemeinschaften kollektiv nach ihr benannt&mdash;Aldryami.</p><p>Elfen gibt es in verschiedenen Rassen, die von den Menschen als Farben bezeichnet werden, abhängig von der Art des Waldes, in dem sie zu finden sind. Die Grünelfen sind in Nadelbäumen beheimatet, die Braunelfen in gemäßigten Laubwäldern, die Gelbelfen in tropischen Dschungeln und die Rotelfen in Farnen und anderen primitiven Pflanzen.</p><p>Die primäre Rune der Aldryami ist die Pflanzen-Form-Rune.</p><h1>Grünelfen</h1><p>Die Grünelfen, oder Vronkali, waren in der Großen Dunkelheit die wichtigste Elfenart, haben aber seitdem an Einfluss verloren. Grünelfen sind männlichen oder weiblichen Geschlechts und paaren sich nicht mit Dryaden. Sie schlafen im Winter nicht, sondern halten eine tägliche Ruhephase ein. Grünelfen sind mit Nadelwäldern verbunden. Sie bewohnen kühle, gemäßigte Gebiete. Im Schnee können sie mit geschnitzten magischen Holzschuhen Langlaufski laufen. In wärmeren Regionen teilen sie sich ihre Wälder oft mit Braunelfen. Ein Grünelf wiegt typischerweise etwa 65 Kilogramm und ist etwas über 170 cm groß.</p><p><strong>Besondere Anmerkungen</strong>: Wie die Trolle, ihre ewigen Feinde, sind Grünelfen gegenüber dem &ldquo;neuen Metall&rdquo; Eisen verwundbar und können es nicht ertragen. Beliebiger Schaden durch eine Eisenwaffe, die ihre Rüstung durchdringt, verursacht das Doppelte des normalen Schadens.</p><p><strong>Panzerung:</strong>&nbsp;Grünelfen haben keine natürliche Rüstung, tragen aber oft eine 2-Punkt-Rüstung aus behandelter Rinde oder anderen Pflanzenmaterialien. Sie tragen oft Umhänge aus Blättern, die ihre Verstecken-Fertigkeit in einem geeigneten Wald um +20% erhöhen. Sie ziehen es im Allgemeinen vor, auszuweichen, statt zu parieren. </p><p><strong>Fertigkeiten:</strong>&nbsp;Klettern 85%, Tarnen 45%, Ausweichen 65%, Elfensinn 55%, Elfenkunde 50%, Erste Hilfe 50%, Verstecken 50%, Hören 50%, Schleichen 50%, Pflanzenkunde 75%, Singen 55%, Ski 60%, Geisterkampf 55%, Spurenlesen 55%, Anbetung (Elfengottheit) 50%. </p><p><strong>Sprachen:</strong>&nbsp; Aldryami sprechen 50%, Handelssprache sprechen 15%. Leidenschaften: Hass (Mostali) 60%, Hass (Uz) 60%, Loyalität (Wald) 60%.</p><p><strong>Runen:</strong>&nbsp;Erde oder Feuer/Himmel 60%, Pflanze 75%. Spezielle Runenmagie: Pfeiltrance.</p><p><strong>Magie:</strong>&nbsp;Alle Elfen beten Aldrya an. Andere häufige Götter sind Babeester Gor, Chalana Arroy, Ernalda, Flamal und Yelmalio. Häufige Geisterzauber sind Heilen und Scharfschuss.</p>"
+    },
+    "horseSeredae": {
+      "name": "Pferd (Seredae)",
+      "species": "Equus caballus",
+      "notes": "<p>Hippogreif war das Lieblingskind von König Greif und ein Verbündeter des Prächtigen Yamsur, dem ältesten Sohn von Yelm. Der Prächtige Yamsur und Hippogreif hatten einen feierlichen Freundschaftsschwur geleistet, doch in mehreren Kämpfen wurde Hippogreif von ihrem einstigen Freund verletzt und im Stich gelassen.</p><p>Hippogreif musste während des Götterkriegs und der Großen Dunkelheit eine Reihe schmerzhafter und demütigender Erfahrungen machen. Zuerst traf sie in einer erbitterten Schlacht auf Sturmbulle, und ihre stolzen Reißzähne wurden ihr aus dem Mund gebrochen. In einem Kampf mit Maran Gor, der Erderschüttlerin, wurden Hippogreif die Beine gebrochen. Ihre bronzenen Klauen wurden ihr von den Füßen gerissen, aber Yamsur konnte sie durch Hufe ersetzen. Die größte Niederlage war, als Zorak Zoran ihr die goldenen Flügel abriss und ihr lachend die Möglichkeit nahm, jemals wieder in den Himmel zurückzukehren. Am demütigendsten aber war es, als dieses einst große Götterkind von einem Sterblichen, Hyalor Pferdebrecher, entführt und gebrochen wurde.</p><p>Hyalor war ein Anführer unter den Menschen und ein Gläubiger der längst verschwundenen Sonne. Er behauptete, von dem Prächtigen Yamsur abzustammen, der vom Teufel erschlagen wurde. Hyalor behauptete, er würde ihren verkrüppelten Geist vom Tod befreien und wolle mit ihr ein Bündnis eingehen. Er rettete sie, indem er ihren Namen und ihre Identität änderte. Doch der Mensch behielt die Oberhand. Sie wurde Hippoi genannt, oder einfach Pferd. Seit dieser Zeit haben ihre Nachkommen mehr für Menschen gearbeitet als diese für Pferde. Als die Sonne wieder aufging, war Hyalor bereit, ihn aufzunehmen, nachdem er die Finsternis durch großen Glauben und Mut überlebt hatte. Das Pferd, das bereits an die Sklaverei gewöhnt war, sprang auf seinen alten Herrn zu. Gemeinsam erlangten die beiden in der Morgendämmerung ein großes Vermögen, und ihre Herden und ihre Zahl wuchsen mit dem Segen von Yelm beträchtlich an.</p><p>Der Drachenpass ist die Heimat einiger der besten Pferdezüchter in Glorantha, der Ponyzüchter der Graslande. Für andere Völker sind Pferde wertvoll und ein Indikator für Reichtum. Pferde mit der Größe, Ausdauer und Geschicklichkeit eines trainierten Streitrosses sind rar gesät. Zudem sind sie recht teuer.</p><h1>Seredae</h1><p>Das in Peloria, Pent und Kralorela am weitesten verbreitete Pferd ist das zweithäufigste Pferd im Drachenpass. Es handelt sich um eine kleinwüchsige Rasse mit einer scheinbar grenzenlosen Farbvielfalt, die von edlem Schwarz und Weiß über gewöhnliche Fuchs- und Brauntöne bis hin zu Mischungen wie Grauschimmel und Schecke reicht. Die meisten haben eine Art Streifenmuster.</p><p><strong>Eigenschaften</strong>: Seredae haben normale Pferdeeigenschaften.</p><p><strong>Anmerkung</strong>: Das durchschnittliche Sered kann keinen schwer gepanzerten Krieger in die Schlacht tragen.</p><p><strong>Anmerkung</strong>: Ein Pferd kann in einer Kampfrunde einmal angreifen. Ein gerittenes nicht-kampferfahrenes Pferd führt normalerweise keine Angriffe für seinen Reiter aus, kann aber etwas angreifen, wodurch es direkt bedroht wird, wie z.B. eine Schlange.</p><p><strong>Rüstung</strong>: 1-Punkt-Haut.</p><p><strong>Fertigkeiten</strong>: Klettern 30%, Ausweichen 25%, Springen 75%, Hören 40%, Spähen 30%, Eindringlinge spüren 30%, Schwimmen 50%.</p>"
+    },
+    "humanBase": {
+      "name": "Mensch (Basis)",
+      "species": "Homo sapiens sapiens",
+      "notes": "<p><strong>Anmerkung:</strong>Dies ist eine Vorlage für einen Basis-Menschen, auf den keine &quot;Heimatkultur-Fertigkeitsboni&quot; angewendet werden. Siehe RQG S. 60-63. Um eine Vorlage für eine neue Heimat zu erstellen, kannst du diese Vorlage in deine Welt importieren, sie umbenennen und jede Fertigkeit mit einem Heimatkultur-Fertigkeitsbonus bearbeiten. Auf der Registerkarte Fertigkeitsdefinition des Fertigkeitsblattes änderst du die &quot;Basischance&quot;, um den Heimatkultur-Fertigkeitsbonus hinzuzufügen. Nun kannst du deine neue Vorlage duplizieren und sie umbenennen, um SCsoder NSCs aus dieser Region zu erstellen.</p><h1>Mensch</h1><p>Glorantha hat vier menschliche Hauptrassen und mehrere kleinere. In Glorantha gibt es eine Menge rassisch motivierter Vorurteile, Diskriminierung und Intoleranz, nichts davon mit beliebigerem Grund als der Rassismus auf der Erde. Allerdings ist die Kommunikation zwischen den Regionen in Glorantha begrenzt, und die meisten Menschen haben noch nie Menschen anderer Rassen als ihrer eigenen gesehen. Wenn jedoch mehrere Rassen dieselbe Region teilen, ist Rassismus mit all seinen hässlichen Gesichtern genau so wahrscheinlich wie auf der Erde. Einige grausame gloranthanische Kulturen versklaven sogar Menschen anderer Rassen.</p><p>Drei der vier wichtigsten menschlichen Rassen in Glorantha entsprechen in etwa den irdischen Entsprechungen, aber die vierte ist einzigartig.</p><ul><li>Agimori: eine dunkelhäutige Rasse, die in Pamaltela beheimatet ist.</li><li>Veldang: eine blauhäutige Rasse ohne irdische Entsprechung. Ihre Haut ist nicht hellblau, sondern schieferfarben. Die Veldang sind in Pamaltela beheimatet, wo sie in Zamokil und Fonrit zu finden sind.</li><li>Vithelaner: Sie ähneln den Ostasiaten der Erde. Sie bewohnen die Östlichen Inseln, Kralorela, Teshnos und Vormain.</li><li>Wareran: eine hell- bis olivhäutige Rasse, die den größten Teil Genertelas und Umathela in Pamaltela bewohnt.</li></ul><p>Es gibt noch weitere kleinere menschliche oder halb-menschliche Rassen, darunter die grünhäutigen amphibischen Waertagi, Pygmäen in Pamaltela und Prax und das Volk der Teleono, das eine von sechs Farben hat. Die Anwesenheit von nicht-menschlichen und halb-menschlichen Wesen in Glorantha kann zu interessanten Vermutungen führen. Eine Person, die zum ersten Mal einem Menschen einer anderen Rasse begegnet, könnte unter Umständen annehmen, dass es sich um ein Wesen einer ganz anderen Spezies handelt, was Misstrauen und Furcht noch verstärken kann.</p>"
+    },
+    "humanSartarite": {
+      "name": "Mensch (Sartarite)",
+      "species": "Homo sapiens sapiens",
+      "notes": "<p><strong>Anmerkung:</strong>Dies ist eine Vorlage für einen Menschen, der die &quot;Heimatkultur-Fertigkeitsboni&quot;, den Bonus auf die Luftrune und die Leidenschaften für Sartar angewendet hat. Siehe RQG S. 60-63. Importiere diese Vorlage in deine Welt und du kannst sie duplizieren und umbenennen, um sartarische SCs oder NSCs zu bestehen.</p><p><strong>Hinweis:</strong>Dieser hat einen Bonus auf die Grundfertigkeit für Kompositbogen und Schleudern.  Bitte entferne einen davon.</p><h1>Mensch (Sartarite)</h1><p>Sartar ist die Standardheimat für Abenteurer, ein Gebirgskönigreich, das aus sturmverehrenden Bergstämmen besteht, die durch das Königshaus von Sartar vereint sind. Sartar hat sich kürzlich vom Lunaren Imperium befreit und damit die Heldenkriege begonnen. Es wird von Kallyr Sternenbraue regiert und ist eine Hochburg für magische Questen, unbedeutende Fehden und angehende Helden.</p><p>Andere betrachten die Sartariten als streitsüchtig, rücksichtslos und äußerst unabhängig. Die Mehrheit verehrt Orlanth und Ernalda und hasst das Lunare Imperium mit glühender Leidenschaft.</p>"
+    },
+    "mostali": {
+      "name": "Mostali (Zwerg)",
+      "species": "Mostali lithanthropus",
+      "notes": "<p>Die Mostali, auch Zwerge genannt, behaupten, von Mostal dem Erschaffer abzustammen, einer urzeitlichen Gottheit, die die Welt erschaffen haben soll. Die Zwerge haben eine lange und uralte Geschichte, die der Menschheit größtenteils unbekannt ist. Sie sind pragmatisch und stoisch, zufrieden mit praktischen Dingen und haben keine Angst vor harter Arbeit. Ihre harte Religion bietet ihnen persönliche Unsterblichkeit. Die offizielle Religion der Zwerge ist eine begrenzte, aber praktische Art der Zauberei.</p><p>Die Mostali befinden sich im ewigen Krieg mit den Elfen (seit dem frühen Götterkrieg) und sind keine Freunde der Trolle. Die Feindschaft zwischen Elfen und Zwergen ist älter als die heutige Form beider Spezies und reicht bis zu ihrer Erschaffung zurück. Die Beziehungen der Zwerge zu anderen intelligenten Wesen sind stets von gegenseitigem Misstrauen geprägt.</p><p>Die Zwerge sind in verschiedene berufliche Kasten eingeteilt, die sich oft wie verschiedene Arten verhalten. Nur die Soldatenkaste - die Eisenzwerge - wird regelmäßig außerhalb ihrer unterirdischen Städte gesehen. Die eiserne Disziplin und unnachgiebige Haltung der Zwergenkultur ist in ihrer Strenge unmenschlich. Den meisten Menschen ist es unmöglich, ihre maschinenhafte Geisteshaltung zu verstehen. Anscheinend können das aber auch viele Zwerge nicht, denn es gibt eine hohe Zahl von Desertionen aus den Reihen der Zwerge. Sie werden von den konventionellen Zwergen als Ketzer betrachtet und bilden mancherorts ganze Gemeinschaften.</p><p>Die Mostali entdeckten als erste das Eisen und erlernten auch als erste dessen Verarbeitung. Sie haben viele verschiedene Konstrukte geschaffen, die ihnen helfen, von Wasserspeiern und den Steinriesen, die Jolanti genannt werden, bis hin zu noch exotischeren Konstrukten wie dem Alchemistischen Transformator und dem Kanonenkult.</p><p><strong>Rüstung</strong>: Unverzaubertes schweres Zwergen-Eisen-Kettenhemd (9 Pkt.) und Vollhelm (9 Pkt.). Der Zwerg hat eine 70%ige Chance, von beliebigen Zaubern, die auf ihn gewirkt werden, unberührt zu bleiben.</p><p><strong>Fähigkeiten</strong>: Handwerk (Eisen) 65%, Ausweichen 35%, Erdsinn-Spähen50%, Erdsinn-Suchen 50%, Mineralkunde 35%.</p><p><strong>Sprachen</strong>: Mostali sprechen 50%, Mostali lesen/schreiben 50%.</p><p><strong>Leidenschaften</strong>: Hingabe (Kastenpflichten) 60%, Hass (Aldryami) 60%, Hass (Uz) 60%.</p><p><strong>Runen</strong>: Alle Zwerge haben die Erd- und Stasis-Runen zu 80% oder höher.</p><p><strong>Magie</strong>: Bei Zwergen wird Zwergenzauberei eingesetzt (siehe [Glorantha-Bestiarium (https://www.chaosium.com/runequest-glorantha-bestiary-hardcover/)]). Ein Eisenzwerg, der eine unverzauberte Rüstung trägt, kann im Kampf nicht zaubern.</p><p><strong>Veränderte Eisenwaffen</strong>: Der Schaden gegen einen Elf oder Troll, der dessen Rüstung durchdringt, wird verdoppelt. Kann Kreaturen verletzen, die gegen gewöhnliche Waffen immun sind.</p><p><strong>Hinweis</strong>: Die Zwergenarmbrust ist eine Repetierwaffe. Sie feuert einmal pro Runde, ohne nachladen zu müssen, bis alle fünf Bolzen im Magazin verbraucht sind. Es dauert drei Runden, um das Magazin wieder zu laden.<p>"
+    },
+    "shadowcat": {
+      "name": "Schattenkatze",
+      "species": "Lynx umbrosus",
+      "notes": "<p>Schattenkatzen sind dunkel gefärbte Katzen, die von der Größe einer Hauskatze bis zu der eines Luchses reichen. Sie sind sehr schnell und leise und werden auch als Schimmerkatzen bezeichnet, weil sie extrem schwer zu treffen sind.</p><p>Schattenkatzen sind gesellige Tiere, die in Gruppen jagen, die ihre Beute aus verschiedenen Richtungen einkesseln. Die Orlanthi haben sie domestiziert, um ihr Vieh zu hüten und zu jagen. Sie greifen selten Menschen oder andere große Raubtiere an. Wenn sie jedoch in die Enge getrieben oder bedroht werden, greifen sie heftig an, indem sie auf einen Feind springen und ihn mit den Vorderpfoten festhalten, während sie gleichzeitig zubeißen und mit beiden Hinterbeinen reißen.</p><p>Im Drachenpass werden Schattenkatzen auch Alynxe genannt. Alle sind Orlanth heilig.</p><strong>Rüstung</strong>: Keine. <p><strong>Fertigkeiten</strong>: Ausweichen 50%, Verstecken 75%, Schleichen 90%.</p><p><strong>Anmerkung</strong>: Eine Schattenkatze greift zunächst mit beiden Krallen und ihrem Biss gleichzeitig an. Wenn beide Krallen treffen, hält sich die Schattenkatze fest und reißt in der nächsten Runde mit den hinteren Krallen, während sie weiter zubeißt.</p>"
+    },
+    "tusker": {
+      "name": "Keiler",
+      "species": "Sus paracaballus",
+      "notes": "<p>Keiler sind gigantische Wildschweine, so groß wie Büffel, die ausschließlich von Keilerreitern geritten werden. Diese Tiere sind wild und jähzornig, aber sie lieben ihre Herren über alle Maßen.</p><p><strong>Panzerung:</strong> 4-Punkt-Haut. </p><p><strong>Fertigkeiten</strong>: Spurenlesen durch Geruch 50%.</p><p><strong>Anmerkung</strong>: Ein Keiler kann nicht den gleichen Gegner innerhalb einer Kampfrunde aufspießen und zertrampeln.</p>"
+    },
+    "uzko": {
+      "name": "Uzko (Dunkeltroll)",
+      "species": "Styganthropus uzko",
+      "notes": "<h1>Uz (Trolle)</h1><p>Trolle sind im Wesentlichen eine in den Bergen lebende Rasse, die sich in ständigem Krieg mit Elfen und Zwergen befindet und mit den Menschen umgeht, wie es die Umstände erfordern. Während des Götterkrieges und seit der Morgendämmerung war die Ausbreitung der Trolle so groß, dass mehrere verschiedene Rassen entstanden sind, sowie eine blasphemische Kreuzung mit den Menschen, die Keilerreiter. Alle Trolle haben eine Abneigung gegen Eisen, das &quot;giftige Metall&quot; sie weigern sich, es anzufassen und erleiden doppelten Schaden durch Waffen, die daraus geschmiedet wurden.</p><p>Die Trolle nennen sich selbst Uz, ein Wort, das mit &quot;das Volk&quot; übersetzt werden kann; genauer genommen ist Uz der lebende Teil von Kyger Litor, die auch die Inkarnation des gesamten Trolltums ist. Uz ist ein weltliches Anhängsel der großen Göttin der Dunkelheit, die noch weitere Macht in ihren eigenen Welten außerhalb der Reichweite von Uz hat.</p><p><h1>Dunkeltrolle (Uzko) </h1><p>Dunkeltrolle sind der heutige Hauptstamm der Uz und rangieren nur hinter den Mutterrassentrollen, was Autoritätspositionen angeht. Sie sind uneingeschränkt intelligent und können alle Waffen und Magie einsetzen. Ihr Dunkelsinn ist nicht so gut wie der der Mutterrasse, aber zum Ausgleich haben sie Augen, die - obwohl sie weitsichtig und farbenblind sind - in offenen Räumen, Höhen und Tiefen nützlich sind.</p><p>Sie haben einen Geruchssinn, der dem der Mutterrasse weit überlegen ist. Die weiblichen Dunkeltrolle haben in der Regel zwei Brüste. In alten Zeiten, vor dem Nachkommensfluch, brachten weibliche Dunkeltrolle gelegentlich Zwillinge oder Drillinge zur Welt. Seit dem Trollingfluch sind n alle Mehrlingsgeburten Trolllinge.</p><p>Ungefähr 30 % jeder gewöhnlichen Trollgemeinschaft besteht aus Dunkeltrollen, der Rest aus Trolllingen und einer kleinen Anzahl von Großen Trollen. Viele wilde Trollfamilien bestehen nur aus Dunkeltrollen. Sowohl Große Trolle als auch Trollinge werden von Dunkeltrollmüttern geboren, wobei dies umgekehrt nicht der Fall ist.</p><p>Ein durchschnittlicher männlicher Dunkeltroll ist 185-190 Zentimeter groß und wiegt etwa 130 Kilogramm. Das durchschnittliche Weibchen ist etwas größer, 190-195 Zentimeter groß und wiegt etwa 155 Kilogramm. Sie sind stärker als Menschen und neigen dazu, mit schweren Keulen und Streitkolben zu kämpfen, nachdem sie aus dem Schatten heraus mit Schleudern einen Hinterhalt gelegt haben.</p><p>Die hier angegebenen Eigenschaften beziehen sich auf männliche Dunkeltrolle. Die Weibchen, die ihre Behausungen selten verlassen müssen, haben 3W6+10 GRÖ.</p><p><strong>Rüstung</strong>: 1-Punkt-Haut. Kann beliebige Rüstung tragen, die Trefferzonen-Tabelle geht von einem leichten Schuppenpanzer (4 Pkt.), Beinschienen und Armschienen aus gehärtetem Leder (je 3 Pkt.) und einem offenen Helm (4 Pkt.) aus.</p><p><strong>Fertigkeiten</strong>: Klettern 40%, Dunkelsinn Spähen 45%, Dunkelsinn Suchen 35%, Ausweichen 35%, Verstecken 40%, Einschüchtern 35%, Springen 40%, Lauschen 40%, Schleichen 40%, Geisterkampf 40%. </p><p><strong>Sprachen</strong>: Dunkelsprache sprechen 50%.</p><p><strong>Leidenschaften</strong>: Hass (Aldryami) 60%, Hass (Mostali) 60%, Liebe (Familie) 60%, Loyalität (Matriarchin) 60%.</p><p><strong>Runen</strong>: Alle Trolle verfügen über die Dunkelheits-Rune zu mindestens 60%.</p><p><strong>Spezielle Runenmagie</strong>: Wie der Kult.</p><p><strong>Magie</strong>: Dunkeltrolle verehren ein Pantheon von Dunkelheits-Gottheiten, welches von Kyger Litor regiert wird. Zorak Zoran ist ein wichtiger Kriegsgott für die Trolle. Sie haben Zugang zu allen Arten von Magie, obwohl die meisten Trolle nur über Runen- und Geistermagie verfügen.</p>"
+    },
+    "wolf": {
+      "name": "Wolf",
+      "species": "Canis lupus",
+      "notes": "<p>Wölfe jagen in Rudeln von weniger als einem Dutzend Individuen bis hin zu 40 oder mehr. Wenn bei einem Kampf zu viele Wölfe verwundet oder getötet werden, zieht sich das Rudel zurück, es sei denn, es ist ausgehungert. Wölfe kämpfen im Verbund. Es kann vorkommen, dass mehrere Wölfe dasselbe Ziel angreifen, um sicherzustellen, dass den meisten Angriffen nicht ausgewichen werden kann oder sie pariert werden müssen. Auch können ein oder zwei große Wölfe versuchen, das Ziel zu Fall zu bringen - sobald es hinfällt, stürzen sich andere Wölfe auf das Ziel.</p><p><strong>Rüstung</strong>: 2-Punkt-Fell. </p><p><strong>Fertigkeiten</strong>: Ausweichen 30%, Suchen 60%, Spurenlesen 80%.</p>"
+    }
+  }
+}
